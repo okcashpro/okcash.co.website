@@ -16,8 +16,8 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/ico/apple-touch-icon-72-precomposed.png">
 <link rel="apple-touch-icon-precomposed" href="img/ico/apple-touch-icon-57-precomposed.png">
 		<!-- Meta Description -->
-        <meta name="description" content="Open Source Digital Cash, Okcash, Bitcoin, Litecoin, Dogecoin, Cryptocurrency, Altcoins, Crypto, Future, Digital Cash">
-        <meta name="keywords" content="okcash, bitcoin, ok, btc, cryptocurrency, crypto">
+        <meta name="description" content="Open Source Digital Cash, Okcash.">
+        <meta name="keywords" content="okcash, bitcoin, okbtc, cryptocurrency, crypto, Litecoin, Dogecoin, Cryptocurrency, Altcoins, Digital Cash">
         <meta name="author" content="Okcash community">
 		<!-- Mobile Specific Meta -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -289,9 +289,9 @@
 				<figure class="mix work-item logo-design">
 					<img src="img/resources/item-3.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="Cryptopia - New Zealand" href="https://www.cryptopia.co.nz/Exchange?id=1298" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Cryptopia</h3>
-						<p>New Zealand</p></a>
+						<a class="fancybox" rel="exchanges" title="SimpleSwap - United Kingdom" href="https://simpleswap.io/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>SimpleSwap</h3>
+						<p>United Kingdom</p></a>
 					</figcaption>
 				</figure>
 				
@@ -591,7 +591,7 @@ $totalcoins = $json1;
 								<li><a href="https://coinmarketcap.com/currencies/okcash/" target="_blank">Okcash on Coinmarketcap</a></li>
 								<li><a href="https://okcashtalk.org" target="_blank">Okcash Forums</a></li>
 								<li><a href="https://okcash.org" target="_blank">Okcash.org</a></li>
-								<li><a href="https://okcash.info" target="_blank">Okcash.info</a></li>
+								
 								
 							</ul>
 						</div>
