@@ -325,9 +325,9 @@
 				<figure class="mix work-item logo-design">
 					<img src="img/resources/item-7.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="TradeSatoshi - United Kingdom" href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Trade Satoshi</h3>
-						<p>United Kingdom</p></a>
+						<a class="fancybox" rel="exchanges" title="CoinSwitch - India" href="https://coinswitch.co" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>CoinSwitch</h3>
+						<p>India</p></a>
 					</figcaption>
 				</figure>
 				
