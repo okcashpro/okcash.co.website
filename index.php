@@ -268,7 +268,7 @@
 			
 			<div class="project-wrapper">
 			
-				<figure class="mix work-item branding">
+				<figure class="mix work-item web">
 					<img src="img/resources/item-1.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="exchanges" title="Bittrex - United States" href="https://www.bittrex.com/Market/Index?MarketName=BTC-OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
@@ -286,7 +286,7 @@
 					</figcaption>
 				</figure>
 				
-				<figure class="mix work-item logo-design">
+				<figure class="mix work-item web">
 					<img src="img/resources/item-3.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="exchanges" title="SimpleSwap - United Kingdom" href="https://simpleswap.io/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
@@ -295,7 +295,7 @@
 					</figcaption>
 				</figure>
 				
-				<figure class="mix work-item photography">
+				<figure class="mix work-item web">
 					<img src="img/resources/item-4.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="exchanges" title="Bleutrade - Malta" href="https://bleutrade.com/en/trade/basic/OK/BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
@@ -304,7 +304,7 @@
 					</figcaption>
 				</figure>
 			
-				<figure class="mix work-item branding">
+				<figure class="mix work-item web">
 					<img src="img/resources/item-5.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="exchanges" title="NovaExchange - Sweden" href="https://novaexchange.com/market/BTC_OK/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
@@ -322,8 +322,26 @@
 					</figcaption>
 				</figure>
 				
-				<figure class="mix work-item logo-design">
+				<figure class="mix work-item web">
 					<img src="img/resources/item-7.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="TradeSatoshi - United Kingdom" href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>Trade Satoshi</h3>
+						<p>United Kingdom</p></a>
+					</figcaption>
+				</figure>
+								
+				<figure class="mix work-item web">
+					<img src="img/resources/item-8.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="UpBit - South Korea" href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>UpBit</h3>
+						<p>South Korea</p></a>
+					</figcaption>
+				</figure>
+				
+				<figure class="mix work-item web">
+					<img src="img/resources/item-9.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="exchanges" title="CoinSwitch - India" href="https://coinswitch.co" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
 						<h3>CoinSwitch</h3>
@@ -331,12 +349,21 @@
 					</figcaption>
 				</figure>
 				
-				<figure class="mix work-item photography">
-					<img src="img/resources/item-8.jpg" alt="">
+				<figure class="mix work-item web">
+					<img src="img/resources/item-10.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="UpBit - South Korea" href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>UpBit</h3>
-						<p>South Korea</p></a>
+						<a class="fancybox" rel="exchanges" title="Knaken - Netherlands" href="https://knaken.eu/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>Knaken</h3>
+						<p>Netherlands</p></a>
+					</figcaption>
+				</figure>
+				
+				<figure class="mix work-item web">
+					<img src="img/resources/item-11.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="BitLadon - Netherlands" href="https://www.bitladon.com/okcash" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>BitLadon</h3>
+						<p>Netherlands</p></a>
 					</figcaption>
 				</figure>
 				
