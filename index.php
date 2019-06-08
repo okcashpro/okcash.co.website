@@ -190,8 +190,10 @@
 							</div>
 							
 							<div class="service-desc">
-								<h3>Info Website</h3>
-								<p>Learn more about Okcash [OK] over the info website at: </p> <a href="https://okcash.org" target="_blank"><h4>okcash.org</h4></a>
+								<h3>OK Website</h3>
+								<p>Learn more about Okcash [OK] over the main website at: </p> <a href="https://okcash.org" target="_blank"><h4>okcash.org</h4></a>
+								</br><h3>OK Blockchain explorer</h3>
+								<a href="https://chainz.cryptoid.info/ok/" target="_blank"><h4>chainz.cryptoid.info/ok/</h4></a>
 							</div>
 						</div>
 					</div>
@@ -509,7 +511,7 @@ $nonady = $json3["nonzero"];
 ?>
 								<strong data-to="<?php echo $nonady; ?>">0</strong>
 								<!-- Set Your Number here. i,e. data-to="56" -->
-								<p>Addresses holding more than 1000 OK coins</p>
+								<p>Addresses holding OK coins</p>
 							</div>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
