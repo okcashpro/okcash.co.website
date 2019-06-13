@@ -192,7 +192,7 @@
 							<div class="service-desc">
 								<h3>OK Website</h3>
 								<p>Learn more about Okcash [OK] over the main website at: </p> <a href="https://okcash.org" target="_blank"><h4>okcash.org</h4></a>
-								</br><h3>OK Blockchain explorer</h3>
+								</br></br><h3>OK Blockchain explorer</h3>
 								<a href="https://chainz.cryptoid.info/ok/" target="_blank"><h4>chainz.cryptoid.info/ok/</h4></a>
 							</div>
 						</div>
@@ -247,12 +247,12 @@
 				<div class="row">
 				
 					<div class="sec-title text-center">
-						<h2>Exchanges</h2>
+						<h2>Okcash / Bitcoin Exchanges</h2>
 						<div class="devider"><i class="far fa-star fa-lg"></i></div>
 					</div>
 					
 					<div class="sec-sub-title text-center">
-						<p>Okcash / Bitcoin Exchanges</p>
+						
 					</div>
 					
 					<div class="work-filter wow fadeInRight animated" data-wow-duration="500ms">
@@ -280,6 +280,15 @@
 				</figure>
 				
 				<figure class="mix work-item web">
+					<img src="img/resources/item-8.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="UpBit - South Korea" href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>UpBit</h3>
+						<p>South Korea</p></a>
+					</figcaption>
+				</figure>
+				
+				<figure class="mix work-item web">
 					<img src="img/resources/item-2.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="exchanges" title="LiteBit EU - Netherlands" href="https://www.litebit.eu/en/buy/okcash" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
@@ -289,20 +298,47 @@
 				</figure>
 				
 				<figure class="mix work-item web">
-					<img src="img/resources/item-3.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="SimpleSwap - United Kingdom" href="https://simpleswap.io/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>SimpleSwap</h3>
-						<p>United Kingdom</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
 					<img src="img/resources/item-4.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="exchanges" title="Bleutrade - Malta" href="https://bleutrade.com/en/trade/basic/OK/BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
 						<h3>Bleutrade</h3>
 						<p>Malta</p></a>
+					</figcaption>
+				</figure>
+				
+				<figure class="mix work-item web">
+					<img src="img/resources/item-13.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="Crex24 - Estonia" href="https://crex24.com/exchange/OK-BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>Crex24</h3>
+						<p>Estonia</p></a>
+					</figcaption>
+				</figure>
+				
+				<figure class="mix work-item web">
+					<img src="img/resources/item-7.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="TradeSatoshi - United Kingdom" href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>Trade Satoshi</h3>
+						<p>United Kingdom</p></a>
+					</figcaption>
+				</figure>
+				
+				<figure class="mix work-item web">
+					<img src="img/resources/item-12.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="ChangeNow - Netherlands" href="https://changenow.io/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>ChangeNow</h3>
+						<p>Netherlands</p></a>
+					</figcaption>
+				</figure>
+				
+				<figure class="mix work-item web">
+					<img src="img/resources/item-6.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="BTCpop - United Kingdom" href="https://btcpop.co/Exchange/OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>BTCpop</h3>
+						<p>United Kingdom</p></a>
 					</figcaption>
 				</figure>
 			
@@ -316,38 +352,11 @@
 				</figure>
 				
 				<figure class="mix work-item web">
-					<img src="img/resources/item-6.jpg" alt="">
+					<img src="img/resources/item-3.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="BTCpop - United Kingdom" href="https://btcpop.co/Exchange/OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>BTCpop</h3>
+						<a class="fancybox" rel="exchanges" title="SimpleSwap - United Kingdom" href="https://simpleswap.io/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>SimpleSwap</h3>
 						<p>United Kingdom</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-7.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="TradeSatoshi - United Kingdom" href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Trade Satoshi</h3>
-						<p>United Kingdom</p></a>
-					</figcaption>
-				</figure>
-								
-				<figure class="mix work-item web">
-					<img src="img/resources/item-8.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="UpBit - South Korea" href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>UpBit</h3>
-						<p>South Korea</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-9.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="CoinSwitch - India" href="https://coinswitch.co" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>CoinSwitch</h3>
-						<p>India</p></a>
 					</figcaption>
 				</figure>
 				
@@ -368,6 +377,16 @@
 						<p>Netherlands</p></a>
 					</figcaption>
 				</figure>
+				
+				<figure class="mix work-item web">
+					<img src="img/resources/item-9.jpg" alt="">
+					<figcaption class="overlay">
+						<a class="fancybox" rel="exchanges" title="CoinSwitch - India" href="https://coinswitch.co" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
+						<h3>CoinSwitch</h3>
+						<p>India</p></a>
+					</figcaption>
+				</figure>
+				
 				
 			</div>
 		
