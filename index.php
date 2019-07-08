@@ -5,6 +5,14 @@
 	<meta name="author" content="OK">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, energy friendly, and free from bank fees.">
+	<meta property="og:image" content="https://okcash.co/images/okcash-ok.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="900">
+	<meta property="og:image:height" content="450">
+	<meta property="og:type" content="website" />
+    <meta property="og:url" content="https://okcash.co/"/>
+    <meta property="og:title" content="Okcash • Energy friendly open source digital cash" />
+    <meta property="og:description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, energy friendly, and free from bank fees." />
 	<link rel="shortcut icon" href="images/favicon.png">
 	<title>Okcash • Energy friendly open source digital cash</title>
 	<link rel="stylesheet" href="assets/css/main.bundle.css?ver=143">
@@ -289,7 +297,7 @@ $totalcoins = $json1;
 				</div><!-- .col  -->
 				<div class="col-lg-5 offset-lg-1">
 					<div class="countdown-box text-center animated" data-animate="fadeInUp" data-delay=".3">
-						<p>Aprox. ETA for <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Drop</a></p>
+						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Drop</a></p>
 						<div class="token-countdown d-flex align-content-stretch" data-date="2020/06/28"></div>
 						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute with Okcash Development</a>
 						<ul class="icon-list">
