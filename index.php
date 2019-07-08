@@ -1,511 +1,309 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
-    <head>
-    	<!-- meta charec set -->
-        <meta charset="utf-8">
-		<!-- Always force latest IE rendering engine or request Chrome Frame -->
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<!-- Page Title -->
-        <title>Okcash - The Future of Cash - Fast, Simple, Sustainable and Friendly to the Environment</title>		
-		<link rel="shortcut icon" href="img/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/ico/apple-touch-icon-72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="img/ico/apple-touch-icon-57-precomposed.png">
-		<!-- Meta Description -->
-        <meta name="description" content="Open Source Digital Cash, Okcash.">
-        <meta name="keywords" content="okcash, bitcoin, okbtc, cryptocurrency, crypto, Litecoin, Dogecoin, Cryptocurrency, Altcoins, Digital Cash">
-        <meta name="author" content="Okcash community">
-		<!-- Mobile Specific Meta -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-		
-		<!-- Google Font -->
-		
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-		<!-- CSS
-		================================================== -->
-		<!-- Fontawesome Icon font 
-        <link rel="stylesheet" href="css/font-awesome.min.css"> -->
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-		<!-- Twitter Bootstrap css -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-		<!-- jquery.fancybox  -->
-        <link rel="stylesheet" href="css/jquery.fancybox.css">
-		<!-- animate -->
-        <link rel="stylesheet" href="css/animate.css">
-		<!-- Main Stylesheet -->
-        <link rel="stylesheet" href="css/main.css">
-		<!-- media-queries -->
-        <link rel="stylesheet" href="css/media-queries.css">
-
-		<!-- Modernizer Script for old Browsers -->
-        <script src="js/modernizr-2.6.2.min.js"></script>
-
-    </head>
+<html lang="eng" class="js">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="OK">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, energy friendly, and free from bank fees.">
+	<link rel="shortcut icon" href="images/favicon.png">
+	<title>Okcash • Energy friendly open source digital cash</title>
+	<link rel="stylesheet" href="assets/css/main.bundle.css?ver=143">
+	<!-- Custom styles for this template -->
+	<link rel="stylesheet" href="assets/css/style.css?ver=143">
+	<link rel="stylesheet" href="assets/css/theme.css?ver=143">
 	
-    <body id="body">
-	
-	
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140324215-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+</head>
 
-  gtag('config', 'UA-140324215-1');
-</script>
+<body class="theme-dark is-smooth-effect" data-spy="scroll" data-target="#mainnav" data-offset="80">
 
-	
-		<!-- preloader -->
-		<div id="preloader">
-			<img src="img/preloader.gif" alt="Preloader">
+	<!-- Header --> 
+	<header class="site-header is-sticky">
+
+		<!-- Place Particle Js -->
+		<div id="particles-js" class="particles-container particles-js"></div>
+
+		<!-- Navbar -->
+		<div class="navbar navbar-expand-lg is-transparent" id="mainnav">
+			<nav class="container">
+				<a class="navbar-brand animated" data-animate="fadeInDown" data-delay=".65" href="./">
+					<img class="logo logo-dark" alt="logo" src="images/logo.png" srcset="images/logo2x.png 2x">
+					<img class="logo logo-light" alt="logo" src="images/logo-white.png" srcset="images/logo-white2x.png 2x">
+				</a>
+
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle">
+					<span class="navbar-toggler-icon">
+						<span class="ti ti-align-justify"></span>
+					</span>
+				</button>
+
+				<div class="collapse navbar-collapse justify-content-end" id="navbarToggle">
+					<ul class="navbar-nav animated" data-animate="fadeInDown" data-delay=".9">
+						<li class="nav-item"><a class="nav-link menu-link" href="#what-is-okcash">What is Okcash<span class="sr-only">(current)</span></a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#opensource">OS</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#roadmap">Roadmap</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#supporters">Supporters</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#participate">Participate</a></li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">MORE</a>
+							<div class="dropdown-menu">
+								<a class="dropdown-item menu-link" href="#exchanges">Exchanges</a>
+								<a class="dropdown-item menu-link" href="#stats">OK Info + Stats</a>
+								<a class="dropdown-item menu-link" href="#worldwide">Worldwide Stats</a>
+								<a class="dropdown-item menu-link" href="#faq">Frequently AQ</a>
+								<a class="dropdown-item menu-link" href="#ok-voluntaries">OK voluntaries</a>
+								<a class="dropdown-item menu-link" href="#sharing">Sharing is caring</a>
+							</div>
+						</li>
+					</ul>
+					<ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://chainz.cryptoid.info/ok/" target="_blank">OK explorer</a></li>
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Free Download</a></li>
+					</ul>
+				</div>
+			</nav>
 		</div>
-		<!-- end preloader -->
+		<!-- End Navbar -->
 
-        <!-- 
-        Fixed Navigation
-        ==================================== -->
-        <header id="navigation" class="navbar-fixed-top navbar">
-            <div class="container">
-                <div class="navbar-header">
-                    <!-- responsive nav button -->
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <i class="fa fa-bars fa-2x"></i>
-                    </button>
-					<!-- /responsive nav button -->
-					
-					<!-- logo -->
-                    <a class="navbar-brand" href="#">
-						<h1 id="logo">
-							<img src="img/logo.png" alt="Okcash">
-						</h1>
-					</a>
-					<!-- /logo -->
-                </div>
-
-				<!-- main nav -->
-                <nav class="collapse navbar-collapse navbar-right" role="navigation">
-                    <ul id="nav" class="nav navbar-nav">
-                        <li class="current"><a href="#">OK</a></li>
-                        <li><a href="#opensource">Open Source</a></li>
-                        <li><a href="#exchanges">Exchanges</a></li>
-                        <li><a href="#download">Download</a></li>
-						<li><a href="#facts">Stats</a></li>
-						<li><a href="#join">Join</a></li>
-                    </ul>
-                </nav>
-				<!-- /main nav -->
-				
-            </div>
-        </header>
-        <!--
-        End Fixed Navigation
-        ==================================== -->
-		
-		
-		
-        <!--
-        Home Slider
-        ==================================== -->
-		
-		<section id="slider">
-			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-			
-				<!-- Indicators bullet -->
-				<ol class="carousel-indicators">
-					<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-					<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-				</ol>
-				<!-- End Indicators bullet -->				
-				
-				<!-- Wrapper for slides -->
-				<div class="carousel-inner" role="listbox">
-					
-					<!-- single slide -->
-					<div class="item active" style="background-image: url(img/banner.jpg);">
-						<div class="carousel-caption">
-							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">Welcome<span> to the Future</span>!</h2>
-							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/okcash</span> cryptocurrency.</h3>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">The Future of Cash</p>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">Sustainable / Micro-payments</p>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">Fast (Instant) transactions </p>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">Decentralized secure network</p>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">Environment & User friendly, Lowest fees</p>
-							
-							    <ul class="social-links text-center">
-								<li><a href="https://okcash.io" target="_blank"><i class="far fa-thumbs-up fa-lg"></i></a></li>
-								<li><a href="https://okcash.org" target="_blank"><i class="fas fa-heartbeat fa-lg"></i></a></li>
-								<li><a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><i class="fab fa-bitcoin fa-lg"></i></a></li>
-							<!-- 	<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>  -->
-							</ul> 
-						</div>
-					</div>
-					<!-- end single slide -->
-					
-					<!-- single slide -->
-					<div class="item" style="background-image: url(img/banner.jpg);">
-						<div class="carousel-caption">
-							<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated">The Best<span> Bitcoin partner</span>!</h2>
-							<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/okcash</span> - The Bitcoin grandson.</h3>
-							<p data-wow-duration="500ms" class="wow slideInRight animated">Sharing Economy • Decentralize Everything and Empower Everyone</p>
-							
-							
-						</div>
-					</div>
-					<!-- end single slide -->
-					
-				</div>
-				<!-- End Wrapper for slides -->
-				
-			</div>
-		</section>
-		
-        <!--
-        End Home SliderEnd
-        ==================================== -->
-		
-        <!--
-        Open Source
-        ==================================== -->
-		
-		<section id="opensource" class="opensource">
+		<!-- Banner/Slider -->
+		<div id="header" class="banner banner-curb banner-particle d-flex align-items-center">
 			<div class="container">
-				<div class="row">
-				
-					<div class="sec-title text-center mb50 wow bounceInDown animated" data-wow-duration="500ms">
-						<h2>Open Source</h2>
-						<div class="devider"><i class="far fa-star fa-lg"></i></div>
-					</div>
+				<div class="banner-content">
+					<div class="row align-items-center mobile-center">
+						<div class="col-lg-6 col-md-12 order-lg-first">
+							<div class="header-txt">
+								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">Okcash • The Proof of Stake Bitcoin</h1>
+								<p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">Micro Transactions • Speed • Efficiency • Security<br/>Decentralize Everything and Empower Everyone</p>
+								<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">
+									<li><a href="https://okcash.org/" target="_blank" class="btn">Learn more at Okcash.org</a></li>
+									<li><a href="https://bitcoinfullnode.org/" target="_blank" class="btn btn-alt">Visit BitcoinFullnode.org</a></li>
+								</ul>
+								<ul class="social">
+									<li class="animated" data-animate="fadeInUp" data-delay="1.85"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.9"><a href="https://twitter.com/search?q=okcash" target="_blank"><em class="fab fa-twitter"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.95"><a href="https://www.reddit.com/r/OKcash/" target="_blank"><em class="fab fa-reddit"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="2"><a href="https://github.com/okcashpro/okcash" target="_blank"><em class="fab fa-github"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="2.05"><a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="2.15"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
+								</ul>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-lg-6 col-md-12 order-first">
+							<div class="header-image animated" data-animate="fadeInRight" data-delay="1.25">
+								<img src="images/header-ok-btc-network.png" alt="header">
+								<img class="header-image-icon left-icon" src="images/okcash-icon-a.png" alt="header-icon">
+								<img class="header-image-icon right-icon" src="images/bitcoin-icon-b.png" alt="header-icon">
+							</div>
+						</div><!-- .col  -->
+					</div><!-- .row  -->
+				</div><!-- .banner-content  -->
+			</div><!-- .container  -->
+		</div>
+		<!-- End Banner/Slider -->
+	</header>
+	<!-- End Header -->
 
-					<!-- service item -->
-					<div class="col-md-4 wow fadeInLeft" data-wow-duration="500ms">
-						<div class="service-item">
-							<div class="service-icon">
-								<i class="fab fa-github fa-2x"></i>
-							</div>
-							
-							<div class="service-desc">
-								<h3>OK Website</h3>
-								<p>Learn more about Okcash [OK] over the main website at: </p> <a href="https://okcash.org" target="_blank"><h4>okcash.org</h4></a>
-								</br></br><h3>OK Blockchain explorer</h3>
-								<a href="https://chainz.cryptoid.info/ok/" target="_blank"><h4>chainz.cryptoid.info/ok/</h4></a>
-							</div>
-						</div>
+	<!-- Start Section -->
+	<div class="section section-pad section-bg-blend nopb" id="what-is-okcash">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-5">
+					<div class="res-m-btm animated" data-animate="fadeInUp" data-delay=".1">
+						<img src="images/okcash-a.png" alt="graph">
 					</div>
-					<!-- end service item -->
-					
-					<!-- service item -->
-					<div class="col-md-4 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
-						<div class="service-item">
-							<div class="service-icon">
-								<i class="fas fa-comments fa-2x"></i>
-							</div>
-							
-							<div class="service-desc">
-								<h3>Crypto Community Chats</h3>
-								<p>Get involved with the Okcash community, learn more about Okcash, Blockchain, Bitcoin, Cryptocurrency and more over the live channels at: </p> <a href="http://discord.io/cryptocurrency" target="_blank"><h4>discord.io/cryptocurrency</h4></a>
-							</div>
-						</div>
+				</div><!-- .col  -->
+				<div class="col-md-6 offset-md-1">
+					<div class="text-block">
+						<h4 class="animated" data-animate="fadeInUp" data-delay="0">What is Okcash?</h4>
+						<p class="lead animated" data-animate="fadeInUp" data-delay=".1">OKCash is a hybrid cryptocurrency that evolved into a full Proof of Stake (PoS) system. [Efficient &amp; Energy Friendly]</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".2"> Okcash is simple to use, efficient and sustainable, it boasts of a confirmation rate higher than most cryptocurrencies, fast speeds, low fees, long term sustainable staking, a secure messaging system and is ready for the Internet of Things (IoT).</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".3">Okcash is a decentralized and fast growing  cryptocurrency / movement that was born on Nov 24th 2014. OK was mined (PoW-Scrypt) and evolved to be stake-able (PoS-LTSS-Sha256). Okcash is not a security, it never had an ICO, nor any kind of funding rounds. OK is self sustainable and is fully supported by voluntaries (Just like Bitcoin).</p>
 					</div>
-					<!-- end service item -->
-					
-					<!-- service item -->
-					<div class="col-md-4 wow fadeInRight" data-wow-duration="500ms"  data-wow-delay="900ms">
-						<div class="service-item">
-							<div class="service-icon">
-								<i class="fas fa-bullhorn fa-2x"></i>
-							</div>
-							
-							<div class="service-desc">
-								<h3>OK Community Forums</h3>
-								<p>Visit the forums, find the tutorials or announce your services over the community forums at: </p> <a href="https://okcashtalk.org" target="_blank"><h4>okcashtalk.org</h4></a>
-							</div>
-						</div>
+				</div><!-- .col  -->
+			</div><!-- .row  -->
+		</div><!-- .container  -->
+	</div>
+	<!-- Start Section -->
+
+	<!-- Start Section -->
+	<div class="section section-pad no-pb section-bg-alt">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-5 offset-md-1">
+					<div class="res-m-btm animated" data-animate="fadeInUp" data-delay=".1">
+						<img src="images/okcash-b.png" alt="graph">
 					</div>
-					<!-- end service item -->
-						
+				</div><!-- .col  -->
+				<div class="col-md-6 order-md-first order-last">
+					<div class="text-block">
+						<h2 class="animated" data-animate="fadeInUp" data-delay="0">Okcash • OK</h2>
+						<p class="lead animated" data-animate="fadeInUp" data-delay=".1">OK is the short name for Okcash.</br>The OK network is decentralized and Always Available World Wide. OK is open-source; its design is public, nobody owns or controls Okcash and everyone can take part.</p>
+						<a href="https://www.youtube.com/watch?v=yHIK0H5DUII" class="play-btn video-play animated" data-animate="fadeInUp" data-delay=".2">
+							<em class="play"><span></span></em>
+							<span>What is Okcash?</span>
+							<span>Watch the Video</span>
+						</a>
+					</div>
+				</div><!-- .col  -->
+			</div><!-- .row  -->
+		</div><!-- .conatiner  -->
+	</div>
+	<!-- Start Section -->
+
+
+
+
+
+	<!-- Start Section -->
+	<div class="section section-pad section-bg-btoa" id="apps">
+		<div class="container">
+
+			<div class="row text-center">
+				<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+					<div class="section-head">
+						<div class="heading-animation">
+							<span class="line-1"></span><span class="line-2"></span>
+							<span class="line-3"></span><span class="line-4"></span>
+							<span class="line-5"></span><span class="line-6"></span>
+							<span class="line-7"></span><span class="line-8"></span>
+						</div>
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">The Okcash Wallet 
+							<span>OK</span>
+						</h2>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">Your Okcash wallet is the software you use to send, receive and store your Okcash. It’s simple to use and you can choose to send and receive OK payments or secure messages from your own OK wallet.</p>
+						<a href="https://okcash.org/#jf_download" class="btn btn-sm" target="_blank">Join the OK movement and Get my Okcash wallet Now!</a>
+					</div>
 				</div>
 			</div>
-		</section>
-		
-        <!--
-        End Open Source
-        ==================================== -->
-		
-		
-        <!--
-        Ok Exchanges
-        ==================================== -->
-		
-		<section id="exchanges" class="exchanges clearfix">
-			<div class="container">
-				<div class="row">
-				
-					<div class="sec-title text-center">
-						<h2>Okcash / Bitcoin Exchanges</h2>
-						<div class="devider"><i class="far fa-star fa-lg"></i></div>
+
+			<div class="row align-items-center">
+				<div class="col-md-6">
+					<div class="res-m-btm animated" data-animate="fadeInUp" data-delay=".1">
+						<img src="images/ok-wallet.png" alt="graph">
 					</div>
-					
-					<div class="sec-sub-title text-center">
+				</div><!-- .col  -->
+
+				<div class="col-md-5 offset-md-1">
+					<div class="text-block">
+						
+						<p class="animated" data-animate="fadeInUp" data-delay="0">The main mission of the Okcash project is to empower its users while being energy friendly and sustainable, evolve with positive innovations, and decentralization to give the power to the user and help advance crypto forward. <br/>The OK movement mission is to help change the world with positive innovation. <br/>These are some of the benefits of start using Okcash:</p>
+						<ul class="animated" data-animate="fadeInUp" data-delay=".1">
+							<li>Multiplatform [Windows, Mac, Linux, Android, IoT devices]</li>
+							<li>Efficiency [4+ years tested chain]</li>
+							<li>Availability world wide [Network running 24/7]</li>
+							<li>Transaction Speeds [Less than 72 seconds]</li>
+							<li>Lowest Fees [ 0.0001 OK = 0.000005 USD aprox*] </li>
+							<li>Constantly growing community/network <br/>[More services, users and developers joining and supporting Okcash and the OK movement] </li>
+						</ul>
 						
 					</div>
-					
-					<div class="work-filter wow fadeInRight animated" data-wow-duration="500ms">
-						<ul class="text-center">
-							<li><a href="javascript:;" data-filter="all" class="active filter">All</a></li>
-							<!-- <li><a href="javascript:;" data-filter=".branding" class="filter">Exchanges</a></li>
-							<li><a href="javascript:;" data-filter=".web" class="filter">Stores</a></li>
-							<li><a href="javascript:;" data-filter=".logo-design" class="filter">Charts</a></li>
-							 <li><a href="javascript:;" data-filter=".photography" class="filter">photography</a></li> -->
+				</div><!-- .col  -->
+			</div><!-- .row  -->
+
+		</div><!-- .container  -->
+	</div>
+	<!-- Start Section --> 
+
+
+	<!-- Start Section -->
+	<div class="section section-pad section-bg-alt" id="opensource">
+		<div class="container">
+
+			<div class="row text-center">
+				<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+					<div class="section-head">
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Open Source
+							<span>OK</span>
+						</h2>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">OK is open-source; its design is public, nobody owns</br> or controls Okcash and everyone can take part.</br>Okcash is free software and any developer can contribute to the project. Everything you need is in the <a href="https://github.com/okcashpro/" target="_blank">GitHub repositories</a>.</p>
+					</div>
+				</div>
+			</div>
+
+<?php 
+$url = "http://chainz.cryptoid.info/ok/api.dws?q=totalcoins";
+$json1 = json_decode(file_get_contents($url), true);
+$totalcoins = $json1;
+?>
+
+
+			<div class="row align-items-center">
+				<div class="col-lg-6 res-m-bttm">
+					<div class="row event-info">
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay="0">
+								<h6>Born</h6>
+								<p>Nov 24, 2014 (PoW-PoS)</p>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".1">
+								<h6>Average Block Time</h6>
+								<p>72 seconds</p>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".2">
+								<h6>Algo</h6>
+								<p>Sha256</p>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".3">
+								<h6>Sending Fees</h6>
+								<p>0.0001 OK</p>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".4">
+								<h6>Current Consensus</h6>
+								<p>Proof of Stake LTSS</p>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".5">
+								<h6>Current LTSS POS Block Reward</h6>
+								<p>2.5 % </p>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".4">
+								<h6>Current Coin Cap</h6>
+								<p><?=number_format($totalcoins, 2);?> OK</p>
+							</div>
+						</div><!-- .col  -->
+						<div class="col-sm-6">
+							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".5">
+								<h6>Max Coin Cap</h6>
+								<p>105,000,000 OK </br>(5 times Bitcoin max cap)</p>
+							</div>
+						</div><!-- .col  -->
+					</div><!-- .row  -->
+				</div><!-- .col  -->
+				<div class="col-lg-5 offset-lg-1">
+					<div class="countdown-box text-center animated" data-animate="fadeInUp" data-delay=".3">
+						<p>Aprox. ETA for <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Drop</a></p>
+						<div class="token-countdown d-flex align-content-stretch" data-date="2020/06/28"></div>
+						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute with Okcash Development</a>
+						<ul class="icon-list">
+							 
+							<li><em class="fas fa-handshake"></em></li> 
+							<li><em class="fab fa-github"></em></li>
+							<li><em class="fas fa-star"></em></li> 
 						</ul>
 					</div>
-					
-				</div>
-			</div>
-			
-			<div class="project-wrapper">
-			
-				<figure class="mix work-item web">
-					<img src="img/resources/item-1.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="Bittrex - United States" href="https://www.bittrex.com/Market/Index?MarketName=BTC-OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Bittrex</h3>
-						<p>United States</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-8.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="UpBit - South Korea" href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>UpBit</h3>
-						<p>South Korea</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-2.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="LiteBit EU - Netherlands" href="https://www.litebit.eu/en/buy/okcash" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>LiteBit EU</h3>
-						<p>Netherlands</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-4.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="Bleutrade - Malta" href="https://bleutrade.com/en/trade/basic/OK/BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Bleutrade</h3>
-						<p>Malta</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-13.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="Crex24 - Estonia" href="https://crex24.com/exchange/OK-BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Crex24</h3>
-						<p>Estonia</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-7.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="TradeSatoshi - United Kingdom" href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Trade Satoshi</h3>
-						<p>United Kingdom</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-12.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="ChangeNow - Netherlands" href="https://changenow.io/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>ChangeNow</h3>
-						<p>Netherlands</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-6.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="BTCpop - United Kingdom" href="https://btcpop.co/Exchange/OK" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>BTCpop</h3>
-						<p>United Kingdom</p></a>
-					</figcaption>
-				</figure>
-			
-				<figure class="mix work-item web">
-					<img src="img/resources/item-5.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="NovaExchange - Sweden" href="https://novaexchange.com/market/BTC_OK/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Nova Exchange</h3>
-						<p>Sweden</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-3.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="SimpleSwap - United Kingdom" href="https://simpleswap.io/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>SimpleSwap</h3>
-						<p>United Kingdom</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-10.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="Knaken - Netherlands" href="https://knaken.eu/" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>Knaken</h3>
-						<p>Netherlands</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-11.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="BitLadon - Netherlands" href="https://www.bitladon.com/okcash" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>BitLadon</h3>
-						<p>Netherlands</p></a>
-					</figcaption>
-				</figure>
-				
-				<figure class="mix work-item web">
-					<img src="img/resources/item-9.jpg" alt="">
-					<figcaption class="overlay">
-						<a class="fancybox" rel="exchanges" title="CoinSwitch - India" href="https://coinswitch.co" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i>
-						<h3>CoinSwitch</h3>
-						<p>India</p></a>
-					</figcaption>
-				</figure>
-				
-				
-			</div>
-		
+				</div><!-- .col  -->
+			</div><!-- .row  -->
 
-		</section>
-		
-        <!--
-        End Our Exchanges
-        ==================================== -->
-		
-        <!--
-        Downloads
-        ==================================== -->		
-		
-		<section id="download" class="team">
-			<div class="container">
-				<div class="row">
-		
-					<div class="sec-title text-center wow fadeInUp animated" data-wow-duration="700ms">
-						<h2>Download</h2>
-						<div class="devider"><i class="far fa-star fa-lg"></i></div>
-					</div>
-					
-					<div class="sec-sub-title text-center wow fadeInRight animated" data-wow-duration="500ms">
-						<p>Download the Okcash wallet for the different platforms.</p>
-					</div>
-
-					<!-- single member -->
-					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
-						<div class="member-thumb">
-							<img src="img/download/member-1.png" alt="IoT" class="img-responsive">
-							<figcaption class="overlay">
-								<h5>Okcash for IoT Devices </h5>
-								<p>Stake and use your OK in your own IoT devices with ROKOS.</p>
-								<ul class="social-links text-center">
-									<!-- <li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li> -->
-									<li><a href="https://okcash.org/#jf_download" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i></li>
-									<!-- <li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li> -->
-								</ul>
-							</figcaption>
+			<div class="gaps size-3x" id="worldwide"></div><div class="gaps size-3x d-none d-md-block"></div><!-- .gaps  -->
+<br/>
+			<div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms">
+							<h2>☆ Worldwide Stats ☆</h2>
 						</div>
-						<h4>Okcash for IoT Devices</h4></a>
-						<span>Raspberry Pi & PINE64+ arm/arm64 systems</span>
-					</figure>
-					<!-- end single member -->
-					
-					<!-- single member -->
-					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
-						<div class="member-thumb">
-							<img src="img/download/member-2.png" alt="Windows" class="img-responsive">
-							<figcaption class="overlay">
-								<h5>Okcash for Windows </h5>
-								<p>Stake and use your OK in your own PC.</p>
-								<ul class="social-links text-center">
-									<li><a href="https://okcash.org/#jf_download" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i></li>
-								</ul>
-							</figcaption>
-						</div>
-						<h4>Okcash for Windows</h4></a>
-						<span>Windows PC systems</span>
-					</figure>
-					<!-- end single member -->
-					
-					<!-- single member -->
-					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
-						<div class="member-thumb">
-							<img src="img/download/member-3.png" alt="Linux" class="img-responsive">
-							<figcaption class="overlay">
-								<h5>Okcash for Linux </h5>
-								<p>Stake and use your OK in your own Linux systems.</p>
-								<ul class="social-links text-center">
-									<li><a href="https://okcash.org/#jf_download" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i></li>
-								</ul>
-							</figcaption>
-						</div>
-						<h4>Okcash for Linux</h4></a>
-						<span>Linux systems</span>
-					</figure>
-					<!-- end single member -->
-					
-					<!-- single member -->
-					<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
-						<div class="member-thumb">
-							<img src="img/download/member-4.png" alt="MAC OSX" class="img-responsive">
-							<figcaption class="overlay">
-								<h5>Okcash for Mac OSX </h5>
-								<p>Stake and use your OK in your own Apple systems.</p>
-								<ul class="social-links text-center">
-									<li><a href="https://okcash.org/#jf_download" target="_blank"><i class="fas fa-external-link-alt fa-lg"></i></li>
-								</ul>
-							</figcaption>
-						</div>
-						<h4>Okcash for Mac OSX</h4></a>
-						<span>Apple systems</span>
-					</figure>
-					<!-- end single member -->
-					
-				</div>
-			</div>
-		</section>
-		
-        <!--
-        End Downloads
-        ==================================== -->
-		
-		<!--
-        Some fun facts
-        ==================================== -->		
-		
-		<section id="facts" class="facts">
+						<br/><br/><br/>
 			<div class="parallax-overlay">
 				<div class="container">
 					<div class="row number-counters">
-						
-						<div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms">
-							<h2>☆ Worldwide Stats ☆</h2>
-							<div class="devider"><i class="far fa-star fa-lg"></i></div>
-						</div>
-						
+												
 						<!-- first count item -->
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 							<div class="counters-item">
@@ -515,9 +313,9 @@ $url2 = "http://chainz.cryptoid.info/ok/api.dws?q=addresses";
 $json2 = json_decode(file_get_contents($url2), true);
 $totady = $json2["known"];
 ?>
-								<strong data-to="<?php echo $totady; ?>">0</strong>
+								<br/><br/><h2><?=number_format($totady, 0);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
-								<p>Addresses created so far</p>
+								<p>OK Addresses created so far</p>
 							</div>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
@@ -528,7 +326,7 @@ $url3 = "http://chainz.cryptoid.info/ok/api.dws?q=addresses";
 $json3 = json_decode(file_get_contents($url3), true);
 $nonady = $json3["nonzero"];
 ?>
-								<strong data-to="<?php echo $nonady; ?>">0</strong>
+								<br/><br/><h2><?=number_format($nonady, 0);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p>Addresses holding OK coins</p>
 							</div>
@@ -541,22 +339,22 @@ $url4 = "https://api.coincap.io/v2/assets/okcash";
 $json4 = json_decode(file_get_contents($url4), true);
 $marketplace = $json4["data"]["rank"];
 ?>
-								<strong data-to="<?php echo $marketplace; ?>">0</strong>
+								<br/><br/><h2><?=number_format($marketplace, 0);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
-								<p> CoinCap Rank</br> Worldwide</p>
+								<p> CoinCap Rank</p>
 							</div>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 							<div class="counters-item">
-								<i class="far fa-star fa-3x"></i>
+								<i class="fas fa-star fa-3x"></i>
 <?php 
-$url = "http://chainz.cryptoid.info/ok/api.dws?q=totalcoins";
-$json1 = json_decode(file_get_contents($url), true);
-$totalcoins = $json1;
+$url5 = "https://api.coincap.io/v2/assets/okcash";
+$json5 = json_decode(file_get_contents($url5), true);
+$marketcap = $json4["data"]["marketCapUsd"];
 ?>
-								<strong data-to="<?php echo $totalcoins; ?>">0</strong>
+								<br/><br/><h2>$ <?=number_format($marketcap, 2);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
-								<p>Coins in Circulation</p>
+								<p>Market Cap (USD)</p>
 							</div>
 						</div>
 						<!-- end first count item -->
@@ -564,155 +362,1081 @@ $totalcoins = $json1;
 					</div>
 				</div>
 			</div>
-		</section>
 		
-        <!--
-        End Some fun facts
-        ==================================== -->
-		
-		
-		<!--
-        Contact Us
-        ==================================== -->		
-		
-		<section id="join" class="join">
-			<div class="container">
-				<div class="row mb50">
-				
-					<div class="sec-title text-center mb50 wow fadeInDown animated" data-wow-duration="500ms">
-						<h2>Let’s Discuss</h2>
-						<div class="devider"><i class="far fa-star fa-lg"></i></div>
+
+		</div><!-- .container  -->
+	</div>
+	<!-- Start Section -->
+
+
+	<!-- Start Section -->
+	<div class="section section-pad section-bg section-connect" id="roadmap">
+		<div class="container">
+
+			<div class="row text-center">
+				<div class="col">
+					<div class="section-head">
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Roadmap
+							<span>OK General</span>
+						</h2><p align="center">With Okcash being decentralized, it is difficult to provide a full roadmap. There are many different teams and individuals indepently working on their own projects utilizing Okcash or to help improve Okcash. In the working roadmap below we can find some of the OK goals and upcoming features by different teams. This is not fully inclusive of all milestones and upcoming features. New services and features may be integrated at any time based on community consensus, or by different users or teams without prior announcement. <br/>To contribute, learn more or to follow the development closer; <br/>join the OK communities over: <a href="https://discord.io/cryptocurrency" target="_blank"> <em class="fab fa-discord"></em> discord.io/cryptocurrency </a>  </p>
 					</div>
-					
-					<div class="sec-sub-title text-center wow rubberBand animated" data-wow-duration="1000ms">
-						<p>Join, participate, discuss and get involved with the Okcash project over:</p>
+				</div>
+			</div>
+			
+			<div class="row roadmap-list align-items-end animated" data-animate="fadeInUp" data-delay="0">
+				<div class="col-lg">
+					<div class="single-roadmap roadmap-sm roadmap-done">
+						<h6>Q2 2019</h6>
+						<p>• OK core performance & security update <br/>• Resources update</p>
 					</div>
-					
-					<!-- join address -->
-					<center>
-						<a href="http://discord.io/cryptocurrency">
-    <img alt="Logo" src="https://discordapp.com/api/guilds/213747404745211904/widget.png?style=banner2">
-  </a>
-					</center>
-					<!-- end join address -->
-					
+				</div><!-- .col  -->
+				<div class="col-lg width-0">
+					<div class="single-roadmap roadmap-down roadmap-done">
+						<h6>Q3 2019</h6>
+						<p>• OK core upgrade  <br/>• OK electrum client <br/>• Resources update <br/>• New Resources for services</p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg">
+					<div class="single-roadmap roadmap-lg">
+						<h6>Q4 2019</h6>
+						<p>• OK 5th Birthday <br/>• Ledger Integration <br/>• ROKOS 10 release <br/>• OK dev [Open source devs community for Okcash] <br/>• OK core design upgrade</p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg width-0">
+					<div class="single-roadmap roadmap-down">
+						<h6>Q1 2020</h6>
+						<p>• TrustWallet Integration <br/>• OK web staking wallet <br/>• OK mobile staking wallet <br/>• OK core upgrade <br/>• Okcash wiki <br/>• OK network health nodes map </p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg">
+					<div class="single-roadmap roadmap-sm">
+						<h6>Q2 2020</h6>
+						<p>• OK self governance system [open test] <br/>• Okcash foundation <br/>• OK block reward halving <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg width-0">
+					<div class="single-roadmap roadmap-down">
+						<h6>Q3 2020</h6>
+						<p>• OK self governance system [release] <br/>• ROKOS 11 release <br/>• ROKOS + smart contracts [open test + giveaway to OK holders] <br/>• OK core upgrade</p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg">
+					<div class="single-roadmap roadmap-lg">
+						<h6>Q4 2020</h6>
+						<p>• OK 6th Birthday <br/>• OK Point of sale for IOT systems [open source] <br/>• ROKOS + smart contracts [release + giveaway to OK holders] <br/>• OK core upgrade</p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg width-0">
+					<div class="single-roadmap roadmap-down">
+						<h6>Q1 2021</h6>
+						<p>• ROKOS 12 release <br/>• OK Dex [open test] <br/>• OK core secure message system upgrade</p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg">
+					<div class="single-roadmap roadmap-sm">
+						<h6>Q2 2021</h6>
+						<p>• OK Point of sale for multi platform [open source] <br/>• OK Dex [release] <br/>• OK game multi platform [open test] <br/>• OK core upgrade </p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg width-0">
+					<div class="single-roadmap roadmap-down">
+						<h6>Q3 2021</h6>
+						<p>• OK game multi platform [release] <br/>• OK readable addresses [open test] <br/>• OK core upgrade</p>
+					</div>
+				</div><!-- .col  -->
+				<div class="col-lg">
+					<div class="single-roadmap roadmap-lg">
+						<h6>Q4 2021</h6>
+						<p>• OK 7th Birthday <br/>• OK readable addresses [release] <br/>• OK easy (1 click) transfer system [open test] <br/>• ROKOS 13 release <br/>• OK core upgrade</p>
+					</div>
+				</div><!-- .col  -->
+			</div><!-- .row  -->
+			<br/><br/><br/><br/>
+		</div><!-- .container  -->
+	</div>
+	<!-- Start Section -->
+
+
+	<!-- Start Section -->
+	<div class="section section-pad no-pb section-bg-alt section-fix" id="supporters">
+		<div class="container">
+
+			<div class="row text-center">
+				<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+					<div class="section-head">
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">OK Supporters
+							<span>Okcash</span>
+						</h2>
+						<p class="animated" data-animate="fadeInUp" data-delay="0.1">OK is fully supported by voluntaries, different businesses, services, communities, groups and individuals world wide and anyone can join.<br/> Here are some out of many.</p>
+					</div>
 				</div>
 			</div>
 
+			<div class="row text-center">
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://okdevs.org" target="_blank"><img src="images/okdevs.jpg" alt="okdevs" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">OK Devs</h5>
+							<span class="team-title">Open Source Developers Group </span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".3">
+						<div class="team-photo">
+							<a href="https://cryptocloudhosting.org/" target="_blank"><img src="images/cchosting.jpg" alt="cryptocloudhosting">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Crypto Cloud Hosting</h5>
+							<span class="team-title">Crypto hosting services</span>
+							
+						</div>
+
+						
+
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://github.com/Azure/azure-blockchain-projects/tree/master/baas-artifacts/linux-okcash" target="_blank"><img src="images/azure.jpg" alt="azure">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Microsoft Azure</h5>
+							<span class="team-title">Azure Blockchain as a Service (BaaS)</span>
+							
+						</div>
+
+						
+
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
+						<div class="team-photo">
+							<a href="https://www.coinomi.com/en/asset/okcash/" target="_blank"><img src="images/coinomi.jpg" alt="coinomi">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Coinomi</h5>
+							<span class="team-title">Multiplatform Blockchain Wallet</span>
+							
+						</div>
+
+						
+
+					</div>
+				</div><!-- .col  -->
+			</div><!-- .row  -->
 			
-		</section>
-		
-        <!--
-        End Contact Us
-        ==================================== -->
-		
-		
-		<footer id="footer" class="footer">
-			<div class="container">
-				<div class="row">
-				
-					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms">
-						<div class="footer-single">
-							<img src="img/logo.png" alt="Okcash">
-							<p><br />Welcome to the next generation of digital currency: OK is open-source; its design is public, nobody owns or controls Okcash and everyone can take part.</p>
+			<div class="row text-center">
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://bitcoinfullnode.org/" target="_blank"><img src="images/bitcoinfullnode.jpg" alt="bitcoinfullnode" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">ROKOS Bitcoin Fullnode</h5>
+							<span class="team-title">1st Crypto OS for the Internet of Things</span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".3">
+						<div class="team-photo">
+							<a href="https://coinfestuk.org/" target="_blank"><img src="images/coinfestuk.jpg" alt="coinfestuk">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Coinfest UK</h5>
+							<span class="team-title">International Blockchain Festival</span>
+							
+						</div>
+
+						
+
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://cointopay.com/" target="_blank"><img src="images/cointopay.jpg" alt="cointopay">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Coin to Pay</h5>
+							<span class="team-title">Crypto banking, payment processor</span>
+							
+						</div>
+
+						
+
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
+						<div class="team-photo">
+							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.jpg" alt="mycointainer">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">My Cointainer</h5>
+							<span class="team-title">Cryptoassets Vault </span>
+							
+						</div>
+
+						
+
+					</div>
+				</div><!-- .col  -->
+			</div><!-- .row  -->
+			
+			
+			
+			
+			
+			
+			<div class="row">
+				<div class="col-md-12">
+					<div class="gaps size-2x"></div>
+					<h3 class="sub-heading ucap">Communities</h3>
+					<div class="gaps size-2x"></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-10 offset-md-1">
+					<div class="row text-center">
+
+						<div class="col-lg-4 col-md-6">
+							<div class="team-circle animated" data-animate="fadeInUp" data-delay=".1">
+								<div class="team-photo">
+									<a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><img src="images/bitcointalk.jpg" alt="bitcointalk">
+									</a>
+								</div>
+								<div class="team-info">
+									<h5 class="team-name">Bitcointalk</h5>
+									<span class="team-title">First Bitcoin forums</span>
+								</div>
+
+								
+
+							</div>
+						</div><!-- .col  -->
+
+						<div class="col-lg-4 col-md-6">
+							<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+								<div class="team-photo">
+									<a href="https://discord.io/cryptocurrency" target="_blank"><img src="images/discord.jpg" alt="discord">
+									</a>
+								</div>
+								<div class="team-info">
+									<h5 class="team-name">Discord</h5>
+									<span class="team-title">OK Bitcoin - Crypto and Blockchain</span>
+								</div>
+
+								
+							</div>
+						</div><!-- .col  -->
+
+						<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 animated" data-animate="fadeInUp" data-delay=".3">
+							<div class="team-circle">
+								<div class="team-photo">
+									<a href="https://okcashtalk.org" target="_blank"><img src="images/okcashtalk.jpg" alt="okcashtalk">
+									</a>
+								</div>
+								<div class="team-info">
+									<h5 class="team-name">Okcashtalk</h5>
+									<span class="team-title">First Okcash forums</span>
+								</div>
+
+								
+
+							</div>
+						</div><!-- .col  -->
+						
+					</div><!-- .row  -->
+				</div><!-- .col  -->
+			</div><!-- .row  -->
+		</div>
+	</div>
+	<!-- Start Section -->
+
+	<!-- Start Section -->
+	<div class="section section-pad section-bg-alt" id="exchanges">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col">
+					<div class="section-head">
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Supporting Okcash
+							<span>Exchanges</span>
+						</h2>
+					</div>
+				</div>
+			</div>
+			<div class="partner-list">
+				<div class="row text-center">
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
+							<a href="https://international.bittrex.com/Market/Index?MarketName=BTC-OK" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
 						</div>
 					</div>
-				
-					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
-						<div class="footer-single">
-							<h6>What is Okcash? </h6>
-							<div>
-                        <div class="media">
-                            <iframe width="220" height="124" src="https://www.youtube.com/embed/yHIK0H5DUII?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-                        </div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<a href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-OK" target="_blank"><img src="images/upbit.png" alt="Upbit"></a>
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<a href="https://www.litebit.eu/en/buy/okcash" target="_blank"><img src="images/litebit.png" alt="Litebit"></a>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-md-8 offset-md-2">
+						<div class="row">
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
+									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<a href="https://crex24.com/exchange/OK-BTC" target="_blank"><img src="images/crex24.png" alt="Crex24"></a>
+						</div>
+								</div>
+							</div>
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+									<a href="https://changenow.io/" target="_blank"><img src="images/changenow.png" alt="ChangeNow"></a>
+								</div>
 							</div>
 						</div>
 					</div>
-				
-					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
-						<div class="footer-single">
-							<h6>Explore Okcash</h6>
-							<ul>
-								<li><a href="https://chainz.cryptoid.info/ok/" target="_blank">Okcash Blockchain Explorer</a></li>
-								<li><a href="http://okcashblockhalf.com" target="_blank">Okcash Block Half</a></li>
-								<li><a href="https://coincap.io/assets/okcash" target="_blank">Okcash on CoinCap</a></li>
-								<li><a href="https://coinmarketcap.com/currencies/okcash/" target="_blank">Okcash on Coinmarketcap</a></li>
-								<li><a href="https://okcashtalk.org" target="_blank">Okcash Forums</a></li>
-								<li><a href="https://okcash.org" target="_blank">Okcash.org</a></li>
-								
-								
-							</ul>
+				</div>
+			</div>
+			<br/>
+			<div class="partner-list">
+				<div class="row text-center">
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
+							<a href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank"><img src="images/tradesatoshi.png" alt="TradeSatoshi"></a>
 						</div>
 					</div>
-				
-					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
-						<div class="footer-single">
-							<h6>Join the Okcash Community</h6>
-                    <ul class="jf_social_icons rotate">
-<a href="http://discord.io/cryptocurrency" target="_blank" title="discord"><em class="fab fa-discord fa-3x"></a></em>
-<a href="http://reddit.com/r/OKcash" target="_blank" title="reddit"><em class="fab fa-reddit fa-3x"></a></em>
-<a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank" title="Bitcoin Talk"><em class="fab fa-bitcoin fa-3x"></a></em>
- <!-- <li class="soundcloud"><a href="#" title="soundcloud">&nbsp;</a></li> 
-<li class="linkedin"><a href="#" title="linkedin">&nbsp;</a></li>
-<li class="skype"><a href="#" title="skype">&nbsp;</a></li>
- <li class="ebay"><a href="#" title="ebay">&nbsp;</a></li>
-<li class="vimeo" style="display: none;"><a href="#" title="vimeo">&nbsp;</a></li>
-<li class="blogger" style="display: none;"><a href="#" title="blogger">&nbsp;</a></li>
-<li class="dribbble" style="display: none;"><a href="#" title="dribbble">&nbsp;</a></li> -->
-<div class="clear">&nbsp;</div>
-</ul>
-</div>
-						
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a>
+						</div>
 					</div>
-					
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<a href="https://simpleswap.io/" target="_blank"><img src="images/simpleswap.png" alt="SimpleSwap"></a>
+						</div>
+					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<p class="copyright text-center">
-							© 2014-2020 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>
-						</p>
+				<div class="row text-center">
+					<div class="col-md-8 offset-md-2">
+						<div class="row">
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
+									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<a href="https://btcpop.co/Exchange/OK" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a>
+						</div>
+								</div>
+							</div>
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+									<a href="https://txbit.io/" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</footer>
-		
-		<a href="javascript:void(0);" id="back-top"><i class="fa fa-angle-up fa-3x"></i></a>
+			
+			<br/>
+			<div class="partner-list">
+				<div class="row text-center">
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
+							<a href="https://novaexchange.com/market/BTC_OK/" target="_blank"><img src="images/nova.png" alt="Nova"></a>
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<a href="https://knaken.eu/" target="_blank"><img src="images/knaken.png" alt="Knaken"></a>
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a> -->
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-md-8 offset-md-2">
+						<div class="row">
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
+									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+									<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a> -->
+						</div>
+								</div>
+							</div>
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+								<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a> -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<!-- Start Section -->
 
-		<!-- Essential jQuery Plugins
-		================================================== -->
-		<!-- Main jQuery -->
-        <script src="js/jquery-1.11.1.min.js"></script>
-		<!-- Single Page Nav -->
-        <script src="js/jquery.singlePageNav.min.js"></script>
-		<!-- Twitter Bootstrap -->
-        <script src="js/bootstrap.min.js"></script>
-		<!-- jquery.fancybox.pack -->
-        <script src="js/jquery.fancybox.pack.js"></script>
-		<!-- jquery.mixitup.min -->
-        <script src="js/jquery.mixitup.min.js"></script>
-		<!-- jquery.parallax -->
-        <script src="js/jquery.parallax-1.1.3.js"></script>
-		<!-- jquery.countTo -->
-        <script src="js/jquery-countTo.js"></script>
-		<!-- jquery.appear -->
-        <script src="js/jquery.appear.js"></script>
-		<!-- jquery easing -->
-        <script src="js/jquery.easing.min.js"></script>
-		<!-- jquery easing -->
-        <script src="js/wow.min.js"></script>
-		<script>
-			var wow = new WOW ({
-				boxClass:     'wow',      // animated element css class (default is wow)
-				animateClass: 'animated', // animation css class (default is animated)
-				offset:       120,          // distance to the element when triggering the animation (default is 0)
-				mobile:       false,       // trigger animations on mobile devices (default is true)
-				live:         true        // act on asynchronously loaded content (default is true)
-			  }
-			);
-			wow.init();
-		</script> 
-		<!-- Custom Functions -->
-        <script src="js/custom.js"></script>
-		
-    </body>
+
+	<!-- Start Section -->
+	<div class="section section-pad section-bg section-connect" id="stats">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-6 offset-md-3">
+					<div class="section-head">
+						<h6 class="section-title-sm animated" data-animate="fadeInUp" data-delay="0">Find more Ok info &amp; stats over:</h6>
+					</div>
+				</div>
+			</div>
+			<div class="partner-list">
+				<div class="row text-center">
+					<div class="col-sm col-6">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<a href="https://coinmarketcap.com/currencies/okcash/" target="_blank"><img src="images/coinmarketcap.png" alt="ok stats & info"></a>
+						</div>
+					</div>
+					<div class="col-sm col-6">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<a href="https://www.cryptocompare.com/coins/ok/overview" target="_blank"><img src="images/cryptocompare.png" alt="ok stats & info"></a>
+						</div>
+					</div>
+					<div class="col-sm col-6">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
+							<a href="https://info.binance.com/en/currencies/okcash" target="_blank"><img src="images/binance.png" alt="ok stats & info"></a>
+						</div>
+					</div>
+					<div class="col-sm col-6">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+							<a href="https://www.coinbase.com/price/okcash" target="_blank"><img src="images/coinbase.png" alt="ok stats & info"></a>
+						</div>
+					</div>
+					<div class="col-sm col-6">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".5">
+							<a href="https://www.coingecko.com/en/coins/okcash" target="_blank"><img src="images/coingecko.png" alt="ok stats & info"></a>
+						</div>
+					</div>
+					<div class="col-sm col-6">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".6">
+							<a href="https://coincap.io/assets/okcash/" target="_blank"><img src="images/coincap.png" alt="ok stats & info"></a>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-md-10 offset-md-1">
+						<div class="row">
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".7">
+									<a href="https://www.investing.com/crypto/okcash" target="_blank"><img src="images/investing.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".8">
+									<a href="https://www.coinhills.com/market/ok/" target="_blank"><img src="images/coinhills.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".9">
+									<a href="https://www.ratingtoken.net/ratings/OK-1" target="_blank"><img src="images/ratingtoken.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1">
+									<a href="https://coincircus.io/coins.php?symbol=OK" target="_blank"><img src="images/coincircus.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Section -->
+	
+	
+	<!-- Start Section -->
+	<div class="section section-pad section-bg-dark blog-section" id="participate">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col">
+					<div class="section-head">
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Participate &amp; Support Okcash
+							<span>OK</span>
+						</h2>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">Okcash was born from a small community and has grown fast. </br>There are a lot of things you can do to support it and help others learn more.</p>
+					</div>
+				</div>
+			</div><!-- .row -->
+			
+			<div class="blog-list">
+				<div class="row">
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay="0">
+							<div class="blog-photo"><img src="images/using-okcash.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>1</li>
+									<li>Use OK coins</li>
+								</ul>
+								<h5 class="blog-title">Using Okcash</h5>
+								<p align="justify"><a href="https://okcash.org/getting-started.html" target="_blank">Using OK</a> is the first thing you can do to support Okcash. There are probably many cases where it can make your life easier. You can accept payments and make purchases with Okcash.</p>
+							</div>
+						</div>
+					</div><!-- .col -->
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
+							<div class="blog-photo"><img src="images/okcash-network.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>2</li>
+									<li>Be the OK Network</li>
+								</ul>
+								<h5 class="blog-title">The Okcash Network</h5>
+								<p align="justify">With just an Internet connection, you can help strengthen the OK network by keeping an <a href="https://okcash.org/#jf_download" target="_blank">Okcash full node wallet</a> running on your computer or server. Full nodes secure &amp; relay transactions.</p>
+							</div>
+						</div>
+					</div><!-- .col -->
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".2">
+							<div class="blog-photo"><img src="images/okcash-staking.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>3</li>
+									<li>Stake (Mine) OK coins</li>
+								</ul>
+								<h5 class="blog-title">Staking</h5>
+								<p align="justify">You can start <a href="https://okcash.org/faq.html" target="_blank">staking</a> OK coins to help secure and process transactions. In order to protect the network, you can stake your OK coins in your own OK wallet or in the different staking pools. </p>
+							</div>
+						</div>
+					</div><!-- .col -->
+				</div><!-- .row -->
+			</div><!-- .blog-list -->
+			
+			<div class="blog-list">
+				<div class="row">
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay="0">
+							<div class="blog-photo"><img src="images/translate.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>4</li>
+									<li>Translate OK to the world</li>
+								</ul>
+								<h5 class="blog-title">Translate</h5>
+								<p align="justify">You can help spread Okcash awareness by translating or improving translations inside important parts of the OK ecosystem or translate articles and guides that can help new users. </p>
+							</div>
+						</div>
+					</div><!-- .col -->
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
+							<div class="blog-photo"><img src="images/development.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>5</li>
+									<li>Help Develop OK</li>
+								</ul>
+								<h5 class="blog-title">Development</h5>
+								<p align="justify">Okcash is free software. If you are a developer, you can use your superpowers to do good and improve Okcash. Or you can build amazing new services or software that use Okcash. </p>
+							</div>
+						</div>
+					</div><!-- .col -->
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".2">
+							<div class="blog-photo"><img src="images/donate.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>6</li>
+									<li>Sharing is Caring</li>
+								</ul>
+								<h5 class="blog-title">Donation</h5>
+								<p align="justify">The easiest way to help is to donate some OK to charity projects. Or you can help directly fund any project related to Okcash that you believe will be helpful in the future. </p>
+							</div>
+						</div>
+					</div><!-- .col -->
+				</div><!-- .row -->
+			</div><!-- .blog-list -->
+			
+			<div class="blog-list">
+				<div class="row">
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay="0">
+							<div class="blog-photo"><img src="images/communities.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>7</li>
+									<li>Meet the OK communities</li>
+								</ul>
+								<h5 class="blog-title">Communities</h5>
+								<p align="justify">You can join Okcash communities and talk with other OK enthusiasts. You can learn more about Okcash every day, give help to new users and get involved in interesting projects. You can also create your own Okcash communities. </p>
+							</div>
+						</div>
+					</div><!-- .col -->
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
+							<div class="blog-photo"><img src="images/spread-the-word.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>8</li>
+									<li>Share Okcash with the world</li>
+								</ul>
+								<h5 class="blog-title">Plant the OK seeds</h5>
+								<p align="justify">Speak about Okcash to interested people. Write about it on your blog. Tell your favorite shops you would like to pay with Okcash. Help to keep merchant directories up to date. Or be creative and make yourself a nice Okcash T-shirt.</p>
+							</div>
+						</div>
+					</div><!-- .col -->
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".2">
+							<div class="blog-photo"><img src="images/documentation.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>9</li>
+									<li>Documentation is key</li>
+								</ul>
+								<h5 class="blog-title">Documentation</h5>
+								<p align="justify">Okcash.org provides useful document- ation and we are constantly improving the information it contains. You can help to improve these resources and keep them up to date or add new translations over the <a href="https://github.com/okcashpro/okcash.org.website" target="_blank"> <em class="fab fa-github"></em> Okcash.org Github</a></p>
+							</div>
+						</div>
+					</div><!-- .col -->
+				</div><!-- .row -->
+			</div><!-- .blog-list -->
+			
+		</div><!-- .container -->
+	</div>
+	<!-- Start Section -->
+
+
+		<!-- Start Section -->
+	<div class="section section-pad no-pb section-bg-alt" id="faq">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+					<div class="section-head">
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Frequently asked questions
+							<span>OK</span>
+						</h2>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">Find answers to recurring questions and myths about Okcash.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-8 offset-md-2">
+					<div class="tab-custom">
+						<!-- Nav tabs -->
+						<ul class="nav nav-tabs text-center animated" data-animate="fadeInUp" data-delay="0">
+							<li class="nav-item">
+								<a class="nav-link active" data-toggle="tab" href="#tab-1">General</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" data-toggle="tab" href="#tab-2">Transactions</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" data-toggle="tab" href="#tab-3">Staking</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" data-toggle="tab" href="#tab-4">Security</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" data-toggle="tab" href="#tab-5">Legal</a>
+							</li>
+						</ul>
+						<!-- Tab panes -->
+						<div class="tab-content animated" data-animate="fadeInUp" data-delay=".1">
+							<div class="tab-pane fade show active" id="tab-1">
+								<div class="accordion" id="accordion-1">
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a data-toggle="collapse" data-target="#collapse-1-1">
+													What is Okcash?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-1-1" class="collapse show" data-parent="#accordion-1">
+											<div class="card-body">
+												<p>Okcash is an energy friendly consensus network that enables a new payment system and a complete control over your digital cash. It is one of the first proof of stake decentralized peer-to-peer payment networks that is powered by its users with no central authority or middlemen. From a user perspective, Okcash is pretty much like fast and energry friendly cash for the Internet. Okcash can also be seen as one of the most prominent proof of stake triple entry bookkeeping system in existence.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-1-2">
+												  Who controls the Okcash network?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-1-2" class="collapse" data-parent="#accordion-1">
+											<div class="card-body">
+												<p>Nobody owns the Okcash network much like no one owns Bitcoin or like no one owns the technology behind email. Okcash is controlled by all Okcash users around the world. While developers are improving the software, they can't force a change in the Okcash protocol because all users are free to choose what software and version they use. In order to stay compatible with each other, all users need to use software complying with the same rules. Okcash can only work correctly with a complete consensus among all users. Therefore, all users and developers have a strong incentive to protect this consensus.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-1-3">
+												  How does Okcash work?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-1-3" class="collapse" data-parent="#accordion-1">
+											<div class="card-body">
+												<p>From a user perspective, Okcash is nothing more than a computer program or mobile app that provides a personal Okcash wallet and allows a user to send and receive Okcash with them. This is how Okcash works for most users.<br/>
+												
+												Behind the scenes, the Okcash network is sharing a public ledger called the "OK block chain". This ledger contains every transaction ever processed, allowing a user's computer to verify the validity of each transaction. The authenticity of each transaction is protected by digital signatures corresponding to the sending addresses, allowing all users to have full control over sending OK coins from their own Okcash addresses. In addition, anyone can process transactions using the computing power of their processor and earn a reward in OK coins for this service. This process is often called "staking".</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-1-4">
+												  Can I make money with Okcash?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-1-4" class="collapse" data-parent="#accordion-1">
+											<div class="card-body">
+												<p>You should never expect to get rich with Okcash or any emerging technology. It is always important to be wary of anything that sounds too good to be true or disobeys basic economic rules.<br/>
+												
+												Okcash is a growing space of sustainable and energy friendly innovation and there are business opportunities that also include risks. There is no guarantee that Okcash will continue to grow even though it has developed at a very fast rate so far. Investing time and resources on anything related to Okcash requires entrepreneurship. There are various ways to make money with Okcash such as staking, speculation or running new businesses. All of these methods are competitive and there is no guarantee of profit. It is up to each individual to make a proper evaluation of the costs and the risks involved in any such project.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><!-- End tab-pane -->
+							<div class="tab-pane fade" id="tab-2">
+								<div class="accordion" id="accordion-2">
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a data-toggle="collapse" data-target="#collapse-2-1">
+												  Why do I have to wait for confirmation?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-2-1" class="collapse show" data-parent="#accordion-2">
+											<div class="card-body">
+												<p>Receiving notification of a payment is almost instant with Okcash. However, there is a delay before the network begins to confirm your transaction by including it in a block. A confirmation means that there is a consensus on the network that the OK coins you received haven't been sent to anyone else and are considered your property. Once your transaction has been included in one block, it will continue to be buried under every block after it, which will exponentially consolidate this consensus and decrease the risk of a reversed transaction. Each confirmation takes between 1 second and 144 seconds, with 72 seconds being the average. If the transaction pays too low a fee or is otherwise atypical, getting the first confirmation can take longer. Every user is free to determine at what point they consider a transaction sufficiently confirmed, but <a href="https://okcash.org/you-need-to-know.html#instant" target="_blank">5 confirmations</a> is often considered to be as safe as waiting 5 months on a credit card transaction. </p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-2-2">
+													What if I receive a Okcash when my computer is powered off?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-2-2" class="collapse" data-parent="#accordion-2">
+											<div class="card-body">
+												<p>This works fine. The OK coins will appear next time you start your Okcash wallet application. The OK coins are not actually received by the software on your computer, they are appended to a public ledger that is shared between all the devices on the OK network. If you are sent Okcash when your wallet client program is not running and you later launch it, it will download blocks and catch up with any transactions it did not already know about, and the OK coins will eventually appear as if they were just received in real time. Your wallet is only needed when you wish to spend your Okcash.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-2-4">
+												   What does "synchronizing" mean and why does it take so long?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-2-4" class="collapse" data-parent="#accordion-2">
+											<div class="card-body">
+												<p>Long synchronization time is only required with full node clients like OK Core. Technically speaking, synchronizing is the process of downloading and verifying all previous Okcash transactions on the OK network. For some Okcash clients to calculate the spendable balance of your Okcash wallet and make new transactions, it needs to be aware of all previous transactions. This step can be resource intensive and requires sufficient bandwidth and storage to accommodate the full size of the OK block chain. For Okcash to remain secure, enough people should keep using Okcash full node clients because they perform the task of validating and relaying transactions.</p>
+											</div>
+										</div>
+									</div>
+									
+								</div>
+							</div><!-- End tab-pane -->
+							<div class="tab-pane fade" id="tab-3">
+								<div class="accordion" id="accordion-3">
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a data-toggle="collapse" data-target="#collapse-3-1">
+													What is Okcash staking?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-3-1" class="collapse show" data-parent="#accordion-3">
+											<div class="card-body">
+												<p>Staking is the process of spending cpu power to process transactions, secure the network, and keep everyone in the system synchronized together. It can be perceived like the Okcash data center except that it has been designed to be fully decentralized with stakers operating in all countries and no individual having control over the network. This process is referred to as "staking" as a cross analogy to Bitcoin mining because it also provides a reward in exchange for useful services required to operate a secure payment network issued in new Okcash (OK coins). Unlike Bitcoin mining, however, Okcash staking is energy friendly and more sustainable. Staking will still be required after the last Okcash is issued.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-3-2">
+												  How does Okcash staking work?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-3-2" class="collapse" data-parent="#accordion-3">
+											<div class="card-body">
+												<p>Anybody can become an Okcash staker by running the Okcash wallet software with some OK coins in the wallet. The OK wallet software listens for transactions broadcast through the peer-to-peer network and performs appropriate tasks to process and confirm these transactions. Okcash stakers perform this work because they can earn transaction fees paid by users for faster transaction processing, and newly created OK coins issued into existence according to a fixed formula.<br/>
+												Okcash stakers are neither able to cheat by increasing their own reward nor process fraudulent transactions that could corrupt the OK network because all Okcash nodes would reject any block that contains invalid data as per the rules of the Okcash protocol. Consequently, the OK network remains secure even if not all Okcash stakers can be trusted.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-3-3">
+												  How does staking help secure Okcash?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-3-3" class="collapse" data-parent="#accordion-3">
+											<div class="card-body">
+												<p>Staking creates the equivalent of a competitive lottery that makes it very difficult for anyone to consecutively add new blocks of transactions into the OK block chain. This protects the neutrality of the OK network by preventing any individual from gaining the power to block certain transactions. This also prevents any individual from replacing parts of the OK block chain to roll back their own spends, which could be used to defraud other users. Staking makes it exponentially more difficult to reverse a past transaction by requiring the rewriting of all blocks following this transaction.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-3-4">
+												  What do I need to start staking?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-3-4" class="collapse" data-parent="#accordion-3">
+											<div class="card-body">
+												<p>You only need to have OK coins and stake them in the Okcash wallet or in a staking pool.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><!-- End tab-pane -->
+							<div class="tab-pane fade" id="tab-4">
+								<div class="accordion" id="accordion-4">
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a data-toggle="collapse" data-target="#collapse-4-1">
+													Is Okcash secure?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-4-1" class="collapse show" data-parent="#accordion-4">
+											<div class="card-body">
+												<p>The OK technology - the protocol and the cryptography - has a strong security track record, and the OK network is one of the big distributed computing projects in the world. Okcash's most common vulnerability is in user error. Okcash wallet files that store the necessary private keys can be accidentally deleted, lost or stolen. This is pretty similar to physical cash stored in a digital form. Fortunately, users can employ sound <a href="https://okcash.org/secure-your-wallet.html" target="_blank">security practices</a> to protect their money or use service providers that offer good levels of security and insurance against theft or loss.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-4-2">
+												  Hasn't Okcash been hacked in the past?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-4-2" class="collapse" data-parent="#accordion-4">
+											<div class="card-body">
+												<p>The rules of the protocol and the cryptography used for Okcash are still working years after its inception, which is a good indication that the concept is well designed. However, security flaws have been found and fixed over time in various software implementations. Like any other form of software, the security of Okcash software depends on the speed with which problems are found and fixed. The more such issues are discovered, the more Okcash is gaining maturity.
+												<br/>
+												There are often misconceptions about thefts and security breaches that happened on diverse exchanges and businesses. Although these events are unfortunate, none of them involve Okcash itself being hacked, nor imply inherent flaws in Okcash; just like a bank robbery doesn't mean that the dollar is compromised. However, it is accurate to say that a complete set of good practices and intuitive security solutions is needed to give users better protection of their money, and to reduce the general risk of theft and loss. Over the course of the last few years, such security features have quickly developed, such as wallet encryption, offline wallets, multi-signature transactions and hardware wallets.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-4-3">
+												  Is Okcash vulnerable to quantum computing?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-4-3" class="collapse" data-parent="#accordion-4">
+											<div class="card-body">
+												<p>Yes, most systems relying on cryptography in general are, including Bitcoin and traditional banking systems. However, quantum computers don't yet exist and probably won't for a while. In the event that quantum computing could be an imminent threat to Okcash, the protocol could be upgraded to use post-quantum algorithms. Given the importance that this update would have, it can be safely expected that it would be highly reviewed by developers and adopted by all OK users.</p>
+											</div>
+										</div>
+									</div>
+									
+								</div>
+							</div><!-- End tab-pane -->
+							<div class="tab-pane fade" id="tab-5">
+								<div class="accordion" id="accordion-5">
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a data-toggle="collapse" data-target="#collapse-5-1">
+													Is Okcash legal?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-5-1" class="collapse show" data-parent="#accordion-5">
+											<div class="card-body">
+												<p>To the best of our knowledge, Okcash has not been made illegal by legislation in most jurisdictions. However, some jurisdictions (such as Argentina and Russia) severely restrict or ban foreign currencies. Other jurisdictions (such as Thailand) may limit the licensing of certain entities such as Bitcoin and Cryptocurrency exchanges.
+												<br/>
+												Regulators from various jurisdictions are taking steps to provide individuals and businesses with rules on how to integrate this new technology with the formal, regulated financial system. For example, the Financial Crimes Enforcement Network (FinCEN), a bureau in the United States Treasury Department, issued non-binding guidance on how it characterizes certain activities involving virtual currencies.</p>
+											</div>
+										</div>
+									</div>
+									
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-5-2">
+												  What about Okcash and taxes?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-5-2" class="collapse" data-parent="#accordion-5">
+											<div class="card-body">
+												<p>Okcash is not a fiat currency with legal tender status in any jurisdiction, but often tax liability accrues regardless of the medium used. There is a wide variety of legislation in many different jurisdictions which could cause income, sales, payroll, capital gains, or some other form of tax liability to arise with Okcash.</p>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="card-header">
+											<h5>
+												<a class="collapsed" data-toggle="collapse" data-target="#collapse-5-3">
+												  What about Okcash and consumer protection?<span class="plus-minus"><span class="ti ti-angle-up"></span></span>
+												</a>
+											</h5>
+										</div>
+										<div id="collapse-5-3" class="collapse" data-parent="#accordion-5">
+											<div class="card-body">
+												<p>Okcash is freeing people to transact on their own terms. Each user can send and receive payments in a similar way to cash but they can also take part in more complex contracts. Multiple signatures allow a transaction to be accepted by the network only if a certain number of a defined group of persons agree to sign the transaction. This allows innovative dispute mediation services to be developed in the future. Such services could allow a third party to approve or reject a transaction in case of disagreement between the other parties without having control on their money. As opposed to cash and other payment methods, Okcash always leaves a public proof that a transaction did take place, which can potentially be used in a recourse against businesses with fraudulent practices.</p>
+											</div>
+										</div>
+									</div>
+								</div><!-- End accordion -->
+							</div><!-- End tab-pane -->
+						</div><!-- End tab-content -->
+					</div><!-- End tab-custom -->
+				</div><!-- End col -->
+			</div><!-- End row -->
+		</div><!-- End container -->
+	</div>
+	<!-- End Section -->
+
+
+	<!-- Start Section -->
+	<div class="section section-pad section-bg-alt" id="ok-voluntaries">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col">
+					<div class="section-head">
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Okcash
+							<span>OK</span>
+						</h2>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">"We are the nerds, the misfits, the rebels, the troublemakers, the crazy ones enough to believe we can do so with our passion."
+						</br>~ In answer to Steve Jobs "The Crazy Ones" </p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2">
+					
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2">
+					<img src="images/okcash-cryptocurrency.jpg" alt="OK">
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Section -->
+
+
+	<!-- Start Section -->
+	<div class="section subscribe-section section-pad-md section-bg section-connect" id="sharing">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-6 offset-md-3">
+					<h4 class="section-title-md animated" data-animate="fadeInUp" data-delay="0">Join the different giveaways and faucets made by the community to support and share Okcash to Empower Everyone!</h4>
+						
+						<a href="https://cryptogiveaways.org/" class="btn btn-sm" target="_blank">Cryptogiveaways</a>
+						<a href="https://crex24.com/faucets" class="btn btn-sm" target="_blank">Crex24 Faucet</a>
+						<a href="https://btcpop.co/Faucet/OK" class="btn btn-sm" target="_blank">BTCpop Faucet</a>
+						
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Section -->
+
+
+	<!-- Start Section -->
+	<div class="section footer-scetion no-pt section-pad-sm section-bg">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-12">
+					<ul class="social">
+						<li class="animated" data-animate="fadeInUp" data-delay="0"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".1"><a href="https://twitter.com/search?q=okcash" target="_blank"><em class="fab fa-twitter"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".2"><a href="https://www.reddit.com/r/OKcash/" target="_blank"><em class="fab fa-reddit"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".3"><a href="https://github.com/okcashpro/okcash" target="_blank"><em class="fab fa-github"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".4"><a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".5"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
+					</ul>
+					<span class="copyright-text animated" data-animate="fadeInUp" data-delay=".3">
+						© 2014-2020 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>.
+						<span>All trademarks and copyrights belong to their respective owners.</span>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Section -->
+
+	<!-- Preloader -->
+	<div id="preloader">
+		<div id="loader"></div>
+		<div class="loader-section loader-top"></div>
+   		<div class="loader-section loader-bottom"></div>
+	</div>
+	<!-- Preloader End -->
+
+	<!-- JavaScript (include all script here) -->
+	<script src="assets/js/jquery.bundle.js?ver=142"></script>
+	<script src="assets/js/script.js?ver=142"></script>
+
+</body>
 </html>
