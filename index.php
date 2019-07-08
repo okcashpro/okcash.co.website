@@ -11,7 +11,16 @@
 	<!-- Custom styles for this template -->
 	<link rel="stylesheet" href="assets/css/style.css?ver=143">
 	<link rel="stylesheet" href="assets/css/theme.css?ver=143">
-	
+	<!-- Global site tag (gtag.js) - -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140324215-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140324215-1');
+</script>
+
 </head>
 
 <body class="theme-dark is-smooth-effect" data-spy="scroll" data-target="#mainnav" data-offset="80">
@@ -26,8 +35,7 @@
 		<div class="navbar navbar-expand-lg is-transparent" id="mainnav">
 			<nav class="container">
 				<a class="navbar-brand animated" data-animate="fadeInDown" data-delay=".65" href="./">
-					<img class="logo logo-dark" alt="logo" src="images/logo.png" srcset="images/logo2x.png 2x">
-					<img class="logo logo-light" alt="logo" src="images/logo-white.png" srcset="images/logo-white2x.png 2x">
+					<img class="logo logo-light" alt="Okcash" src="images/logo-white.png">
 				</a>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle">
@@ -393,7 +401,7 @@ $marketcap = $json4["data"]["marketCapUsd"];
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down roadmap-done">
 						<h6>Q3 2019</h6>
-						<p>• OK core upgrade  <br/>• OK electrum client <br/>• Resources update <br/>• New Resources for services</p>
+						<p>• OK core bip updt  <br/>• OK electrum client <br/>• Resources update <br/>• New Resources for services</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
