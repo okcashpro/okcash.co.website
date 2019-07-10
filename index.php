@@ -15,10 +15,10 @@
     <meta property="og:description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, energy friendly, and free from bank fees." />
 	<link rel="shortcut icon" href="images/favicon.png">
 	<title>Okcash • Energy friendly open source digital cash</title>
-	<link rel="stylesheet" href="assets/css/main.bundle.css?ver=143">
+	<link rel="stylesheet" href="assets/css/main.bundle.css">
 	<!-- Custom styles for this template -->
-	<link rel="stylesheet" href="assets/css/style.css?ver=143">
-	<link rel="stylesheet" href="assets/css/theme.css?ver=143">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/theme.css">
 	<!-- Global site tag (gtag.js) - -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140324215-1"></script>
 <script>
@@ -94,7 +94,8 @@
 									<li><a href="https://bitcoinfullnode.org/" target="_blank" class="btn btn-alt">Visit BitcoinFullnode.org</a></li>
 								</ul>
 								<ul class="social">
-									<li class="animated" data-animate="fadeInUp" data-delay="1.85"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.8"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.85"><a href="https://t.me/okcash" target="_blank"><em class="fab fa-telegram"></em></a></li>
 									<li class="animated" data-animate="fadeInUp" data-delay="1.9"><a href="https://twitter.com/search?q=okcash" target="_blank"><em class="fab fa-twitter"></em></a></li>
 									<li class="animated" data-animate="fadeInUp" data-delay="1.95"><a href="https://www.reddit.com/r/OKcash/" target="_blank"><em class="fab fa-reddit"></em></a></li>
 									<li class="animated" data-animate="fadeInUp" data-delay="2"><a href="https://github.com/okcashpro/okcash" target="_blank"><em class="fab fa-github"></em></a></li>
@@ -1426,11 +1427,12 @@ $marketcap = $json4["data"]["marketCapUsd"];
 				<div class="col-md-12">
 					<ul class="social">
 						<li class="animated" data-animate="fadeInUp" data-delay="0"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".1"><a href="https://twitter.com/search?q=okcash" target="_blank"><em class="fab fa-twitter"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".2"><a href="https://www.reddit.com/r/OKcash/" target="_blank"><em class="fab fa-reddit"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".3"><a href="https://github.com/okcashpro/okcash" target="_blank"><em class="fab fa-github"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".4"><a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".5"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".1"><a href="https://t.me/okcash" target="_blank"><em class="fab fa-telegram"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".2"><a href="https://twitter.com/search?q=okcash" target="_blank"><em class="fab fa-twitter"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".3"><a href="https://www.reddit.com/r/OKcash/" target="_blank"><em class="fab fa-reddit"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".4"><a href="https://github.com/okcashpro/okcash" target="_blank"><em class="fab fa-github"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".5"><a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".6"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
 					</ul>
 					<span class="copyright-text animated" data-animate="fadeInUp" data-delay=".3">
 						© 2014-2020 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>.
