@@ -735,7 +735,7 @@ $marketcap = $json4["data"]["marketCapUsd"];
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://crex24.com/exchange/OK-BTC" target="_blank"><img src="images/crex24.png" alt="Crex24"></a>
+							<a href="https://cryptofacil.com/trading-view/84/BTC-OK" target="_blank"><img src="images/cryptofacil.png" alt="Cryptofacil"></a>
 						</div>
 								</div>
 							</div>
@@ -758,12 +758,12 @@ $marketcap = $json4["data"]["marketCapUsd"];
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a>
+							<a href="https://simpleswap.io/" target="_blank"><img src="images/simpleswap.png" alt="SimpleSwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://simpleswap.io/" target="_blank"><img src="images/simpleswap.png" alt="SimpleSwap"></a>
+							<a href="https://app.stex.com/en/trade/pair/BTC/OK" target="_blank"><img src="images/stex.png" alt="STeX"></a>
 						</div>
 					</div>
 				</div>
@@ -779,7 +779,7 @@ $marketcap = $json4["data"]["marketCapUsd"];
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-									<a href="https://txbit.io/" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>
+									<a href="https://txbit.io/Trade/OK/BTC" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>
 								</div>
 							</div>
 						</div>
@@ -802,7 +802,7 @@ $marketcap = $json4["data"]["marketCapUsd"];
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a> -->
+							<a href="https://crex24.com/exchange/OK-BTC" target="_blank"><img src="images/crex24.png" alt="Crex24"></a>
 						</div>
 					</div>
 				</div>
@@ -812,13 +812,53 @@ $marketcap = $json4["data"]["marketCapUsd"];
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-									<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a> -->
+									<a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> 
 						</div>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a> -->
+								<a href="https://www.finexbox.com/market/pair/OK-BTC.html" target="_blank"><img src="images/finexbox.png" alt="FinexBox"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<br/>
+			<div class="partner-list">
+				<div class="row text-center">
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
+							<a href="https://trade.zer-dex.market/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a>
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a>
+							
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<a href="https://trade.birake.com/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/birake.png" alt="Birake"></a>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-md-8 offset-md-2">
+						<div class="row">
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
+									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+									<a href="https://stealthex.io/" target="_blank"><img src="images/stealthex.png" alt="Stealthex"></a> 
+						</div>
+								</div>
+							</div>
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+								<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a>  -->
 								</div>
 							</div>
 						</div>
