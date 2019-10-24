@@ -1,3 +1,11 @@
+<?php 
+$totalcoins = file_get_contents("stats/totalcoins.txt");
+$totady = file_get_contents("stats/totady.txt");
+$nonady = file_get_contents("stats/nonady.txt");
+$marketplace = file_get_contents("stats/marketplace.txt");
+$marketcap = file_get_contents("stats/marketcap.txt");
+?>
+
 <!DOCTYPE html>
 <html lang="eng" class="js">
 <head>
@@ -236,12 +244,6 @@
 				</div>
 			</div>
 
-<?php 
-$url = "http://chainz.cryptoid.info/ok/api.dws?q=totalcoins";
-$json1 = json_decode(file_get_contents($url), true);
-$totalcoins = $json1;
-?>
-
 
 			<div class="row align-items-center">
 				<div class="col-lg-6 res-m-bttm">
@@ -299,7 +301,7 @@ $totalcoins = $json1;
 				<div class="col-lg-5 offset-lg-1">
 					<div class="countdown-box text-center animated" data-animate="fadeInUp" data-delay=".3">
 						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Drop</a></p>
-						<div class="token-countdown d-flex align-content-stretch" data-date="2020/06/28"></div>
+						<div class="token-countdown d-flex align-content-stretch" data-date="2020/06/11"></div>
 						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute with Okcash Development</a>
 						<ul class="icon-list">
 							 
@@ -325,11 +327,7 @@ $totalcoins = $json1;
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 							<div class="counters-item">
 								<i class="fas fa-qrcode fa-3x"></i>
-<?php 
-$url2 = "http://chainz.cryptoid.info/ok/api.dws?q=addresses";
-$json2 = json_decode(file_get_contents($url2), true);
-$totady = $json2["known"];
-?>
+
 								<br/><br/><h2><?=number_format($totady, 0);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p>OK Addresses created so far</p>
@@ -338,11 +336,7 @@ $totady = $json2["known"];
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 							<div class="counters-item">
 								<i class="fas fa-trophy fa-3x"></i>
-<?php 
-$url3 = "http://chainz.cryptoid.info/ok/api.dws?q=addresses";
-$json3 = json_decode(file_get_contents($url3), true);
-$nonady = $json3["nonzero"];
-?>
+
 								<br/><br/><h2><?=number_format($nonady, 0);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p>Addresses holding OK coins</p>
@@ -351,11 +345,7 @@ $nonady = $json3["nonzero"];
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 							<div class="counters-item">
 								<i class="fas fa-rocket fa-3x"></i>
-<?php 
-$url4 = "https://api.coincap.io/v2/assets/okcash";
-$json4 = json_decode(file_get_contents($url4), true);
-$marketplace = $json4["data"]["rank"];
-?>
+
 								<br/><br/><h2><?=number_format($marketplace, 0);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p> CoinCap Rank</p>
@@ -364,11 +354,7 @@ $marketplace = $json4["data"]["rank"];
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 							<div class="counters-item">
 								<i class="fas fa-star fa-3x"></i>
-<?php 
-$url5 = "https://api.coincap.io/v2/assets/okcash";
-$json5 = json_decode(file_get_contents($url5), true);
-$marketcap = $json4["data"]["marketCapUsd"];
-?>
+
 								<br/><br/><h2>$ <?=number_format($marketcap, 2);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
 								<p>Market Cap (USD)</p>
