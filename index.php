@@ -792,7 +792,7 @@ $marketcap = $json4["data"]["marketCapUsd"];
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://novaexchange.com/market/BTC_OK/" target="_blank"><img src="images/nova.png" alt="Nova"></a>
+							<a href="https://stealthex.io/" target="_blank"><img src="images/stealthex.png" alt="Stealthex"></a> 
 						</div>
 					</div>
 					<div class="col-sm">
@@ -852,7 +852,7 @@ $marketcap = $json4["data"]["marketCapUsd"];
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-									<a href="https://stealthex.io/" target="_blank"><img src="images/stealthex.png" alt="Stealthex"></a> 
+									<a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a> 
 						</div>
 								</div>
 							</div>
