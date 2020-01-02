@@ -213,7 +213,8 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<p class="animated" data-animate="fadeInUp" data-delay="0">The main mission of the Okcash project is to empower its users while being energy friendly and sustainable, evolve with positive innovations, and decentralization to give the power to the user and help advance crypto forward. <br/>The OK movement mission is to help change the world with positive innovation. <br/>These are some of the benefits of start using Okcash:</p>
 						<ul class="animated" data-animate="fadeInUp" data-delay=".1">
 							<li>Multiplatform [Windows, Mac, Linux, Android, IoT devices]</li>
-							<li>Efficiency [4+ years tested chain]</li>
+							<li>100% upload time + Decentralized.</li>
+							<li>Efficiency [5+ years tested chain]</li>
 							<li>Availability world wide [Network running 24/7]</li>
 							<li>Transaction Speeds [Less than 72 seconds]</li>
 							<li>Lowest Fees [ 0.0001 OK = 0.000005 USD aprox*] </li>
@@ -778,7 +779,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://stealthex.io/" target="_blank"><img src="images/stealthex.png" alt="Stealthex"></a> 
+							<a href="https://stealthex.io/" target="_blank"><img src="images/stealth-ex.png" alt="Stealthex"></a> 
 						</div>
 					</div>
 					<div class="col-sm">
@@ -844,7 +845,47 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<!-- <a href="#" target="_blank"><img src="images/#.png" alt="#"></a>  -->
+								<a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<br/>
+			<div class="partner-list">
+				<div class="row text-center">
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
+							<!-- <a href="#" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a> -->
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<!-- <a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a> -->
+							
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-md-8 offset-md-2">
+						<div class="row">
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
+									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+									<!-- <a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a>  -->
+						</div>
+								</div>
+							</div>
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+								<!-- <a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a> -->
 								</div>
 							</div>
 						</div>
