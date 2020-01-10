@@ -863,13 +863,12 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<!-- <a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a> -->
-							
+							<a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>							
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>
+							<a href="https://vcc.exchange/exchange/basic?currency=btc&coin=ok" target="_blank"><img src="images/vcc-exchange.png" alt="VCC Exchange"></a>
 						</div>
 					</div>
 				</div>
