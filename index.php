@@ -401,7 +401,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
-					<div class="single-roadmap roadmap-lg">
+					<div class="single-roadmap roadmap-lg roadmap-done">
 						<h6>Q4 2019</h6>
 						<p>• OK 5th Birthday <br/>• ROKOS 10 release <br/>• OK dev [Open source devs community for Okcash] <br/>• OK core design upgrade</p>
 					</div>
@@ -415,13 +415,13 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm">
 						<h6>Q2 2020</h6>
-						<p>• Ledger Integration <br/>• OK self governance system [open test] <br/>• Okcash foundation <br/>• OK block reward halving <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
+						<p>• Ledger Integration <br/>• OK self governance system [close test] <br/>• Okcash foundation <br/>• OK block reward halving <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6>Q3 2020</h6>
-						<p>• OK self governance system [release] <br/>• ROKOS 11 release <br/>• ROKOS + smart contracts [open test + giveaway to OK holders] <br/>• OK core upgrade</p>
+						<p>• OK self governance system [open test] <br/>• ROKOS 11 release <br/>• ROKOS + smart contracts [open test + giveaway to OK holders] <br/>• OK core upgrade</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
