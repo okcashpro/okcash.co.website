@@ -403,7 +403,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6>Q4 2019</h6>
-						<p>• OK 5th Birthday <br/>• Ledger Integration <br/>• ROKOS 10 release <br/>• OK dev [Open source devs community for Okcash] <br/>• OK core design upgrade</p>
+						<p>• OK 5th Birthday <br/>• ROKOS 10 release <br/>• OK dev [Open source devs community for Okcash] <br/>• OK core design upgrade</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
@@ -415,7 +415,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm">
 						<h6>Q2 2020</h6>
-						<p>• OK self governance system [open test] <br/>• Okcash foundation <br/>• OK block reward halving <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
+						<p>• Ledger Integration <br/>• OK self governance system [open test] <br/>• Okcash foundation <br/>• OK block reward halving <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
@@ -616,6 +616,27 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				</div><!-- .col  -->
 			</div><!-- .row  -->
 			
+			<div class="row text-center">
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://cryptocurrencycheckout.com/coin/okcash" target="_blank"><img src="images/cccheckout.jpg" alt="cccheckout" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Cryptocurrency Checkout</h5>
+							<span class="team-title">Payments and Merchant tools</span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
+
+				
+			</div><!-- .row  -->
+			
 			
 			
 			
@@ -728,7 +749,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-									<a href="https://changenow.io/" target="_blank"><img src="images/changenow.png" alt="ChangeNow"></a>
+									<a href="https://changenow.io/currencies/exchange/okcash" target="_blank"><img src="images/changenow.png" alt="ChangeNow"></a>
 								</div>
 							</div>
 						</div>
@@ -941,8 +962,6 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 				</div>
 				<div class="row text-center">
-					<div class="col-md-10 offset-md-1">
-						<div class="row">
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".7">
 									<a href="https://www.investing.com/crypto/okcash" target="_blank"><img src="images/investing.png" alt="ok stats & info"></a>
@@ -963,9 +982,57 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 									<a href="https://coincircus.io/coins.php?symbol=OK" target="_blank"><img src="images/coincircus.png" alt="ok stats & info"></a>
 								</div>
 							</div>
-						</div>
-					</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.1">
+									<a href="https://www.tradingview.com/symbols/OKUSD/technicals/" target="_blank"><img src="images/tradingview.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.2">
+									<a href="https://coinranking.com/coin/9-C1-XaX7APZr+okcash-ok" target="_blank"><img src="images/coinranking.png" alt="ok stats & info"></a>
+								</div>
+							</div>
 				</div>
+				<div class="row text-center">
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.3">
+									<a href="https://cryptoslate.com/coins/okcash/" target="_blank"><img src="images/cryptoslate.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.4">
+									<a href="https://www.cryptoground.com/okcash-price-prediction" target="_blank"><img src="images/cryptoground.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.5">
+									<a href="https://www.stakingrewards.com/asset/okcash" target="_blank"><img src="images/stakingrewards.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.6">
+									<a href="https://www.worldcoinindex.com/coin/Okcash" target="_blank"><img src="images/wcindex.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.7">
+									<a href="https://coinclarity.com/coin/ok/" target="_blank"><img src="images/coinclarity.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.8">
+									<a href="https://cointostake.com/okcash.php" target="_blank"><img src="images/cointostake.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+				</div>
+				<div class="row text-center">
+							<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.3">
+									<a href="https://member.icoperf.com/portal/detail/223/" target="_blank"><img src="images/icoperf.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+							
+				</div> 
 			</div>
 		</div>
 	</div>
