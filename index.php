@@ -633,6 +633,22 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						
 					</div>
 				</div><!-- .col  -->
+				
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://socialsend.net" target="_blank"><img src="images/socialsend.jpg" alt="socialsend" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Social Send</h5>
+							<span class="team-title">Send and Receive Okcash over Social Networks</span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
 
 				
 			</div><!-- .row  -->
@@ -879,7 +895,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<!-- <a href="#" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a> -->
+							<a href="https://socialsend.net/user/exchange/BTC/OK" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a> 
 						</div>
 					</div>
 					<div class="col-sm">
