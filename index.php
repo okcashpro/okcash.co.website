@@ -634,6 +634,8 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 				</div><!-- .col  -->
 				
+				
+				
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
@@ -643,6 +645,22 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<div class="team-info">
 							<h5 class="team-name">Social Send</h5>
 							<span class="team-title">Send and Receive Okcash over Social Networks</span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
+				
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://blockfolio.com/" target="_blank"><img src="images/blockfolio.jpg" alt="blockfolio" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Blockfolio</h5>
+							<span class="team-title">Crypto News Signals / Cryptocurrency Tracking and more</span>
 							
 						</div>
 
