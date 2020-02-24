@@ -301,7 +301,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				</div><!-- .col  -->
 				<div class="col-lg-5 offset-lg-1">
 					<div class="countdown-box text-center animated" data-animate="fadeInUp" data-delay=".3">
-						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Drop</a></p>
+						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Change</a></p>
 						<div class="token-countdown d-flex align-content-stretch" data-date="2020/06/11"></div>
 						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute with Okcash Development</a>
 						<ul class="icon-list">
@@ -958,7 +958,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 			<div class="row text-center">
 				<div class="col-md-6 offset-md-3">
 					<div class="section-head">
-						<h6 class="section-title-sm animated" data-animate="fadeInUp" data-delay="0">Find more Ok info &amp; stats over:</h6>
+						<h6 class="section-title-sm animated" data-animate="fadeInUp" data-delay="0">Find more Okcash info &amp; stats over:</h6>
 					</div>
 				</div>
 			</div>
