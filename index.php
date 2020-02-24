@@ -795,7 +795,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank"><img src="images/tradesatoshi.png" alt="TradeSatoshi"></a>
+							<a href="https://vcc.exchange/exchange/basic?currency=btc&coin=ok" target="_blank"><img src="images/vcc-exchange.png" alt="VCC Exchange"></a>
 						</div>
 					</div>
 					<div class="col-sm">
@@ -923,7 +923,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://vcc.exchange/exchange/basic?currency=btc&coin=ok" target="_blank"><img src="images/vcc-exchange.png" alt="VCC Exchange"></a>
+							<!-- <a href="https://vcc.exchange/exchange/basic?currency=btc&coin=ok" target="_blank"><img src="images/vcc-exchange.png" alt="VCC Exchange"></a> -->
 						</div>
 					</div>
 				</div>
@@ -1008,7 +1008,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".9">
-									<a href="https://www.ratingtoken.net/ratings/OK-1" target="_blank"><img src="images/ratingtoken.png" alt="ok stats & info"></a>
+									<a href="https://www.forbes.com/sites/shehanchandrasekera/2020/02/03/how-staking-tezos-may-generate-rental-income/#b08afc403474" target="_blank"><img src="images/forbes.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
@@ -1063,6 +1063,11 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.3">
 									<a href="https://member.icoperf.com/portal/detail/223/" target="_blank"><img src="images/icoperf.png" alt="ok stats & info"></a>
+								</div>
+							</div>
+				<div class="col-sm col-6">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".9">
+									<a href="https://www.ratingtoken.net/ratings/OK-1" target="_blank"><img src="images/ratingtoken.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							
