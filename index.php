@@ -923,7 +923,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<!-- <a href="https://vcc.exchange/exchange/basic?currency=btc&coin=ok" target="_blank"><img src="images/vcc-exchange.png" alt="VCC Exchange"></a> -->
+							<a href="https://swapzone.io/?from=ok&to=btc" target="_blank"><img src="images/swapzone.png" alt="VCC Exchange"></a>
 						</div>
 					</div>
 				</div>
