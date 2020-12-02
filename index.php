@@ -95,7 +95,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					<div class="row align-items-center mobile-center">
 						<div class="col-lg-6 col-md-12 order-lg-first">
 							<div class="header-txt">
-								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">Okcash • The Proof of Stake Bitcoin</h1>
+								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">Okcash • Energy Friendly and Open source Peer-to-Peer Electronic Cash </h1>
 								<p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">Micro Transactions • Speed • Efficiency • Security<br/>Decentralize Everything and Empower Everyone</p>
 								<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">
 									<li><a href="https://okcash.org/" target="_blank" class="btn">Learn more at Okcash.org</a></li>
