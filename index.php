@@ -757,7 +757,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://international.bittrex.com/Market/Index?MarketName=BTC-OK" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
+							<a href="http://bit.ly/okbittrex" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
 						</div>
 					</div>
 					<div class="col-sm">
@@ -771,7 +771,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						</div>
 					</div>
 				</div>
-				<div class="row text-center">
+				<!--<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
 						<div class="row">
 							<div class="col-sm">
@@ -788,12 +788,12 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>-->
 			</div>
 			<br/>
 			<div class="partner-list">
 				<div class="row text-center">
-					<div class="col-sm">
+					<!--<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
 							<a href="https://vcc.exchange/exchange/basic?currency=btc&coin=ok" target="_blank"><img src="images/vcc-exchange.png" alt="VCC Exchange"></a>
 						</div>
@@ -802,10 +802,10 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
 							<a href="https://simpleswap.io/" target="_blank"><img src="images/simpleswap.png" alt="SimpleSwap"></a>
 						</div>
-					</div>
+					</div>-->
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://app.stex.com/en/trade/pair/BTC/OK" target="_blank"><img src="images/stex.png" alt="STeX"></a>
+							<a href="http://bit.ly/okstex" target="_blank"><img src="images/stex.png" alt="STeX"></a>
 						</div>
 					</div>
 				</div>
@@ -820,10 +820,10 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 								</div>
 							</div>
 							<div class="col-sm">
-								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+								<!--<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
 									<a href="https://txbit.io/Trade/OK/BTC" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>
 								</div>
-							</div>
+							</div>-->
 						</div>
 					</div>
 				</div>
@@ -832,7 +832,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 			<br/>
 			<div class="partner-list">
 				<div class="row text-center">
-					<div class="col-sm">
+					<!--<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
 							<a href="https://stealthex.io/" target="_blank"><img src="images/stealth-ex.png" alt="Stealthex"></a> 
 						</div>
@@ -841,10 +841,10 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
 							<a href="https://knaken.eu/" target="_blank"><img src="images/knaken.png" alt="Knaken"></a>
 						</div>
-					</div>
+					</div>-->
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://crex24.com/exchange/OK-BTC" target="_blank"><img src="images/crex24.png" alt="Crex24"></a>
+							<a href="http://bit.ly/okcrexx" target="_blank"><img src="images/crex24.png" alt="Crex24"></a>
 						</div>
 					</div>
 				</div>
@@ -898,11 +898,11 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						</div>
 								</div>
 							</div>
-							<div class="col-sm">
+							<!--<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
 								<a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a>
 								</div>
-							</div>
+							</div>-->
 						</div>
 					</div>
 				</div>
@@ -916,11 +916,11 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							<a href="https://socialsend.net/user/exchange/BTC/OK" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a> 
 						</div>
 					</div>
-					<div class="col-sm">
+					<!--<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
 							<a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>							
 						</div>
-					</div>
+					</div>-->
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="https://swapzone.io/?from=ok&to=btc" target="_blank"><img src="images/swapzone.png" alt="VCC Exchange"></a>
@@ -948,7 +948,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 			</div>
 			
 		</div>
-	</div>
+	</div><br/><br/>
 	<!-- Start Section -->
 
 
