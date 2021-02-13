@@ -140,7 +140,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					<div class="text-block">
 						<h4 class="animated" data-animate="fadeInUp" data-delay="0">What is Okcash?</h4>
 						<p class="lead animated" data-animate="fadeInUp" data-delay=".1">OKCash is a hybrid cryptocurrency that evolved into a full Proof of Stake (PoS) system. [Efficient &amp; Energy Friendly]</p>
-						<p class="animated" data-animate="fadeInUp" data-delay=".2"> Okcash is simple to use, efficient and sustainable, it boasts of a confirmation rate higher than most cryptocurrencies, fast speeds, low fees, long term sustainable staking, a secure messaging system and is ready for the Internet of Things (IoT).</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".2"> Okcash is simple to use, efficient and sustainable, it boasts of a confirmation rate higher than most cryptocurrencies, fast speeds, low fees, long term sustainable staking [With LTSSposv3hybrid system, Okcash reaches full predictability and it becomes like mining on Bitcoin (each block holds a semi-static reward, increasing even further the fairness and security of the chain over any actual PoS system)], and is also ready for the Internet of Things (IoT) and every OS Platform.</p>
 						<p class="animated" data-animate="fadeInUp" data-delay=".3">Okcash is a decentralized and fast growing  cryptocurrency / movement that was born on Nov 24th 2014. OK was mined (PoW-Scrypt) and evolved to be stake-able (PoS-LTSS-Sha256). Okcash is not a security, it never had an ICO, nor any kind of funding rounds. OK is self sustainable and is fully supported by voluntaries (Just like Bitcoin).</p>
 					</div>
 				</div><!-- .col  -->
@@ -433,7 +433,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• ROKOS 12 release <br/>• OK Dex [open test] <br/>• OK core secure message system upgrade</p>
+						<p>• ROKOS 12 release <br/>• OK Dex [open test]</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
