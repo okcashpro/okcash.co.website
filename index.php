@@ -531,12 +531,12 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
 						<div class="team-photo">
-							<a href="https://www.coinomi.com/en/asset/okcash/" target="_blank"><img src="images/coinomi.jpg" alt="coinomi">
+							<a href="https://www.coinlore.com/coin/okcash" target="_blank"><img src="images/coinlore.jpg" alt="coinlore">
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Coinomi</h5>
-							<span class="team-title">Multiplatform Blockchain Wallet</span>
+							<h5 class="team-name">CoinLore</h5>
+							<span class="team-title">Coin Market Overview</span>
 							
 						</div>
 
