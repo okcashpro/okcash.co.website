@@ -282,7 +282,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<div class="col-sm-6">
 							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".5">
 								<h6>Current LTSS POS Block Reward</h6>
-								<p>22 % </p>
+								<p>6+ OK coins / Block Reward</p>
 							</div>
 						</div><!-- .col  -->
 						<div class="col-sm-6">
@@ -668,6 +668,21 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 				</div><!-- .col  -->
 
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://coinscouts.io/coin/okcash" target="_blank"><img src="images/coinscouts.jpg" alt="coinscouts" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">CoinScouts</h5>
+							<span class="team-title">World's Most Powerful Crypto Database</span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
 				
 			</div><!-- .row  -->
 			
