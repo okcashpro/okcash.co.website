@@ -302,7 +302,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg-5 offset-lg-1">
 					<div class="countdown-box text-center animated" data-animate="fadeInUp" data-delay=".3">
 						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Change</a></p>
-						<div class="token-countdown d-flex align-content-stretch" data-date="2020/06/11"></div>
+						<div class="token-countdown d-flex align-content-stretch" data-date="2022/10/23"></div>
 						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute with Okcash Development</a>
 						<ul class="icon-list">
 							 
@@ -1622,7 +1622,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<li class="animated" data-animate="fadeInUp" data-delay=".6"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
 					</ul>
 					<span class="copyright-text animated" data-animate="fadeInUp" data-delay=".3">
-						© 2014-2020 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>.
+						© 2014-2022 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>.
 						<span>All trademarks and copyrights belong to their respective owners.</span>
 					</span>
 				</div>
