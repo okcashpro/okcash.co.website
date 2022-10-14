@@ -32,9 +32,10 @@ $fp = fopen('stats/marketplace.txt', 'w') or die("can't open file");
 fwrite($fp, $marketplace);
 fclose($fp);
 
-$url5 = "https://api.coincap.io/v2/assets/okcash";
-$json5 = json_decode(file_get_contents($url5), true);
-$marketcap = $json4["data"]["marketCapUsd"];
+$urlok221 = "http://chainz.cryptoid.info/ok/api.dws?q=ticker.usd";
+$pricecoin = json_decode(file_get_contents($urlok221), true);
+
+$marketcap = $totalcoins * $pricecoin;
 
 $fp = fopen('stats/marketcap.txt', 'w') or die("can't open file");
 fwrite($fp, $marketcap);

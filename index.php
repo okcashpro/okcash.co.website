@@ -16,6 +16,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 	<meta property="og:image" content="https://okcash.co/images/okcash-ok.jpg">
 	<meta property="og:image:type" content="image/jpeg">
 	<meta property="og:image:width" content="900">
+	<meta property="og:image:width" content="900">
 	<meta property="og:image:height" content="450">
 	<meta property="og:type" content="website" />
     <meta property="og:url" content="https://okcash.co/"/>
@@ -45,7 +46,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 	<header class="site-header is-sticky">
 
 		<!-- Place Particle Js -->
-		<div id="particles-js" class="particles-container particles-js"></div>
+		<!-- <div id="particles-js" class="particles-container particles-js"></div> -->
 
 		<!-- Navbar -->
 		<div class="navbar navbar-expand-lg is-transparent" id="mainnav">
@@ -74,14 +75,14 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 								<a class="dropdown-item menu-link" href="#stats">OK Info + Stats</a>
 								<a class="dropdown-item menu-link" href="#worldwide">Worldwide Stats</a>
 								<a class="dropdown-item menu-link" href="#faq">Frequently AQ</a>
-								<a class="dropdown-item menu-link" href="#ok-voluntaries">OK voluntaries</a>
+								<a class="dropdown-item menu-link" href="#ok-voluntaries">OK volunteers</a>
 								<a class="dropdown-item menu-link" href="#sharing">Sharing is caring</a>
 							</div>
 						</li>
 					</ul>
 					<ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">
-						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://chainz.cryptoid.info/ok/" target="_blank">OK explorer</a></li>
-						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Free Download</a></li>
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Download OK</a></li>
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://oktoken.cash" target="_blank">Swap OK BEP20</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -98,8 +99,8 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">Okcash • Energy Friendly and Open source Peer-to-Peer Electronic Cash </h1>
 								<p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">Micro Transactions • Speed • Efficiency • Security<br/>Decentralize Everything and Empower Everyone</p>
 								<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">
-									<li><a href="https://okcash.org/" target="_blank" class="btn">Learn more at Okcash.org</a></li>
-									<li><a href="https://bitcoinfullnode.org/" target="_blank" class="btn btn-alt">Visit BitcoinFullnode.org</a></li>
+									<li><a href="https://chainz.cryptoid.info/ok/" target="_blank" class="btn">Okcash [OK] Explorer</a></li>
+									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank" class="btn btn-alt">Wrapped Okcash [OK BEP20] Explorer</a></li>
 								</ul>
 								<ul class="social">
 									<li class="animated" data-animate="fadeInUp" data-delay="1.8"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
@@ -115,8 +116,8 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<div class="col-lg-6 col-md-12 order-first">
 							<div class="header-image animated" data-animate="fadeInRight" data-delay="1.25">
 								<img src="images/header-ok-btc-network.png" alt="header">
-								<img class="header-image-icon left-icon" src="images/okcash-icon-a.png" alt="header-icon">
-								<img class="header-image-icon right-icon" src="images/bitcoin-icon-b.png" alt="header-icon">
+								<!-- <img class="header-image-icon left-icon" src="images/okcash-icon-a.png" alt="header-icon">
+								<img class="header-image-icon right-icon" src="images/bitcoin-icon-b.png" alt="header-icon"> -->
 							</div>
 						</div><!-- .col  -->
 					</div><!-- .row  -->
@@ -141,7 +142,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<h4 class="animated" data-animate="fadeInUp" data-delay="0">What is Okcash?</h4>
 						<p class="lead animated" data-animate="fadeInUp" data-delay=".1">OKCash is a hybrid cryptocurrency that evolved into a full Proof of Stake (PoS) system. [Efficient &amp; Energy Friendly]</p>
 						<p class="animated" data-animate="fadeInUp" data-delay=".2"> Okcash is simple to use, efficient and sustainable, it boasts of a confirmation rate higher than most cryptocurrencies, fast speeds, low fees, long term sustainable staking [With LTSSposv3hybrid system, Okcash reaches full predictability and it becomes like mining on Bitcoin (each block holds a semi-static reward, increasing even further the fairness and security of the chain over any actual PoS system)], and is also ready for the Internet of Things (IoT) and every OS Platform.</p>
-						<p class="animated" data-animate="fadeInUp" data-delay=".3">Okcash is a decentralized and fast growing  cryptocurrency / movement that was born on Nov 24th 2014. OK was mined (PoW-Scrypt) and evolved to be stake-able (PoS-LTSS-Sha256). Okcash is not a security, it never had an ICO, nor any kind of funding rounds. OK is self sustainable and is fully supported by voluntaries (Just like Bitcoin).</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".3">Okcash is a decentralized and fast growing  cryptocurrency / movement that was born on Nov 24th 2014. OK was mined (PoW-Scrypt) and evolved to be stake-able (PoS-LTSS-Sha256). Okcash is not a security, it never had an ICO, nor any kind of funding rounds. OK is self sustainable and is fully supported by volunteers (Just like Bitcoin).</p>
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
@@ -194,8 +195,8 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">The Okcash Wallet 
 							<span>OK</span>
 						</h2>
-						<p class="animated" data-animate="fadeInUp" data-delay=".1">Your Okcash wallet is the software you use to send, receive and store your Okcash. It’s simple to use and you can choose to send and receive OK payments or secure messages from your own OK wallet.</p>
-						<a href="https://okcash.org/#jf_download" class="btn btn-sm" target="_blank">Join the OK movement and Get my Okcash wallet Now!</a>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">Your Okcash wallet is the software you use to send, receive and store your Okcash. It’s simple to use and you can choose to send and receive OK payments from your own OK wallet.</p>
+						<a href="https://okcash.org/#jf_download" class="btn btn-sm" target="_blank">Download the Okcash Wallet from Okcash.org</a>
 					</div>
 				</div>
 			</div>
@@ -214,7 +215,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<ul class="animated" data-animate="fadeInUp" data-delay=".1">
 							<li>Multiplatform [Windows, Mac, Linux, Android, IoT devices]</li>
 							<li>100% upload time + Decentralized.</li>
-							<li>Efficiency [5+ years tested chain]</li>
+							<li>Efficiency [7+ years tested chain]</li>
 							<li>Availability world wide [Network running 24/7]</li>
 							<li>Transaction Speeds [Less than 72 seconds]</li>
 							<li>Lowest Fees [ 0.0001 OK = 0.000005 USD aprox*] </li>
@@ -403,55 +404,55 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg roadmap-done">
 						<h6> </h6>
-						<p>• OK 5th Birthday <br/>• ROKOS 10 release <br/>• OK dev [Open source devs community for Okcash] <br/>• OK core design upgrade</p>
+						<p>• OK Birthday <br/>• ROKOS 10 release <br/>• OK dev [Open source devs community for Okcash] <br/>• OK core design upgrade</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• TrustWallet Integration <br/>• OK web staking wallet <br/>• OK mobile staking wallet <br/>• OK core upgrade <br/>• Okcash wiki <br/>• OK network health nodes map </p>
+						<p>• OK network health nodes map <br/>• OK web staking wallet <br/>• OK mobile staking wallet <br/>• OK core upgrade <br/>• Okcash wiki </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm">
 						<h6> </h6>
-						<p>• Ledger Integration <br/>• OK self governance system [close test] <br/>• Okcash foundation <br/>• OK block reward halving <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
+						<p>• Ledger Integration <br/>• TrustWallet Integration <br/>• OK block reward halving <br/>• OK self governance system [close test] <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• OK self governance system [open test] <br/>• ROKOS 11 release <br/>• ROKOS + smart contracts [open test + giveaway to OK holders] <br/>• OK core upgrade</p>
+						<p>• ROKOS 11 release <br/>• ROKOS + smart contracts [Release + giveaway to OK holders] <br/>• OK core upgrade <br/>• OK self governance system [open test] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• OK 6th Birthday <br/>• OK Point of sale for IOT systems [open source] <br/>• ROKOS + smart contracts [release + giveaway to OK holders] <br/>• OK core upgrade</p>
+						<p>• OK Birthday <br/>• ROKOS + smart contracts [release + giveaway to OK holders] <br/>• OK core upgrade</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• ROKOS 12 release <br/>• OK Dex [open test]</p>
+						<p><br/>• Okcash DEFI Bridge <br/>• Okcash Wrapped [ERC20] <br/>• Okcash Binance [BEP20] <br/>• Okcash NFTs </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm">
 						<h6> </h6>
-						<p>• OK Point of sale for multi platform [open source] <br/>• OK Dex [release] <br/>• OK game multi platform [open test] <br/>• OK core upgrade </p>
+						<p>• ROKOS 12 release <br/>• OK core upgrade <br/>• OK game multi platform [closed test] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• OK game multi platform [release] <br/>• OK readable addresses [open test] <br/>• OK core upgrade</p>
+						<p>• OK game multi platform [release] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• OK 7th Birthday <br/>• OK readable addresses [release] <br/>• OK easy (1 click) transfer system [open test] <br/>• ROKOS 13 release <br/>• OK core upgrade</p>
+						<p>• OK Birthday <br/>• OK web3 <br/>• OK core upgrade <br/>• ROKOS 13 release </p>
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
@@ -471,7 +472,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">OK Supporters
 							<span>Okcash</span>
 						</h2>
-						<p class="animated" data-animate="fadeInUp" data-delay="0.1">OK is fully supported by voluntaries, different businesses, services, communities, groups and individuals world wide and anyone can join.<br/> Here are some out of many.</p>
+						<p class="animated" data-animate="fadeInUp" data-delay="0.1">OK is fully supported by volunteers, different businesses, services, communities, groups and individuals world wide and anyone can join.<br/> Here are some out of many.</p>
 					</div>
 				</div>
 			</div>
@@ -514,7 +515,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://github.com/Azure/azure-blockchain-projects/tree/master/baas-artifacts/linux-okcash" target="_blank"><img src="images/azure.jpg" alt="azure">
+							<a href="https://azure.microsoft.com/en-au/blog/azure-blockchain-update-8/" target="_blank"><img src="images/azure.jpg" alt="azure">
 							</a>
 						</div>
 						<div class="team-info">
@@ -567,7 +568,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".3">
 						<div class="team-photo">
-							<a href="https://coinfestuk.org/" target="_blank"><img src="images/coinfestuk.jpg" alt="coinfestuk">
+							<a href="#" target="_self"><img src="images/coinfestuk.jpg" alt="coinfestuk">
 							</a>
 						</div>
 						<div class="team-info">
@@ -655,23 +656,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://blockfolio.com/" target="_blank"><img src="images/blockfolio.jpg" alt="blockfolio" />
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">Blockfolio</h5>
-							<span class="team-title">Crypto News Signals / Cryptocurrency Tracking and more</span>
-							
-						</div>
-
-						
-					</div>
-				</div><!-- .col  -->
-
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
-						<div class="team-photo">
-							<a href="https://coinscouts.io/coin/okcash" target="_blank"><img src="images/coinscouts.jpg" alt="coinscouts" />
+							<a href="https://coinscouts.io" target="_blank"><img src="images/coinscouts.jpg" alt="coinscouts" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -683,11 +668,59 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						
 					</div>
 				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://cryptoholics.com/" target="_blank"><img src="images/cryptoholics.png" alt="cryptoholics" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Cryptoholics</h5>
+							<span class="team-title">The Best Crypto Guides for all your needs</span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
 				
 			</div><!-- .row  -->
 			
-			
-			
+            <div class="row text-center">
+                <div class="col-md-6 col-lg-3">
+				    <div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://blockfolio.com/" target="_blank"><img src="images/blockfolio.jpg" alt="blockfolio" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Blockfolio</h5>
+							<span class="team-title">Crypto News Signals / Cryptocurrency Tracking and more</span>
+							
+						</div>
+						
+					</div>
+
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://www.cryptologi.st/" target="_blank"><img src="images/cryptologist.jpg" alt="cryptologist" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Cryptologi.st</h5>
+							<span class="team-title">Unique financial analysis on top 1500 crypto projects</span>
+							
+						</div>
+
+						
+					</div>
+				</div><!-- .col  -->
+
+			</div><!-- .row  -->
 			
 			
 			
@@ -1565,7 +1598,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 			<div class="row text-center">
 				<div class="col">
 					<div class="section-head">
-						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Okcash
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Okcash Teams
 							<span>OK</span>
 						</h2>
 						<p class="animated" data-animate="fadeInUp" data-delay=".1">"We are the nerds, the misfits, the rebels, the troublemakers, the crazy ones enough to believe we can do so with our passion."
@@ -1575,12 +1608,12 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 			</div>
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
-					
+					<img src="images/ok-volunteers.png" alt="OK Volunteers">
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
-					<img src="images/okcash-cryptocurrency.jpg" alt="OK">
+					<!-- <img src="images/okcash-cryptocurrency.jpg" alt="OK"> -->
 				</div>
 			</div>
 		</div>

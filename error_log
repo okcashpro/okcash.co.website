@@ -1,0 +1,66 @@
+[19-Jul-2022 12:58:44 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[19-Jul-2022 13:03:09 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[19-Jul-2022 13:03:09 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[19-Jul-2022 13:03:09 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[19-Jul-2022 13:03:10 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[19-Jul-2022 13:03:10 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[19-Jul-2022 13:03:10 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[21-Jul-2022 02:55:45 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:29:46 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=addresses): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 12
+[21-Jul-2022 08:30:32 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=totalcoins): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[21-Jul-2022 08:31:55 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/altciski/public_html/okcash.co/okcodata.php on line 12
+[21-Jul-2022 08:31:55 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 12
+[21-Jul-2022 08:31:55 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=addresses): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 12
+[21-Jul-2022 08:32:55 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=addresses): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 20
+[21-Jul-2022 08:33:55 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:33:55 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:33:55 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:37:25 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/altciski/public_html/okcash.co/okcodata.php on line 12
+[21-Jul-2022 08:37:25 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 12
+[21-Jul-2022 08:37:25 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=addresses): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 12
+[21-Jul-2022 08:37:39 America/New_York] PHP Warning:  file_get_contents(): SSL: Success in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:37:39 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:37:39 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:37:51 America/New_York] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[21-Jul-2022 08:37:51 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[21-Jul-2022 08:37:51 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=ticker.usd): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[21-Jul-2022 08:37:56 America/New_York] PHP Warning:  file_get_contents(): SSL: Success in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[21-Jul-2022 08:37:56 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[21-Jul-2022 08:37:56 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=ticker.usd): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[21-Jul-2022 08:38:01 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=addresses): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 20
+[21-Jul-2022 08:39:02 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[21-Jul-2022 08:39:56 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[21-Jul-2022 08:39:56 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[21-Jul-2022 08:39:56 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=totalcoins): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[21-Jul-2022 08:40:02 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=ticker.usd): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[21-Jul-2022 08:40:56 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[21-Jul-2022 08:40:56 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[21-Jul-2022 08:40:56 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=totalcoins): failed to open stream: operation failed in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[21-Jul-2022 08:41:01 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=ticker.usd): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 36
+[26-Jul-2022 10:59:52 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: HTTP request failed! in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[27-Jul-2022 14:26:43 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[10-Aug-2022 23:12:11 America/New_York] PHP Warning:  file_get_contents(http://chainz.cryptoid.info/ok/api.dws?q=totalcoins): failed to open stream: HTTP request failed! HTTP/1.1 522 
+ in /home/altciski/public_html/okcash.co/okcodata.php on line 4
+[10-Aug-2022 23:17:04 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 291
+[10-Aug-2022 23:17:09 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 291
+[10-Aug-2022 23:19:42 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 291
+[10-Aug-2022 23:20:02 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 291
+[10-Aug-2022 23:20:15 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 291
+[10-Aug-2022 23:20:30 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 291
+[12-Aug-2022 19:17:58 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[12-Aug-2022 19:21:08 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:21:33 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:23:50 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:23:50 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:24:48 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:25:22 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:26:57 America/New_York] PHP Warning:  file_get_contents(https://api.coincap.io/v2/assets/okcash): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/altciski/public_html/okcash.co/okcodata.php on line 28
+[12-Aug-2022 19:27:29 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:28:02 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:29:49 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
+[12-Aug-2022 19:29:52 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/altciski/public_html/okcash.co/index.php on line 350
