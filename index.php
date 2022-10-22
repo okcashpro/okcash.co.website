@@ -41,6 +41,12 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 </head>
 
 <body class="theme-dark is-smooth-effect" data-spy="scroll" data-target="#mainnav" data-offset="80">
+<style>
+del { 
+  text-decoration: line-through;
+}
+</style>
+
 
 	<!-- Header --> 
 	<header class="site-header is-sticky">
@@ -392,29 +398,29 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm roadmap-done">
 						<h6> </h6>
-						<p>• OK core performance & security update <br/>• Resources update</p>
+						<p>• <del>OK core performance & security update </del><br/>• <del>Resources update</del></p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down roadmap-done">
 						<h6> </h6>
-						<p>• OK core bip updt  <br/>• OK electrum client <br/>• Resources update <br/>• New Resources for services</p>
+						<p>• <del>OK core bip updt  </del><br/>• OK electrum client <br/>• <del>Resources update </del><br/>• <del>New Resources for services</del></p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg roadmap-done">
 						<h6> </h6>
-						<p>• OK Birthday <br/>• ROKOS 10 release <br/>• OK dev [Open source devs community for Okcash] <br/>• OK core design upgrade</p>
+						<p>• <del>OK Birthday </del><br/>• <del>ROKOS 10 release </del><br/>• <del>OK dev [Open source devs community for Okcash]</del> <br/>• <del>OK core design upgrade</del></p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
-					<div class="single-roadmap roadmap-down">
+					<div class="single-roadmap roadmap-down roadmap-done">
 						<h6> </h6>
-						<p>• OK network health nodes map <br/>• OK web staking wallet <br/>• OK mobile staking wallet <br/>• OK core upgrade <br/>• Okcash wiki </p>
+						<p>• <del>OK network health nodes map </del><br/>• OK web staking wallet <br/>• OK mobile staking wallet <br/>• <del>OK core upgrade </del><br/>• Okcash wiki </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
-					<div class="single-roadmap roadmap-sm">
+					<div class="single-roadmap roadmap-sm roadmap-done">
 						<h6> </h6>
 						<p>• Ledger Integration <br/>• TrustWallet Integration <br/>• OK block reward halving <br/>• OK self governance system [close test] <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
 					</div>
@@ -422,7 +428,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• ROKOS 11 release <br/>• ROKOS + smart contracts [Release + giveaway to OK holders] <br/>• OK core upgrade <br/>• OK self governance system [open test] </p>
+						<p>• ROKOS 11 release <br/>• ROKOS + smart contracts [Release + giveaway to OK holders] <br/>• <del>OK core upgrade </del><br/>• OK self governance system [open test] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
@@ -434,7 +440,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p><br/>• Okcash DEFI Bridge <br/>• Okcash Wrapped [ERC20] <br/>• Okcash Binance [BEP20] <br/>• Okcash NFTs </p>
+						<p><br/>• <del>Okcash DEFI Bridge </del><br/>• Okcash Wrapped [ERC20] <br/>• <del>Okcash Binance [BEP20] </del><br/>• Okcash NFTs </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
@@ -495,7 +501,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 					</div>
 				</div><!-- .col  -->
 
-				<div class="col-md-6 col-lg-3">
+				<!--<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".3">
 						<div class="team-photo">
 							<a href="https://cryptocloudhosting.org/" target="_blank"><img src="images/cchosting.jpg" alt="cryptocloudhosting">
@@ -510,7 +516,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						
 
 					</div>
-				</div><!-- .col  -->
+				</div> --> <!-- .col  -->
 
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
@@ -540,9 +546,22 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							<span class="team-title">Coin Market Overview</span>
 							
 						</div>
+					</div>
+				</div><!-- .col  -->
+				
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://www.cryptologi.st/" target="_blank"><img src="images/cryptologist.jpg" alt="cryptologist" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name">Cryptologi.st</h5>
+							<span class="team-title">Unique financial analysis on top 1500 crypto projects</span>
+							
+						</div>
 
 						
-
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
@@ -688,7 +707,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 			</div><!-- .row  -->
 			
             <div class="row text-center">
-                <div class="col-md-6 col-lg-3">
+                <!--<div class="col-md-6 col-lg-3">
 				    <div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
 							<a href="https://blockfolio.com/" target="_blank"><img src="images/blockfolio.jpg" alt="blockfolio" />
@@ -702,23 +721,9 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						
 					</div>
 
-				</div><!-- .col  -->
+				</div> --><!-- .col  -->
 
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
-						<div class="team-photo">
-							<a href="https://www.cryptologi.st/" target="_blank"><img src="images/cryptologist.jpg" alt="cryptologist" />
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">Cryptologi.st</h5>
-							<span class="team-title">Unique financial analysis on top 1500 crypto projects</span>
-							
-						</div>
 
-						
-					</div>
-				</div><!-- .col  -->
 
 			</div><!-- .row  -->
 			
@@ -808,7 +813,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							<a href="http://bit.ly/okbittrex" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
 						</div>
 					</div>
-					<div class="col-sm">
+				<!--	<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
 							<a href="https://www.abra.com/" target="_blank"><img src="images/abra.png" alt="Abra"></a>
 						</div>
@@ -819,7 +824,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						</div>
 					</div>
 				</div>
-				<!--<div class="row text-center">
+				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
 						<div class="row">
 							<div class="col-sm">
@@ -835,8 +840,8 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 								</div>
 							</div>
 						</div>
-					</div>
-				</div>-->
+					</div>-->
+				</div>
 			</div>
 			<br/>
 			<div class="partner-list">
@@ -850,12 +855,12 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
 							<a href="https://simpleswap.io/" target="_blank"><img src="images/simpleswap.png" alt="SimpleSwap"></a>
 						</div>
-					</div>-->
+					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="http://bit.ly/okstex" target="_blank"><img src="images/stex.png" alt="STeX"></a>
 						</div>
-					</div>
+					</div>-->
 				</div>
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
@@ -867,8 +872,8 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						</div>
 								</div>
 							</div>
-							<div class="col-sm">
-								<!--<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+							<!--<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
 									<a href="https://txbit.io/Trade/OK/BTC" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>
 								</div>
 							</div>-->
@@ -889,12 +894,12 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
 							<a href="https://knaken.eu/" target="_blank"><img src="images/knaken.png" alt="Knaken"></a>
 						</div>
-					</div>-->
+					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="http://bit.ly/okcrexx" target="_blank"><img src="images/crex24.png" alt="Crex24"></a>
 						</div>
-					</div>
+					</div>-->
 				</div>
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
@@ -919,7 +924,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 			<br/>
 			<div class="partner-list">
 				<div class="row text-center">
-					<div class="col-sm">
+					<!--<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
 							<a href="https://trade.zer-dex.market/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a>
 						</div>
@@ -929,7 +934,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 							<a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a>
 							
 						</div>
-					</div>
+					</div> -->
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="https://trade.birake.com/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/birake.png" alt="Birake"></a>
@@ -939,14 +944,14 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
 						<div class="row">
-							<div class="col-sm">
+							<!--<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 									<a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a> 
 						</div>
 								</div>
 							</div>
-							<!--<div class="col-sm">
+							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
 								<a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a>
 								</div>
@@ -961,19 +966,19 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://socialsend.net/user/exchange/BTC/OK" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a> 
+							<a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a> 
 						</div>
 					</div>
 					<!--<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
 							<a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>							
 						</div>
-					</div>-->
+					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="https://swapzone.io/?from=ok&to=btc" target="_blank"><img src="images/swapzone.png" alt="VCC Exchange"></a>
 						</div>
-					</div>
+					</div>-->
 				</div>
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
@@ -1628,9 +1633,9 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 				<div class="col-md-6 offset-md-3">
 					<h4 class="section-title-md animated" data-animate="fadeInUp" data-delay="0">Join the different giveaways and faucets made by the community to support and share Okcash to Empower Everyone!</h4>
 						
-						<a href="https://cryptogiveaways.org/" class="btn btn-sm" target="_blank">Cryptogiveaways</a>
-						<a href="https://crex24.com/faucets" class="btn btn-sm" target="_blank">Crex24 Faucet</a>
-						<a href="https://btcpop.co/Faucet/OK" class="btn btn-sm" target="_blank">BTCpop Faucet</a>
+						<a href="https://discord.io/cryptocurrency" class="btn btn-sm" target="_blank">Cryptogiveaways over Discord</a>
+						<!-- <a href="https://crex24.com/faucets" class="btn btn-sm" target="_blank">Crex24 Faucet</a>
+						<a href="https://btcpop.co/Faucet/OK" class="btn btn-sm" target="_blank">BTCpop Faucet</a> -->
 						
 					
 				</div>
