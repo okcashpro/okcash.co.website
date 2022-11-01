@@ -13,7 +13,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 	<meta name="author" content="OK">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, energy friendly, and free from bank fees.">
-	<meta property="og:image" content="https://okcash.co/images/okcash-ok.jpg">
+	<meta property="og:image" content="https://okcash.co/images/okcash-ok.png">
 	<meta property="og:image:type" content="image/jpeg">
 	<meta property="og:image:width" content="900">
 	<meta property="og:image:width" content="900">
@@ -289,7 +289,7 @@ del {
 						<div class="col-sm-6">
 							<div class="event-single-info animated" data-animate="fadeInUp" data-delay=".5">
 								<h6>Current LTSS POS Block Reward</h6>
-								<p>6+ OK coins / Block Reward</p>
+								<p>3.9+ OK coins / Block Reward</p>
 							</div>
 						</div><!-- .col  -->
 						<div class="col-sm-6">
@@ -416,7 +416,7 @@ del {
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down roadmap-done">
 						<h6> </h6>
-						<p>• <del>OK network health nodes map </del><br/>• OK web staking wallet <br/>• OK mobile staking wallet <br/>• <del>OK core upgrade </del><br/>• Okcash wiki </p>
+						<p>• <del>OK network health nodes map </del><br/>• <del>OK web staking wallet</del> <br/>• <del>OK mobile staking wallet </del><br/>• <del>OK core upgrade </del><br/>• Okcash wiki </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
@@ -908,14 +908,14 @@ del {
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 									<a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> 
-						</div>
+						            </div>
 								</div>
 							</div>
-							<div class="col-sm">
+							<!-- <div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
 								<a href="https://www.finexbox.com/market/pair/OK-BTC.html" target="_blank"><img src="images/finexbox.png" alt="FinexBox"></a>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
@@ -934,12 +934,12 @@ del {
 							<a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a>
 							
 						</div>
-					</div> -->
+					</div> 
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="https://trade.birake.com/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/birake.png" alt="Birake"></a>
 						</div>
-					</div>
+					</div> -->
 				</div>
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
