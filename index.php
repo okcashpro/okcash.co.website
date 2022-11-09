@@ -88,7 +88,7 @@ del {
 					</ul>
 					<ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">
 						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Download OK</a></li>
-						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://oktoken.cash" target="_blank">Swap OK BEP20</a></li>
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://oktoken.cash" target="_blank">Swap OK Token</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -422,7 +422,7 @@ del {
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm roadmap-done">
 						<h6> </h6>
-						<p>• Ledger Integration <br/>• TrustWallet Integration <br/>• OK block reward halving <br/>• OK self governance system [close test] <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
+						<p>• Ledger Integration <br/>• <del>TrustWallet Integration</del> <br/>• <del>OK block reward halving</del> <br/>• OK self governance system [close test] <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
@@ -452,7 +452,7 @@ del {
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• OK game multi platform [release] </p>
+						<p>• Okcash Wrapped [Polygon] <br/>• Okcash Wrapped [Avalanche] <br/>• OK game multi platform [release] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
@@ -800,186 +800,196 @@ del {
 			<div class="row text-center">
 				<div class="col">
 					<div class="section-head">
-						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Supporting Okcash
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">OK Exchanges
 							<span>Exchanges</span>
 						</h2>
 					</div>
 				</div>
 			</div>
+			
 			<div class="partner-list">
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="http://bit.ly/okbittrex" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
+							<a href="https://global.bittrex.com/trade/ok-btc" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
 						</div>
 					</div>
-				<!--	<div class="col-sm">
+					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://www.abra.com/" target="_blank"><img src="images/abra.png" alt="Abra"></a>
+							<a href="https://pancakeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/pancakeswap.png" alt="PancakeSwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://www.litebit.eu/en/buy/okcash" target="_blank"><img src="images/litebit.png" alt="Litebit"></a>
+							<a href="https://exchange.biswap.org/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/biswap.png" alt="BiSwap"></a>
 						</div>
 					</div>
 				</div>
+				
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://cryptofacil.com/trading-view/84/BTC-OK" target="_blank"><img src="images/cryptofacil.png" alt="Cryptofacil"></a>
+							<a href="https://apeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/apeswap.png" alt="ApeSwap"></a>
 						</div>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-									<a href="https://changenow.io/currencies/exchange/okcash" target="_blank"><img src="images/changenow.png" alt="ChangeNow"></a>
+									<a href="https://bsc.mdex.com/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/mdex.png" alt="MDEX"></a>
 								</div>
 							</div>
 						</div>
-					</div>-->
+					</div>
 				</div>
 			</div>
 			<br/>
+			
+			
 			<div class="partner-list">
 				<div class="row text-center">
-					<!--<div class="col-sm">
+					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://vcc.exchange/exchange/basic?currency=btc&coin=ok" target="_blank"><img src="images/vcc-exchange.png" alt="VCC Exchange"></a>
-						</div>
-					</div>
-					<div class="col-sm">
-						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://simpleswap.io/" target="_blank"><img src="images/simpleswap.png" alt="SimpleSwap"></a>
-						</div>
-					</div>
-					<div class="col-sm">
-						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="http://bit.ly/okstex" target="_blank"><img src="images/stex.png" alt="STeX"></a>
-						</div>
-					</div>-->
-				</div>
-				<div class="row text-center">
-					<div class="col-md-8 offset-md-2">
-						<div class="row">
-							<div class="col-sm">
-								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="https://btcpop.co/Exchange/OK" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a>
 						</div>
-								</div>
-							</div>
-							<!--<div class="col-sm">
-								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-									<a href="https://txbit.io/Trade/OK/BTC" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>
-								</div>
-							</div>-->
-						</div>
-					</div>
-				</div>
-			</div>
-			
-			<br/>
-			<div class="partner-list">
-				<div class="row text-center">
-					<!--<div class="col-sm">
-						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://stealthex.io/" target="_blank"><img src="images/stealth-ex.png" alt="Stealthex"></a> 
-						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://knaken.eu/" target="_blank"><img src="images/knaken.png" alt="Knaken"></a>
+							<a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a> 
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="http://bit.ly/okcrexx" target="_blank"><img src="images/crex24.png" alt="Crex24"></a>
+							<a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> 
 						</div>
-					</div>-->
+					</div>
 				</div>
+				
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-									<a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> 
+									<!-- <a href="https://btcpop.co/Exchange/OK" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a> -->
+						</div>
+								</div>
+							</div>
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
+									<!-- <a href="https://txbit.io/Trade/OK/BTC" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>  -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<br/>
+			
+			
+			<div class="partner-list">
+				<div class="row text-center">
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
+							<!-- <a href="https://stealthex.io/" target="_blank"><img src="images/stealth-ex.png" alt="Stealthex"></a>  -->
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<!-- <a href="https://knaken.eu/" target="_blank"><img src="images/knaken.png" alt="Knaken"></a>  -->
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+							<!-- <a href="http://bit.ly/okcrexx" target="_blank"><img src="images/crex24.png" alt="Crex24"></a> -->
+						</div>
+					</div>
+				</div>
+				
+				<div class="row text-center">
+					<div class="col-md-8 offset-md-2">
+						<div class="row">
+							<div class="col-sm">
+								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
+									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+									<!-- <a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> -->
 						            </div>
 								</div>
 							</div>
-							<!-- <div class="col-sm">
+							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<a href="https://www.finexbox.com/market/pair/OK-BTC.html" target="_blank"><img src="images/finexbox.png" alt="FinexBox"></a>
+								<!-- <a href="https://www.finexbox.com/market/pair/OK-BTC.html" target="_blank"><img src="images/finexbox.png" alt="FinexBox"></a> -->
 								</div>
-							</div> -->
+							</div> 
 						</div>
 					</div>
 				</div>
 			</div>
-			
 			<br/>
+			
+			
 			<div class="partner-list">
 				<div class="row text-center">
-					<!--<div class="col-sm">
+					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://trade.zer-dex.market/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a>
+							<!-- <a href="https://trade.zer-dex.market/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a> -->
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a>
-							
+							<!-- <a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a> -->
 						</div>
 					</div> 
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://trade.birake.com/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/birake.png" alt="Birake"></a>
+							<!-- <a href="https://trade.birake.com/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/birake.png" alt="Birake"></a> -->
 						</div>
-					</div> -->
+					</div>
 				</div>
+				
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
 						<div class="row">
-							<!--<div class="col-sm">
+							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-									<a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a> 
-						</div>
+									<!-- <a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a> -->
+									</div>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a>
+								<!-- <a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a>   -->
 								</div>
-							</div>-->
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			
 			<br/>
+			
+			
 			<div class="partner-list">
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a> 
+							<!-- <a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a>  -->
 						</div>
 					</div>
-					<!--<div class="col-sm">
+					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>							
+							<!-- <a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>	 -->						
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://swapzone.io/?from=ok&to=btc" target="_blank"><img src="images/swapzone.png" alt="VCC Exchange"></a>
+							<!-- <a href="https://swapzone.io/?from=ok&to=btc" target="_blank"><img src="images/swapzone.png" alt="VCC Exchange"></a>  -->
 						</div>
-					</div>-->
+					</div>
 				</div>
+				
 				<div class="row text-center">
 					<div class="col-md-8 offset-md-2">
 						<div class="row">
@@ -987,7 +997,7 @@ del {
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 									<!-- <a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a>  -->
-						</div>
+									</div>
 								</div>
 							</div>
 							<div class="col-sm">
@@ -999,7 +1009,6 @@ del {
 					</div>
 				</div>
 			</div>
-			
 		</div>
 	</div><br/><br/>
 	<!-- Start Section -->
