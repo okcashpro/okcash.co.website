@@ -12,7 +12,7 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 	<meta charset="utf-8">
 	<meta name="author" content="OK">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, energy friendly, and free from bank fees.">
+	<meta name="description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, multi chain, energy friendly, and free from bank fees.">
 	<meta property="og:image" content="https://okcash.co/images/okcash-ok.png">
 	<meta property="og:image:type" content="image/jpeg">
 	<meta property="og:image:width" content="900">
@@ -20,10 +20,10 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 	<meta property="og:image:height" content="450">
 	<meta property="og:type" content="website" />
     <meta property="og:url" content="https://okcash.co/"/>
-    <meta property="og:title" content="Okcash • Energy friendly open source digital cash" />
-    <meta property="og:description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, energy friendly, and free from bank fees." />
+    <meta property="og:title" content="Okcash • Multi chain Energy friendly Open source digital cash" />
+    <meta property="og:description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, multi chain, energy friendly, and free from bank fees." />
 	<link rel="shortcut icon" href="images/favicon.png">
-	<title>Okcash • Energy friendly open source digital cash</title>
+	<title>Okcash • Multi chain Energy friendly Open source digital cash</title>
 	<link rel="stylesheet" href="assets/css/main.bundle.css">
 	<!-- Custom styles for this template -->
 	<link rel="stylesheet" href="assets/css/style.css">
@@ -88,7 +88,7 @@ del {
 					</ul>
 					<ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">
 						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Download OK</a></li>
-						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://oktoken.cash" target="_blank">Swap OK Token</a></li>
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://oktoken.cash" target="_blank">Swap OK Multi chain</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -102,11 +102,13 @@ del {
 					<div class="row align-items-center mobile-center">
 						<div class="col-lg-6 col-md-12 order-lg-first">
 							<div class="header-txt">
-								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">Okcash • Energy Friendly and Open source Peer-to-Peer Electronic Cash </h1>
+								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">OK • Multi chain Energy Friendly and Open source Peer-to-Peer Electronic Cash </h1>
 								<p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">Micro Transactions • Speed • Efficiency • Security<br/>Decentralize Everything and Empower Everyone</p>
 								<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">
-									<li><a href="https://chainz.cryptoid.info/ok/" target="_blank" class="btn">Okcash [OK] Explorer</a></li>
-									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank" class="btn btn-alt">Wrapped Okcash [OK BEP20] Explorer</a></li>
+									<li><a href="https://chainz.cryptoid.info/ok/" target="_blank" class="btn">OK [native] Explorer</a></li>
+									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank" class="btn btn-alt">OK [BEP20] BSC Explorer</a></li>
+									<li><a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn">OK [ERC20] ETH Explorer</a></li>
+									<li><a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [MATIC] Polygon Explorer</a></li>
 								</ul>
 								<ul class="social">
 									<li class="animated" data-animate="fadeInUp" data-delay="1.8"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
@@ -217,7 +219,7 @@ del {
 				<div class="col-md-5 offset-md-1">
 					<div class="text-block">
 						
-						<p class="animated" data-animate="fadeInUp" data-delay="0">The main mission of the Okcash project is to empower its users while being energy friendly and sustainable, evolve with positive innovations, and decentralization to give the power to the user and help advance crypto forward. <br/>The OK movement mission is to help change the world with positive innovation. <br/>These are some of the benefits of start using Okcash:</p>
+						<p class="animated" data-animate="fadeInUp" data-delay="0">The main mission of the Okcash project is to empower its users while being multi chain, energy friendly and sustainable, evolve with positive innovations, and decentralization to give the power to the user and help advance crypto forward. <br/>The OK movement mission is to help change the world with positive innovation. <br/>These are some of the benefits of start using Okcash:</p>
 						<ul class="animated" data-animate="fadeInUp" data-delay=".1">
 							<li>Multiplatform [Windows, Mac, Linux, Android, IoT devices]</li>
 							<li>100% upload time + Decentralized.</li>
@@ -322,7 +324,7 @@ del {
 			</div><!-- .row  -->
 
 			<div class="gaps size-3x" id="worldwide"></div><div class="gaps size-3x d-none d-md-block"></div><!-- .gaps  -->
-<br/>
+            <br/>
 			<div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms">
 							<h2>☆ Worldwide Stats ☆</h2>
 						</div>
@@ -347,7 +349,7 @@ del {
 
 								<br/><br/><h2><?=number_format($nonady, 0);?></h2>
 								<!-- Set Your Number here. i,e. data-to="56" -->
-								<p>Addresses holding OK coins</p>
+								<p>Holders in OK core Network</p>
 							</div>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
@@ -369,8 +371,9 @@ del {
 							</div>
 						</div>
 						<!-- end first count item -->
-				
 					</div>
+					
+
 				</div>
 			</div>
 		
@@ -1339,7 +1342,7 @@ del {
 										</div>
 										<div id="collapse-1-1" class="collapse show" data-parent="#accordion-1">
 											<div class="card-body">
-												<p>Okcash is an energy friendly consensus network that enables a new payment system and a complete control over your digital cash. It is one of the first proof of stake decentralized peer-to-peer payment networks that is powered by its users with no central authority or middlemen. From a user perspective, Okcash is pretty much like fast and energry friendly cash for the Internet. Okcash can also be seen as one of the most prominent proof of stake triple entry bookkeeping system in existence.</p>
+												<p>Okcash is a multi chain and energy friendly consensus network that enables a new payment system and a complete control over your digital cash. It is one of the first proof of stake decentralized peer-to-peer payment networks that is powered by its users with no central authority or middlemen. From a user perspective, Okcash is pretty much like fast and energry friendly cash for the Internet. Okcash can also be seen as one of the most prominent proof of stake triple entry bookkeeping system in existence.</p>
 											</div>
 										</div>
 									</div>
@@ -1385,7 +1388,7 @@ del {
 											<div class="card-body">
 												<p>You should never expect to get rich with Okcash or any emerging technology. It is always important to be wary of anything that sounds too good to be true or disobeys basic economic rules.<br/>
 												
-												Okcash is a growing space of sustainable and energy friendly innovation and there are business opportunities that also include risks. There is no guarantee that Okcash will continue to grow even though it has developed at a very fast rate so far. Investing time and resources on anything related to Okcash requires entrepreneurship. There are various ways to make money with Okcash such as staking, speculation or running new businesses. All of these methods are competitive and there is no guarantee of profit. It is up to each individual to make a proper evaluation of the costs and the risks involved in any such project.</p>
+												Okcash is a growing space of sustainable multi chain and energy friendly innovation and there are business opportunities that also include risks. There is no guarantee that Okcash will continue to grow even though it has developed at a very fast rate so far. Investing time and resources on anything related to Okcash requires entrepreneurship. There are various ways to make money with Okcash such as staking, speculation or running new businesses. All of these methods are competitive and there is no guarantee of profit. It is up to each individual to make a proper evaluation of the costs and the risks involved in any such project.</p>
 											</div>
 										</div>
 									</div>
