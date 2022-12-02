@@ -443,7 +443,7 @@ del {
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p><br/>• <del>Okcash DEFI Bridge </del><br/>• Okcash Wrapped [ERC20] <br/>• <del>Okcash Binance [BEP20] </del><br/>• Okcash NFTs </p>
+						<p><br/>• <del>Okcash DEFI Bridge </del><br/>• Okcash Wrapped [ERC20] <br/>• <del>Okcash Binance [BEP20] </del><br/>• OK NFTs </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
@@ -455,13 +455,13 @@ del {
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• Okcash Wrapped [Polygon] <br/>• Okcash Wrapped [Avalanche] <br/>• OK game multi platform [release] </p>
+						<p>• Okcash Wrapped [Polygon] <br/>• Okcash Wrapped [Avalanche] <br/>• OK [earn] Games </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• OK Birthday <br/>• OK web3 <br/>• OK core upgrade <br/>• ROKOS 13 release </p>
+						<p>• OK Birthday <br/>• OK web3 <br/>• OK core upgrade <br/>• ROKOS 13 release </p>• OK [NFT] p2e Games
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
