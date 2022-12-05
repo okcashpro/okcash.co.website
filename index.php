@@ -860,12 +860,12 @@ del {
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a> 
+                            <a href="https://www.sushi.com/swap" target="_blank"><img src="images/sushiswap.png" alt="SushiSwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> 
+                            <a href="https://www.bakeryswap.org/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/bakeryswap.png" alt="BakerySwap"></a>
 						</div>
 					</div>
 				</div>
@@ -876,13 +876,13 @@ del {
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-									<!-- <a href="https://btcpop.co/Exchange/OK" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a> -->
+									<a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a>
 						</div>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-									<!-- <a href="https://txbit.io/Trade/OK/BTC" target="_blank"><img src="images/txbit.png" alt="TxBit"></a>  -->
+									<a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a>
 								</div>
 							</div>
 						</div>
