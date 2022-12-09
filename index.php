@@ -330,8 +330,8 @@ del {
 			<div class="gaps size-3x" id="worldwide"></div><div class="gaps size-3x d-none d-md-block"></div><!-- .gaps  -->
             <br/>
 			<div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms">
-							<h2>☆ OK Network ☆</h2>
 							Worldwide Stats
+							<h2>☆ OK Network ☆</h2>
 						</div>
 						<br/><br/><br/>
 			<div class="parallax-overlay">
