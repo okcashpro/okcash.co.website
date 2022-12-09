@@ -504,11 +504,11 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://okdevs.org" target="_blank"><img src="images/okdevs.jpg" alt="okdevs" />
+							<a href="https://okdevs.org" target="_blank"><img src="images/okdevs.png" alt="okdevs" />
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">OK Devs</h5>
+							<h5 class="team-name"> </h5>
 							<span class="team-title">Open Source Developers Group </span>
 							
 						</div>
@@ -518,11 +518,11 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://azure.microsoft.com/en-au/blog/azure-blockchain-update-8/" target="_blank"><img src="images/azure.jpg" alt="azure">
+							<a href="https://azure.microsoft.com/en-au/blog/azure-blockchain-update-8/" target="_blank"><img src="images/azure.png" alt="azure">
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Microsoft Azure</h5>
+							<h5 class="team-name"> </h5>
 							<span class="team-title">Azure Blockchain as a Service (BaaS)</span>
 							
 						</div>
@@ -532,11 +532,11 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://bitcoinfullnode.org/" target="_blank"><img src="images/bitcoinfullnode.jpg" alt="bitcoinfullnode" />
+							<a href="https://bitcoinfullnode.org/" target="_blank"><img src="images/bitcoinfullnode.png" alt="bitcoinfullnode" />
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">ROKOS Bitcoin Fullnode</h5>
+							<h5 class="team-name"> </h5>
 							<span class="team-title">1st Crypto OS for IoT with OK wallets</span>
 						</div>
 					</div>
@@ -545,11 +545,11 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://cointopay.com/" target="_blank"><img src="images/cointopay.jpg" alt="cointopay">
+							<a href="https://cointopay.com/" target="_blank"><img src="images/cointopay.png" alt="cointopay">
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Coin to Pay</h5>
+							<h5 class="team-name"> </h5>
 							<span class="team-title">CryptoBanking OK payments processor</span>
 							
 						</div>
@@ -564,11 +564,11 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://cryptocurrencycheckout.com/coin/okcash" target="_blank"><img src="images/cccheckout.jpg" alt="cccheckout" />
+							<a href="https://cryptocurrencycheckout.com/coin/okcash" target="_blank"><img src="images/cccheckout.png" alt="cccheckout" />
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Cryptocurrency Checkout</h5>
+							<h5 class="team-name"> </h5>
 							<span class="team-title">OK Payments and Merchant tools</span>
 							
 						</div>
@@ -581,11 +581,11 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
 						<div class="team-photo">
-							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.jpg" alt="mycointainer">
+							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.png" alt="mycointainer">
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">My Cointainer</h5>
+							<h5 class="team-name"> </h5>
 							<span class="team-title">Mobile OK Staking wallets</span>
 							
 						</div>
@@ -621,7 +621,7 @@ del {
 						<div class="col-lg-4 col-md-6">
 							<div class="team-circle animated" data-animate="fadeInUp" data-delay=".1">
 								<div class="team-photo">
-									<a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><img src="images/bitcointalk.jpg" alt="bitcointalk">
+									<a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><img src="images/bitcointalk.png" alt="bitcointalk">
 									</a>
 								</div>
 								<div class="team-info">
@@ -637,7 +637,7 @@ del {
 						<div class="col-lg-4 col-md-6">
 							<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 								<div class="team-photo">
-									<a href="https://discord.io/cryptocurrency" target="_blank"><img src="images/discord.jpg" alt="discord">
+									<a href="https://discord.io/cryptocurrency" target="_blank"><img src="images/discord.png" alt="discord">
 									</a>
 								</div>
 								<div class="team-info">
@@ -652,7 +652,7 @@ del {
 						<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 animated" data-animate="fadeInUp" data-delay=".3">
 							<div class="team-circle">
 								<div class="team-photo">
-									<a href="https://okcashtalk.org" target="_blank"><img src="images/okcashtalk.jpg" alt="okcashtalk">
+									<a href="https://okcashtalk.org" target="_blank"><img src="images/okcashtalk.png" alt="okcashtalk">
 									</a>
 								</div>
 								<div class="team-info">
