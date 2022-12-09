@@ -20,10 +20,10 @@ $marketcap = file_get_contents("stats/marketcap.txt");
 	<meta property="og:image:height" content="450">
 	<meta property="og:type" content="website" />
     <meta property="og:url" content="https://okcash.co/"/>
-    <meta property="og:title" content="Okcash • Multi chain Energy friendly Open source digital cash" />
+    <meta property="og:title" content="Okcash • The leading multi chain energy friendly and open source electronic cash" />
     <meta property="og:description" content="Okcash is a positive innovation multi payment system, a new kind of digital money that's instant, multi chain, energy friendly, and free from bank fees." />
 	<link rel="shortcut icon" href="images/favicon.png">
-	<title>Okcash • Multi chain Energy friendly Open source digital cash</title>
+	<title>Okcash • The leading multi chain energy friendly and open source electronic cash</title>
 	<link rel="stylesheet" href="assets/css/main.bundle.css">
 	<!-- Custom styles for this template -->
 	<link rel="stylesheet" href="assets/css/style.css">
@@ -72,14 +72,14 @@ del {
 						<li class="nav-item"><a class="nav-link menu-link" href="#what-is-okcash">What is Okcash<span class="sr-only">(current)</span></a></li>
 						<li class="nav-item"><a class="nav-link menu-link" href="#opensource">OS</a></li>
 						<li class="nav-item"><a class="nav-link menu-link" href="#roadmap">Roadmap</a></li>
-						<li class="nav-item"><a class="nav-link menu-link" href="#supporters">Supporters</a></li>
-						<li class="nav-item"><a class="nav-link menu-link" href="#participate">Participate</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#exchanges">Exchanges</a></li>
+						<li class="nav-item"><a class="nav-link menu-link" href="#participate">OK Heroes</a></li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">MORE</a>
 							<div class="dropdown-menu">
-								<a class="dropdown-item menu-link" href="#exchanges">Exchanges</a>
-								<a class="dropdown-item menu-link" href="#stats">OK Info + Stats</a>
-								<a class="dropdown-item menu-link" href="#worldwide">Worldwide Stats</a>
+								<a class="dropdown-item menu-link" href="#worldwide">OK Network</a>
+								<a class="dropdown-item menu-link" href="#stats">More Info</a>
+								<a class="dropdown-item menu-link" href="#supporters">Supporters</a>
 								<a class="dropdown-item menu-link" href="#faq">Frequently AQ</a>
 								<a class="dropdown-item menu-link" href="#ok-voluntaries">OK volunteers</a>
 								<a class="dropdown-item menu-link" href="#sharing">Sharing is caring</a>
@@ -102,12 +102,13 @@ del {
 					<div class="row align-items-center mobile-center">
 						<div class="col-lg-6 col-md-12 order-lg-first">
 							<div class="header-txt">
-								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">OK • Multi chain Energy Friendly and Open source Peer-to-Peer Electronic Cash </h1>
+								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">OK • Multi chain energy friendly open source electronic cash </h1>
 								<p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">Micro Transactions • Speed • Efficiency • Security<br/>Decentralize Everything and Empower Everyone</p>
 								<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">
-									<li><a href="https://chainz.cryptoid.info/ok/" target="_blank" class="btn">OK [native] Explorer</a></li>
+									<li><a href="https://chainz.cryptoid.info/ok/" target="_blank" class="btn btn-alt">OK [native] Explorer</a></li>
 									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank" class="btn btn-alt">OK [BEP20] BSC Explorer</a></li>
-									<li><a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn">OK [ERC20] ETH Explorer</a></li>
+									<li><a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ERC20] ETH Explorer</a></li>
+									<li><a href="https://snowtrace.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [AVAX] Avalanche Explorer</a></li>
 									<li><a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [MATIC] Polygon Explorer</a></li>
 								</ul>
 								<ul class="social">
@@ -148,8 +149,8 @@ del {
 				<div class="col-md-6 offset-md-1">
 					<div class="text-block">
 						<h4 class="animated" data-animate="fadeInUp" data-delay="0">What is Okcash?</h4>
-						<p class="lead animated" data-animate="fadeInUp" data-delay=".1">OKCash is a hybrid cryptocurrency that evolved into a full Proof of Stake (PoS) system. [Efficient &amp; Energy Friendly]</p>
-						<p class="animated" data-animate="fadeInUp" data-delay=".2"> Okcash is simple to use, efficient and sustainable, it boasts of a confirmation rate higher than most cryptocurrencies, fast speeds, low fees, long term sustainable staking [With LTSSposv3hybrid system, Okcash reaches full predictability and it becomes like mining on Bitcoin (each block holds a semi-static reward, increasing even further the fairness and security of the chain over any actual PoS system)], and is also ready for the Internet of Things (IoT) and every OS Platform.</p>
+						<p class="lead animated" data-animate="fadeInUp" data-delay=".1">OK is a hybrid and multi chain cryptocurrency that evolved into a full Proof of Stake (PoS) blockchain. </br>[World wide, Efficient &amp; Energy Friendly]</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".2"> OK is simple to use, efficient and sustainable, it boasts of a confirmation rate higher than most cryptocurrencies, fast speeds, low fees, long term sustainable staking [With LTSSposv3hybrid system, Okcash reaches full predictability and it becomes like mining on Bitcoin (each block holds a semi-static reward, increasing even further the fairness and security of the chain over any actual PoS system)], and is also ready for the Internet of Things (IoT) and every OS Platform.</p>
 						<p class="animated" data-animate="fadeInUp" data-delay=".3">Okcash is a decentralized and fast growing  cryptocurrency / movement that was born on Nov 24th 2014. OK was mined (PoW-Scrypt) and evolved to be stake-able (PoS-LTSS-Sha256). Okcash is not a security, it never had an ICO, nor any kind of funding rounds. OK is self sustainable and is fully supported by volunteers (Just like Bitcoin).</p>
 					</div>
 				</div><!-- .col  -->
@@ -170,10 +171,10 @@ del {
 				<div class="col-md-6 order-md-first order-last">
 					<div class="text-block">
 						<h2 class="animated" data-animate="fadeInUp" data-delay="0">Okcash • OK</h2>
-						<p class="lead animated" data-animate="fadeInUp" data-delay=".1">OK is the short name for Okcash.</br>The OK network is decentralized and Always Available World Wide. OK is open-source; its design is public, nobody owns or controls Okcash and everyone can take part.</p>
-						<a href="https://www.youtube.com/watch?v=yHIK0H5DUII" class="play-btn video-play animated" data-animate="fadeInUp" data-delay=".2">
+						<p class="lead animated" data-animate="fadeInUp" data-delay=".1"><b>OK</b> is the market symbol and short name for <b>Okcash</b>.</br>The OK network is decentralized and Always Available World Wide. OK is open-source and multi chain; its design is public, nobody owns or controls Okcash and everyone can take part.</p>
+						<a href="https://www.youtube.com/watch?v=zw7_smZ1P0Y" class="play-btn video-play animated" data-animate="fadeInUp" data-delay=".2">
 							<em class="play"><span></span></em>
-							<span>What is Okcash?</span>
+							<span>Everything is gonna be <b>OK</b></span>
 							<span>Watch the Video</span>
 						</a>
 					</div>
@@ -200,11 +201,12 @@ del {
 							<span class="line-5"></span><span class="line-6"></span>
 							<span class="line-7"></span><span class="line-8"></span>
 						</div>
-						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">The Okcash Wallet 
-							<span>OK</span>
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">The OK Wallet 
+							<span>Okcash</span>
 						</h2>
-						<p class="animated" data-animate="fadeInUp" data-delay=".1">Your Okcash wallet is the software you use to send, receive and store your Okcash. It’s simple to use and you can choose to send and receive OK payments from your own OK wallet.</p>
-						<a href="https://okcash.org/#jf_download" class="btn btn-sm" target="_blank">Download the Okcash Wallet from Okcash.org</a>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">Your OK wallet is the software you use to send, receive and store your OK. 
+						It’s simple to use and you can choose to send and receive OK payments from your own OK wallet.</p>
+						<a href="https://okcash.org/#jf_download" class="btn btn-sm" target="_blank">Download the OK Wallet from Okcash.org</a>
 					</div>
 				</div>
 			</div>
@@ -221,13 +223,15 @@ del {
 						
 						<p class="animated" data-animate="fadeInUp" data-delay="0">The main mission of the Okcash project is to empower its users while being multi chain, energy friendly and sustainable, evolve with positive innovations, and decentralization to give the power to the user and help advance crypto forward. <br/>The OK movement mission is to help change the world with positive innovation. <br/>These are some of the benefits of start using Okcash:</p>
 						<ul class="animated" data-animate="fadeInUp" data-delay=".1">
-							<li>Multiplatform [Windows, Mac, Linux, Android, IoT devices]</li>
+							<li>Multiplatform. [Windows, Mac, Linux, Android, IoT devices]</li>
+							<li>Multi chain. [OK Network, Ethereum, Binance Smart Chain, Polygon, Avalanche]</li>
 							<li>100% upload time + Decentralized.</li>
-							<li>Efficiency [7+ years tested chain]</li>
-							<li>Availability world wide [Network running 24/7]</li>
-							<li>Transaction Speeds [Less than 72 seconds]</li>
-							<li>Lowest Fees [ 0.0001 OK = 0.000005 USD aprox*] </li>
-							<li>Constantly growing community/network <br/>[More services, users and developers joining and supporting Okcash and the OK movement] </li>
+							<li>The most sustainable, efficient and secure Proof of Stake.</br> [LTSS | Inhouse]</li>
+							<li>Security + Efficiency. [8+ years tested chain]</li>
+							<li>Available world wide. [Network running 24/7]</li>
+							<li>Fast transaction Speeds. [Less than 72 seconds]</li>
+							<li>Lowest Fees. [ 0.0001 OK = 0.000005 USD aprox*] </li>
+							<li>Constantly growing community, apps, dapps and networks.</li>
 						</ul>
 						
 					</div>
@@ -249,7 +253,7 @@ del {
 						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Open Source
 							<span>OK</span>
 						</h2>
-						<p class="animated" data-animate="fadeInUp" data-delay=".1">OK is open-source; its design is public, nobody owns</br> or controls Okcash and everyone can take part.</br>Okcash is free software and any developer can contribute to the project. Everything you need is in the <a href="https://github.com/okcashpro/" target="_blank">GitHub repositories</a>.</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1"><b>OK</b> is open-source and multi chain; its design is public, nobody owns</br> or controls Okcash and everyone can take part.</br><b>OK</b> is free software and any developer can join and contribute to the project. Everything you need is in the <a href="https://github.com/okcashpro/" target="_blank">GitHub repositories</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -311,8 +315,8 @@ del {
 				<div class="col-lg-5 offset-lg-1">
 					<div class="countdown-box text-center animated" data-animate="fadeInUp" data-delay=".3">
 						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Change</a></p>
-						<div class="token-countdown d-flex align-content-stretch" data-date="2022/10/23"></div>
-						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute with Okcash Development</a>
+						<div class="token-countdown d-flex align-content-stretch" data-date="2025/02/12"></div>
+						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute to the OK Development</a>
 						<ul class="icon-list">
 							 
 							<li><em class="fas fa-handshake"></em></li> 
@@ -326,7 +330,8 @@ del {
 			<div class="gaps size-3x" id="worldwide"></div><div class="gaps size-3x d-none d-md-block"></div><!-- .gaps  -->
             <br/>
 			<div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms">
-							<h2>☆ Worldwide Stats ☆</h2>
+							<h2>☆ OK Network ☆</h2>
+							Worldwide Stats
 						</div>
 						<br/><br/><br/>
 			<div class="parallax-overlay">
@@ -391,8 +396,15 @@ del {
 				<div class="col">
 					<div class="section-head">
 						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Roadmap
-							<span>OK General</span>
-						</h2><p align="center">With Okcash being decentralized, it is difficult to provide a full roadmap. There are many different teams and individuals indepently working on their own projects utilizing Okcash or to help improve Okcash. In the working roadmap below we can find some of the OK goals and upcoming features by different teams. This is not fully inclusive of all milestones and upcoming features. New services and features may be integrated at any time based on community consensus, or by different users or teams without prior announcement. <br/>To contribute, learn more or to follow the development closer; <br/>join the OK communities over: <a href="https://discord.io/cryptocurrency" target="_blank"> <em class="fab fa-discord"></em> discord.io/cryptocurrency </a>  </p>
+							<span>Community</span>
+						</h2><p align="center">With OK being decentralized, it is difficult to provide a full roadmap that covers all coming developments.</br> 
+						There are many different teams and individuals indepently working on their own projects utilizing OK or to help improve OK.</br> 
+						In the roadmap below we can find some of the OK goals and upcoming features by different teams. </br>
+						This is not fully inclusive of all milestones and upcoming features. New services and features may be integrated at any time based on community consensus, or by different users or teams without prior announcement. <br/>
+						Keep up with the updates at: <a href="https://okcash.news" target="_blank">Okcash.news</a> or join the OK community over: <a href="https://discord.io/cryptocurrency" target="_blank"> discord.io/cryptocurrency </a><br/>
+						To join or contribute with the project development, send an email to: <a href="mailto:devteam@okcash.co">devteam@okcash.co</a><br/>
+						[New Roadmaps gets shared after all new items on the actual roadmap are checked (delivered)]
+						</p>
 					</div>
 				</div>
 			</div>
@@ -413,7 +425,7 @@ del {
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg roadmap-done">
 						<h6> </h6>
-						<p>• <del>OK Birthday </del><br/>• <del>ROKOS 10 release </del><br/>• <del>OK dev [Open source devs community for Okcash]</del> <br/>• <del>OK core design upgrade</del></p>
+						<p>• <del>7th OK Birthday </del><br/>• <del>ROKOS 10 release </del><br/>• <del>OK dev [Open source devs community for Okcash]</del> <br/>• <del>OK core design upgrade</del></p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
@@ -425,7 +437,7 @@ del {
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm roadmap-done">
 						<h6> </h6>
-						<p>• Ledger Integration <br/>• <del>TrustWallet Integration</del> <br/>• <del>OK block reward halving</del> <br/>• OK self governance system [close test] <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
+						<p>• <del>Ledger Integration</del> <br/>• <del>TrustWallet Integration</del> <br/>• <del>OK block reward halving</del> <br/>• OK self governance system [close test] <br/>• Decentralized / uncensorable OK website [UD + IPFS]</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
@@ -437,13 +449,13 @@ del {
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• OK Birthday <br/>• ROKOS + smart contracts [release + giveaway to OK holders] <br/>• OK core upgrade</p>
+						<p>• <del>8th OK Birthday</del> <br/>• ROKOS + smart contracts [release + giveaway to OK holders] <br/>• OK core upgrade</p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p><br/>• <del>Okcash DEFI Bridge </del><br/>• Okcash Wrapped [ERC20] <br/>• <del>Okcash Binance [BEP20] </del><br/>• OK NFTs </p>
+						<p><br/>• <del>Okcash DEFI Bridge </del><br/>• Okcash Wrapped [Ethereum] <br/>• <del>Okcash Wrapped [Binance] </del><br/>• OK NFTs </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
@@ -461,7 +473,7 @@ del {
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• OK Birthday <br/>• OK web3 <br/>• OK core upgrade <br/>• ROKOS 13 release </p>• OK [NFT] p2e Games
+						<p>• 9th OK Birthday <br/>• OK web3 <br/>• OK core upgrade <br/>• ROKOS 13 release </p>• OK [NFT] p2e Games
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
@@ -481,7 +493,8 @@ del {
 						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">OK Supporters
 							<span>Okcash</span>
 						</h2>
-						<p class="animated" data-animate="fadeInUp" data-delay="0.1">OK is fully supported by volunteers, different businesses, services, communities, groups and individuals world wide and anyone can join.<br/> Here are some out of many.</p>
+						<p class="animated" data-animate="fadeInUp" data-delay="0.1">OK is fully supported by volunteers, different businesses, services, communities, groups and individuals world wide and anyone can join.<br/> 
+						Here are some out of many.</p>
 					</div>
 				</div>
 			</div>
@@ -499,27 +512,8 @@ del {
 							<span class="team-title">Open Source Developers Group </span>
 							
 						</div>
-
-						
 					</div>
 				</div><!-- .col  -->
-
-				<!--<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".3">
-						<div class="team-photo">
-							<a href="https://cryptocloudhosting.org/" target="_blank"><img src="images/cchosting.jpg" alt="cryptocloudhosting">
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">Crypto Cloud Hosting</h5>
-							<span class="team-title">Crypto hosting services</span>
-							
-						</div>
-
-						
-
-					</div>
-				</div> --> <!-- .col  -->
 
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
@@ -532,44 +526,8 @@ del {
 							<span class="team-title">Azure Blockchain as a Service (BaaS)</span>
 							
 						</div>
-
-						
-
 					</div>
 				</div><!-- .col  -->
-
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
-						<div class="team-photo">
-							<a href="https://www.coinlore.com/coin/okcash" target="_blank"><img src="images/coinlore.jpg" alt="coinlore">
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">CoinLore</h5>
-							<span class="team-title">Coin Market Overview</span>
-							
-						</div>
-					</div>
-				</div><!-- .col  -->
-				
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
-						<div class="team-photo">
-							<a href="https://www.cryptologi.st/" target="_blank"><img src="images/cryptologist.jpg" alt="cryptologist" />
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">Cryptologi.st</h5>
-							<span class="team-title">Unique financial analysis on top 1500 crypto projects</span>
-							
-						</div>
-
-						
-					</div>
-				</div><!-- .col  -->
-			</div><!-- .row  -->
-			
-			<div class="row text-center">
 
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
@@ -579,28 +537,8 @@ del {
 						</div>
 						<div class="team-info">
 							<h5 class="team-name">ROKOS Bitcoin Fullnode</h5>
-							<span class="team-title">1st Crypto OS for the Internet of Things</span>
-							
+							<span class="team-title">1st Crypto OS for IoT with OK wallets</span>
 						</div>
-
-						
-					</div>
-				</div><!-- .col  -->
-
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".3">
-						<div class="team-photo">
-							<a href="#" target="_self"><img src="images/coinfestuk.jpg" alt="coinfestuk">
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">Coinfest UK</h5>
-							<span class="team-title">International Blockchain Festival</span>
-							
-						</div>
-
-						
-
 					</div>
 				</div><!-- .col  -->
 
@@ -612,34 +550,16 @@ del {
 						</div>
 						<div class="team-info">
 							<h5 class="team-name">Coin to Pay</h5>
-							<span class="team-title">Crypto banking, payment processor</span>
+							<span class="team-title">CryptoBanking OK payments processor</span>
 							
 						</div>
-
-						
-
 					</div>
 				</div><!-- .col  -->
 
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
-						<div class="team-photo">
-							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.jpg" alt="mycointainer">
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">My Cointainer</h5>
-							<span class="team-title">Cryptoassets Vault </span>
-							
-						</div>
-
-						
-
-					</div>
-				</div><!-- .col  -->
 			</div><!-- .row  -->
 			
 			<div class="row text-center">
+
 
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
@@ -649,82 +569,37 @@ del {
 						</div>
 						<div class="team-info">
 							<h5 class="team-name">Cryptocurrency Checkout</h5>
-							<span class="team-title">Payments and Merchant tools</span>
+							<span class="team-title">OK Payments and Merchant tools</span>
 							
 						</div>
 
 						
 					</div>
 				</div><!-- .col  -->
-				
-				
-				
+
+
 				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
 						<div class="team-photo">
-							<a href="https://socialsend.net" target="_blank"><img src="images/socialsend.jpg" alt="socialsend" />
+							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.jpg" alt="mycointainer">
 							</a>
 						</div>
 						<div class="team-info">
-							<h5 class="team-name">Social Send</h5>
-							<span class="team-title">Send and Receive Okcash over Social Networks</span>
+							<h5 class="team-name">My Cointainer</h5>
+							<span class="team-title">Mobile OK Staking wallets</span>
 							
 						</div>
-
-						
 					</div>
 				</div><!-- .col  -->
-				
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
-						<div class="team-photo">
-							<a href="https://coinscouts.io" target="_blank"><img src="images/coinscouts.jpg" alt="coinscouts" />
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">CoinScouts</h5>
-							<span class="team-title">World's Most Powerful Crypto Database</span>
-							
-						</div>
+			</div><!-- .row  -->
+			
+			<div class="row text-center">
 
-						
-					</div>
-				</div><!-- .col  -->
 
-				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
-						<div class="team-photo">
-							<a href="https://cryptoholics.com/" target="_blank"><img src="images/cryptoholics.png" alt="cryptoholics" />
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">Cryptoholics</h5>
-							<span class="team-title">The Best Crypto Guides for all your needs</span>
-							
-						</div>
 
-						
-					</div>
-				</div><!-- .col  -->
-				
 			</div><!-- .row  -->
 			
             <div class="row text-center">
-                <!--<div class="col-md-6 col-lg-3">
-				    <div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
-						<div class="team-photo">
-							<a href="https://blockfolio.com/" target="_blank"><img src="images/blockfolio.jpg" alt="blockfolio" />
-							</a>
-						</div>
-						<div class="team-info">
-							<h5 class="team-name">Blockfolio</h5>
-							<span class="team-title">Crypto News Signals / Cryptocurrency Tracking and more</span>
-							
-						</div>
-						
-					</div>
-
-				</div> --><!-- .col  -->
 
 
 
@@ -819,14 +694,14 @@ del {
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
+							<a href="https://app.uniswap.org/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48" target="_blank"><img src="images/uniswap.png" alt="Uniswap"></a>
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 							<a href="https://pancakeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/pancakeswap.png" alt="PancakeSwap"></a>
 						</div>
 					</div>
-					<div class="col-sm">
-						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://exchange.biswap.org/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/biswap.png" alt="BiSwap"></a>
-						</div>
-					</div>
 				</div>
 				
 				<div class="row text-center">
@@ -834,14 +709,12 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://apeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/apeswap.png" alt="ApeSwap"></a>
-						</div>
+								<a href="https://www.sushi.com/swap" target="_blank"><img src="images/sushiswap.png" alt="SushiSwap"></a>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-									<a href="https://bsc.mdex.com/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/mdex.png" alt="MDEX"></a>
+								<a href="https://kyberswap.com/swap/avalanche/usdc-to-ok" target="_blank"><img src="images/kyberswap.png" alt="KyberSwap"></a>
 								</div>
 							</div>
 						</div>
@@ -855,17 +728,17 @@ del {
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://btcpop.co/Exchange/OK" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a>
+						<a href="https://exchange.biswap.org/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/biswap.png" alt="BiSwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-                            <a href="https://www.sushi.com/swap" target="_blank"><img src="images/sushiswap.png" alt="SushiSwap"></a>
+						<a href="https://quickswap.exchange/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174" target="_blank"><img src="images/quickswap.png" alt="QuickSwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-                            <a href="https://www.bakeryswap.org/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/bakeryswap.png" alt="BakerySwap"></a>
+						<a href="https://traderjoexyz.com/trade?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E" target="_blank"><img src="images/traderjoe.png" alt="Trader Joe"></a>
 						</div>
 					</div>
 				</div>
@@ -875,14 +748,12 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-									<a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a>
-						</div>
+								<a href="https://apeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/apeswap.png" alt="ApeSwap"></a>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-									<a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a>
+								<a href="https://app.pangolin.exchange/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E" target="_blank"><img src="images/pangolin.png" alt="Pangolin"></a> 
 								</div>
 							</div>
 						</div>
@@ -896,17 +767,17 @@ del {
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<!-- <a href="https://stealthex.io/" target="_blank"><img src="images/stealth-ex.png" alt="Stealthex"></a>  -->
+						<a href="https://bsc.mdex.com/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/mdex.png" alt="MDEX"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<!-- <a href="https://knaken.eu/" target="_blank"><img src="images/knaken.png" alt="Knaken"></a>  -->
+						<a href="https://www.bakeryswap.org/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/bakeryswap.png" alt="BakerySwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<!-- <a href="http://bit.ly/okcrexx" target="_blank"><img src="images/crex24.png" alt="Crex24"></a> -->
+						<a href="https://btcpop.co/Exchange/OK" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a>
 						</div>
 					</div>
 				</div>
@@ -916,9 +787,9 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
+
 									<!-- <a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> -->
-						            </div>
+
 								</div>
 							</div>
 							<div class="col-sm">
@@ -957,9 +828,7 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 									<!-- <a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a> -->
-									</div>
 								</div>
 							</div>
 							<div class="col-sm">
@@ -998,9 +867,7 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
 									<!-- <a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a>  -->
-									</div>
 								</div>
 							</div>
 							<div class="col-sm">
@@ -1149,10 +1016,15 @@ del {
 			<div class="row text-center">
 				<div class="col">
 					<div class="section-head">
-						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Participate &amp; Support Okcash
-							<span>OK</span>
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">OK Heroes
+							<span>Participate</span>
 						</h2>
-						<p class="animated" data-animate="fadeInUp" data-delay=".1">Okcash was born from a small community and has grown fast. </br>There are a lot of things you can do to support it and help others learn more.</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1">
+						Become an <b>OK Hero</b>! Okcash was born from a small community and has grown fast. </br>
+						This is all thanks to the support from the community, who are the real OK Heroes. You can become one too! </br>
+						There are a lot of things you can do to participate and support OK and help others learn more and get empowered. </br>
+						Let's change the world! </br>
+						</p>
 					</div>
 				</div>
 			</div><!-- .row -->
@@ -1615,8 +1487,8 @@ del {
 			<div class="row text-center">
 				<div class="col">
 					<div class="section-head">
-						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Okcash Teams
-							<span>OK</span>
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">OK Teams
+							<span>Okcash</span>
 						</h2>
 						<p class="animated" data-animate="fadeInUp" data-delay=".1">"We are the nerds, the misfits, the rebels, the troublemakers, the crazy ones enough to believe we can do so with our passion."
 						</br>~ In answer to Steve Jobs "The Crazy Ones" </p>
