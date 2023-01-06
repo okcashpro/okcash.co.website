@@ -443,37 +443,37 @@ del {
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• ROKOS 11 release <br/>• ROKOS + smart contracts [Release + giveaway to OK holders] <br/>• <del>OK core upgrade </del><br/>• OK self governance system [open test] </p>
+						<p>• <del>ROKOS 11 release</del> <br/>• ROKOS + smart contracts [Release + giveaway to OK holders] <br/>• <del>OK core upgrade </del><br/>• OK self governance system [open test] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• <del>8th OK Birthday</del> <br/>• ROKOS + smart contracts [release + giveaway to OK holders] <br/>• OK core upgrade</p>
+						<p>• <del>8th OK Birthday</del> <br/>• ROKOS + smart contracts [release + giveaway to OK holders] <br/>• <del>OK Swap in wallet</del></p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p><br/>• <del>Okcash DEFI Bridge </del><br/>• Okcash Wrapped [Ethereum] <br/>• <del>Okcash Wrapped [Binance] </del><br/>• OK NFTs </p>
+						<p><br/>• <del>Okcash DEFI Bridge </del><br/>• <del>Okcash Wrapped [Ethereum]</del> <br/>• <del>Okcash Wrapped [Binance] </del><br/>• OK NFTs </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm">
 						<h6> </h6>
-						<p>• ROKOS 12 release <br/>• OK core upgrade <br/>• OK game multi platform [closed test] </p>
+						<p>• ROKOS 12 release <br/>• OK core upgrade <br/>• OK game multi platform [closed test] <br/>• OK token [Arbitrum] <br/>• OK token [Optimism] <br/>• OK token [Fantom] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• Okcash Wrapped [Polygon] <br/>• Okcash Wrapped [Avalanche] <br/>• OK [earn] Games </p>
+						<p>• <del>OK token [Polygon]</del> <br/>• <del>OK token [Avalanche]</del><br/>• <del>OK web3 faucets</del> <br/>• OK web3 games </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• 9th OK Birthday <br/>• OK web3 <br/>• OK core upgrade <br/>• ROKOS 13 release </p>• OK [NFT] p2e Games
+						<p>• 9th OK Birthday <br/>• OK web3 dapps<br/>• OK core upgrade <br/>• ROKOS 13 release </p>• OK [NFT] p2e Games
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
@@ -591,6 +591,24 @@ del {
 						</div>
 					</div>
 				</div><!-- .col  -->
+				
+				
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
+						<div class="team-photo">
+							<a href="https://app.spherium.finance/#/transfer" target="_blank"><img src="images/hyperbridge.png" alt="SF Hyperbridge">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">SF's Hyperbridge for OK multi chain</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+				
+				
+				
 			</div><!-- .row  -->
 			
 			<div class="row text-center">
@@ -788,7 +806,7 @@ del {
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 
-									<!-- <a href="https://www.unnamed.exchange/Exchange?market=OK_BTC" target="_blank"><img src="images/unnamed.png" alt="Unnamed"></a> -->
+									<a href="https://dex-trade.com" target="_blank"><img src="images/dextrade.png" alt="Dex Trade"></a>
 
 								</div>
 							</div>
@@ -1023,7 +1041,8 @@ del {
 						Become an <b>OK Hero</b>! Okcash was born from a small community and has grown fast. </br>
 						This is all thanks to the support from the community, who are the real OK Heroes. You can become one too! </br>
 						There are a lot of things you can do to participate and support OK and help others learn more and get empowered. </br>
-						Let's change the world! </br>
+						Let's change the world together! </br>
+						Thanks to the <b>OK Heroes</b>: Everything is gonna be <b>OK</b></br>
 						</p>
 					</div>
 				</div>
@@ -1031,6 +1050,7 @@ del {
 			
 			<div class="blog-list">
 				<div class="row">
+				
 					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
 						<div class="blog-item animated" data-animate="fadeInUp" data-delay="0">
 							<div class="blog-photo"><img src="images/using-okcash.jpg" alt="blog-photo"></div>
@@ -1039,30 +1059,53 @@ del {
 									<li>1</li>
 									<li>Use OK coins</li>
 								</ul>
-								<h5 class="blog-title">Using Okcash</h5>
-								<p align="justify"><a href="https://okcash.org/getting-started.html" target="_blank">Using OK</a> is the first thing you can do to support Okcash. There are probably many cases where it can make your life easier. You can accept payments and make purchases with Okcash.</p>
+								<h5 class="blog-title">Using OK</h5>
+								<p align="justify">To <a href="https://okcash.org/getting-started.html" target="_blank">Use OK</a> is the first thing you can do to support Okcash. There are probably many cases where it can make your life easier. You can accept OK payments and make purchases with OK. You can also request your favorite exchange to add OK.</p>
 							</div>
 						</div>
 					</div><!-- .col -->
+
 					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
 						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
-							<div class="blog-photo"><img src="images/okcash-network.jpg" alt="blog-photo"></div>
+							<div class="blog-photo"><img src="images/spread-the-word.jpg" alt="blog-photo"></div>
 							<div class="blog-texts">
 								<ul class="blog-meta">
 									<li>2</li>
-									<li>Be the OK Network</li>
+									<li>Share OK with the world</li>
 								</ul>
-								<h5 class="blog-title">The Okcash Network</h5>
-								<p align="justify">With just an Internet connection, you can help strengthen the OK network by keeping an <a href="https://okcash.org/#jf_download" target="_blank">Okcash full node wallet</a> running on your computer or server. Full nodes secure &amp; relay transactions.</p>
+								<h5 class="blog-title">Plant the OK seeds</h5>
+								<p align="justify">Speak about OK to interested people. Write about it on your blog. Tell your favorite shops you would like to pay with OK. Help to keep merchant directories up to date. Or be creative and make yourself a nice OK T-shirt and become the OK hero!</p>
 							</div>
 						</div>
 					</div><!-- .col -->
+
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay="0">
+							<div class="blog-photo"><img src="images/communities.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>3</li>
+									<li>Meet the OK communities</li>
+								</ul>
+								<h5 class="blog-title">Communities</h5>
+								<p align="justify">You can join the OK communities and talk with other OK enthusiasts. You can learn more about Okcash every day, give help to new users and get involved in interesting projects. You can also create your own OK communities under your lead. </p>
+							</div>
+						</div>
+					</div><!-- .col -->
+
+					
+				</div><!-- .row -->
+			</div><!-- .blog-list -->
+			
+			<div class="blog-list">
+				<div class="row">
+					
 					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
 						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".2">
 							<div class="blog-photo"><img src="images/okcash-staking.jpg" alt="blog-photo"></div>
 							<div class="blog-texts">
 								<ul class="blog-meta">
-									<li>3</li>
+									<li>4</li>
 									<li>Stake (Mine) OK coins</li>
 								</ul>
 								<h5 class="blog-title">Staking</h5>
@@ -1070,17 +1113,51 @@ del {
 							</div>
 						</div>
 					</div><!-- .col -->
+
+
+
+
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
+							<div class="blog-photo"><img src="images/okcash-network.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>5</li>
+									<li>Be the OK Network</li>
+								</ul>
+								<h5 class="blog-title">The OK Network</h5>
+								<p align="justify">With just an Internet connection, you can help strengthen the OK network by keeping an <a href="https://okcash.org/#jf_download" target="_blank">OK full node wallet</a> running on your computer or server. Full nodes secure &amp; relay transactions.</p>
+							</div>
+						</div>
+					</div><!-- .col -->
+					
+					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
+						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
+							<div class="blog-photo"><img src="images/development.jpg" alt="blog-photo"></div>
+							<div class="blog-texts">
+								<ul class="blog-meta">
+									<li>6</li>
+									<li>Help Develop OK</li>
+								</ul>
+								<h5 class="blog-title">Development</h5>
+								<p align="justify">OK is open source software. If you are a developer, you can use your superpowers to do good and improve Okcash. Or you can build amazing new services or software that use Okcash. </p>
+							</div>
+						</div>
+					</div><!-- .col -->
+
 				</div><!-- .row -->
 			</div><!-- .blog-list -->
 			
 			<div class="blog-list">
 				<div class="row">
+
+
 					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
 						<div class="blog-item animated" data-animate="fadeInUp" data-delay="0">
 							<div class="blog-photo"><img src="images/translate.jpg" alt="blog-photo"></div>
 							<div class="blog-texts">
 								<ul class="blog-meta">
-									<li>4</li>
+									<li>7</li>
 									<li>Translate OK to the world</li>
 								</ul>
 								<h5 class="blog-title">Translate</h5>
@@ -1088,25 +1165,13 @@ del {
 							</div>
 						</div>
 					</div><!-- .col -->
-					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
-						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
-							<div class="blog-photo"><img src="images/development.jpg" alt="blog-photo"></div>
-							<div class="blog-texts">
-								<ul class="blog-meta">
-									<li>5</li>
-									<li>Help Develop OK</li>
-								</ul>
-								<h5 class="blog-title">Development</h5>
-								<p align="justify">Okcash is free software. If you are a developer, you can use your superpowers to do good and improve Okcash. Or you can build amazing new services or software that use Okcash. </p>
-							</div>
-						</div>
-					</div><!-- .col -->
+
 					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
 						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".2">
 							<div class="blog-photo"><img src="images/donate.jpg" alt="blog-photo"></div>
 							<div class="blog-texts">
 								<ul class="blog-meta">
-									<li>6</li>
+									<li>8</li>
 									<li>Sharing is Caring</li>
 								</ul>
 								<h5 class="blog-title">Donation</h5>
@@ -1114,37 +1179,8 @@ del {
 							</div>
 						</div>
 					</div><!-- .col -->
-				</div><!-- .row -->
-			</div><!-- .blog-list -->
-			
-			<div class="blog-list">
-				<div class="row">
-					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
-						<div class="blog-item animated" data-animate="fadeInUp" data-delay="0">
-							<div class="blog-photo"><img src="images/communities.jpg" alt="blog-photo"></div>
-							<div class="blog-texts">
-								<ul class="blog-meta">
-									<li>7</li>
-									<li>Meet the OK communities</li>
-								</ul>
-								<h5 class="blog-title">Communities</h5>
-								<p align="justify">You can join Okcash communities and talk with other OK enthusiasts. You can learn more about Okcash every day, give help to new users and get involved in interesting projects. You can also create your own Okcash communities. </p>
-							</div>
-						</div>
-					</div><!-- .col -->
-					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
-						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".1">
-							<div class="blog-photo"><img src="images/spread-the-word.jpg" alt="blog-photo"></div>
-							<div class="blog-texts">
-								<ul class="blog-meta">
-									<li>8</li>
-									<li>Share Okcash with the world</li>
-								</ul>
-								<h5 class="blog-title">Plant the OK seeds</h5>
-								<p align="justify">Speak about Okcash to interested people. Write about it on your blog. Tell your favorite shops you would like to pay with Okcash. Help to keep merchant directories up to date. Or be creative and make yourself a nice Okcash T-shirt.</p>
-							</div>
-						</div>
-					</div><!-- .col -->
+
+
 					<div class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
 						<div class="blog-item animated" data-animate="fadeInUp" data-delay=".2">
 							<div class="blog-photo"><img src="images/documentation.jpg" alt="blog-photo"></div>
@@ -1154,7 +1190,7 @@ del {
 									<li>Documentation is key</li>
 								</ul>
 								<h5 class="blog-title">Documentation</h5>
-								<p align="justify">Okcash.org provides useful document- ation and we are constantly improving the information it contains. You can help to improve these resources and keep them up to date or add new translations over the <a href="https://github.com/okcashpro/okcash.org.website" target="_blank"> <em class="fab fa-github"></em> Okcash.org Github</a></p>
+								<p align="justify">Okcash.org provides useful document- ation and we constantly improve the information it contains. You can help to improve it or add new translations over the <a href="https://github.com/okcashpro/okcash.org.website" target="_blank"> <em class="fab fa-github"></em> Okcash.org Github</a></p>
 							</div>
 						</div>
 					</div><!-- .col -->
@@ -1544,7 +1580,7 @@ del {
 						<li class="animated" data-animate="fadeInUp" data-delay=".6"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
 					</ul>
 					<span class="copyright-text animated" data-animate="fadeInUp" data-delay=".3">
-						© 2014-2022 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>.
+						© 2014-2023 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>.
 						<span>All trademarks and copyrights belong to their respective owners.</span>
 					</span>
 				</div>
