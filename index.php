@@ -443,7 +443,7 @@ del {
 				<div class="col-lg width-0">
 					<div class="single-roadmap roadmap-down">
 						<h6> </h6>
-						<p>• <del>ROKOS 11 release</del> <br/>• ROKOS + smart contracts [Release + giveaway to OK holders] <br/>• <del>OK core upgrade </del><br/>• OK self governance system [open test] </p>
+						<p>• <del>ROKOS 11 release</del> <br/>• ROKOS + smart contracts [Release + giveaway to OK holders] <br/>• <del>OK core upgrade </del><br/>• OK self governance system [OK DAO release] </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg">
@@ -473,7 +473,7 @@ del {
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-lg">
 						<h6> </h6>
-						<p>• 9th OK Birthday <br/>• OK web3 dapps<br/>• OK core upgrade <br/>• ROKOS 13 release </p>• OK [NFT] p2e Games
+						<p>• 9th OK Birthday <br/>• OK web3 dapps<br/>• OK core upgrade <br/>• ROKOS 13 release </p>• OK [NFT] p2e Games </p>• OK Multi chain Staking
 					</div>
 				</div><!-- .col  -->
 			</div><!-- .row  -->
