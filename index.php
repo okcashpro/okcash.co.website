@@ -106,10 +106,13 @@ del {
 								<p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">Micro Transactions • Speed • Efficiency • Security<br/>Decentralize Everything and Empower Everyone</p>
 								<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">
 									<li><a href="https://chainz.cryptoid.info/ok/" target="_blank" class="btn btn-alt">OK [native] Explorer</a></li>
-									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank" class="btn btn-alt">OK [BEP20] BSC Explorer</a></li>
-									<li><a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ERC20] ETH Explorer</a></li>
+									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank" class="btn btn-alt">OK [BNB] BSC Explorer</a></li>
+									<li><a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ETH] ETH Explorer</a></li>
 									<li><a href="https://snowtrace.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [AVAX] Avalanche Explorer</a></li>
 									<li><a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [MATIC] Polygon Explorer</a></li>
+									<li><a href="https://arbiscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ETH] Arbitrum Explorer</a></li>
+									<li><a href="https://optimistic.etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ETH] Optimism Explorer</a></li>
+									<li><a href="https://ftmscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [FTM] Fantom Explorer</a></li>
 								</ul>
 								<ul class="social">
 									<li class="animated" data-animate="fadeInUp" data-delay="1.8"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
@@ -224,7 +227,7 @@ del {
 						<p class="animated" data-animate="fadeInUp" data-delay="0">The main mission of the Okcash project is to empower its users while being multi chain, energy friendly and sustainable, evolve with positive innovations, and decentralization to give the power to the user and help advance crypto forward. <br/>The OK movement mission is to help change the world with positive innovation. <br/>These are some of the benefits of start using Okcash:</p>
 						<ul class="animated" data-animate="fadeInUp" data-delay=".1">
 							<li>Multiplatform. [Windows, Mac, Linux, Android, IoT devices]</li>
-							<li>Multi chain. [OK Network, Ethereum, Binance Smart Chain, Polygon, Avalanche]</li>
+							<li>Multi chain. [OK Network, Ethereum, Binance Smart Chain, Polygon, Avalanche, Arbitrum, Optimism, Fantom]</li>
 							<li>100% upload time + Decentralized.</li>
 							<li>The most sustainable, efficient and secure Proof of Stake.</br> [LTSS | Inhouse]</li>
 							<li>Security + Efficiency. [8+ years tested chain]</li>
