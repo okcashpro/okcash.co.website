@@ -464,7 +464,7 @@ del {
 				<div class="col-lg">
 					<div class="single-roadmap roadmap-sm">
 						<h6> </h6>
-						<p>• ROKOS 12 release <br/>• OK core upgrade <br/>• OK game multi platform [closed test] <br/>• OK token [Arbitrum] <br/>• OK token [Optimism] <br/>• OK token [Fantom] </p>
+						<p>• ROKOS 12 release <br/>• OK core upgrade <br/>• OK game multi platform [closed test] <br/>• <del>OK token [Arbitrum]</del> <br/>• <del>OK token [Optimism]</del> <br/>• <del>OK token [Fantom]</del> </p>
 					</div>
 				</div><!-- .col  -->
 				<div class="col-lg width-0">
