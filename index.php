@@ -493,7 +493,7 @@ del {
 			<div class="row text-center">
 				<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
 					<div class="section-head">
-						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">OK Supporters
+						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Powered by
 							<span>Okcash</span>
 						</h2>
 						<p class="animated" data-animate="fadeInUp" data-delay="0.1">OK is fully supported by volunteers, different businesses, services, communities, groups and individuals world wide and anyone can join.<br/> 
@@ -505,18 +505,243 @@ del {
 			<div class="row text-center">
 
 				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://okdevs.org" target="_blank"><img src="images/okdevs.png" alt="okdevs" />
+							<a href="https://oktoken.cash" target="_blank"><img src="images/oktoken1.png" alt="OK Token">
 							</a>
 						</div>
 						<div class="team-info">
 							<h5 class="team-name"> </h5>
-							<span class="team-title">Open Source Developers Group </span>
+							<span class="team-title">OK on DeFi</span>
 							
 						</div>
 					</div>
 				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank"><img src="images/binance-smartchain1.png" alt="Binance Smart Chain" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Binance Smart Chain </span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/ethereum1.png" alt="Ethereum" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Ethereum</span>
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/polygon1.png" alt="Polygon">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Polygon</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+			</div><!-- .row  -->
+			
+			<div class="row text-center">
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://arbiscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/arbitrum1.png" alt="Arbitrum">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Arbitrum</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://snowtrace.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/avalanche1.png" alt="Avalanche" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Avalanche </span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://optimistic.etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/optimism1.png" alt="Optimism" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Optimism</span>
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://ftmscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/fantom1.png" alt="Fantom">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Fantom</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+			</div><!-- .row  -->
+			
+			
+			<div class="row text-center">
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://metamask.io/" target="_blank"><img src="images/metamask1.png" alt="Metamask">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Metamask Wallet</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://trustwallet.com/" target="_blank"><img src="images/trustwallet1.png" alt="Trust Wallet" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Trust Wallet </span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://www.exodus.com/" target="_blank"><img src="images/exodus1.png" alt="Exodus" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Exodus Wallet</span>
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://www.ledger.com/" target="_blank"><img src="images/ledger1.png" alt="Ledger">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Ledger Wallet</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+			</div><!-- .row  -->
+			
+			
+			<div class="row text-center">
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://coinmarketcap.com/currencies/okcash/" target="_blank"><img src="images/coinmarketcap1.png" alt="Coin Market Cap">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on CoinMarketCap</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://www.coingecko.com/en/coins/okcash" target="_blank"><img src="images/coingecko1.png" alt="Coin Gecko" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Coin Gecko </span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://www.tradingview.com/symbols/OKUSD/" target="_blank"><img src="images/tradingview1.png" alt="Trading View" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Trading View</span>
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://app.bubblemaps.io/bsc/token/0x523821d20a283d955f6205B4C9252779Cd0f964B" target="_blank"><img src="images/bubblemaps1.png" alt="Bubble Maps">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Bubble Maps</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+			</div><!-- .row  -->
+			
+
+			<div class="row text-center">
 
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
@@ -535,6 +760,52 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
+							<a href="https://okdevs.org" target="_blank"><img src="images/okdevs.png" alt="okdevs" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">Open Source Developers Group </span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://tip.cc/" target="_blank"><img src="images/tipcc1.png" alt="Tip cc" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK on Tip cc</span>
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+						<div class="team-photo">
+							<a href="https://okmoon.net/" target="_blank"><img src="images/okmoon1.png" alt="OK Moon Faucets">
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK Moon Faucets</span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->
+
+			</div><!-- .row  -->
+			
+			
+			<div class="row text-center">
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
 							<a href="https://bitcoinfullnode.org/" target="_blank"><img src="images/bitcoinfullnode.png" alt="bitcoinfullnode" />
 							</a>
 						</div>
@@ -544,24 +815,22 @@ del {
 						</div>
 					</div>
 				</div><!-- .col  -->
+				
+
 
 				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
 						<div class="team-photo">
-							<a href="https://cointopay.com/" target="_blank"><img src="images/cointopay.png" alt="cointopay">
+							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.png" alt="mycointainer">
 							</a>
 						</div>
 						<div class="team-info">
 							<h5 class="team-name"> </h5>
-							<span class="team-title">CryptoBanking OK payments processor</span>
+							<span class="team-title">Mobile OK Staking wallets</span>
 							
 						</div>
 					</div>
 				</div><!-- .col  -->
-
-			</div><!-- .row  -->
-			
-			<div class="row text-center">
 
 
 				<div class="col-md-6 col-lg-3">
@@ -582,19 +851,38 @@ del {
 
 
 				<div class="col-md-6 col-lg-3">
-					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.png" alt="mycointainer">
+							<a href="https://cointopay.com/" target="_blank"><img src="images/cointopay.png" alt="cointopay">
 							</a>
 						</div>
 						<div class="team-info">
 							<h5 class="team-name"> </h5>
-							<span class="team-title">Mobile OK Staking wallets</span>
+							<span class="team-title">CryptoBanking OK payments processor</span>
 							
 						</div>
 					</div>
 				</div><!-- .col  -->
 				
+
+			</div><!-- .row  -->
+			
+			<div class="row text-center">
+
+
+				<div class="col-md-6 col-lg-3">
+					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
+						<div class="team-photo">
+							<a href="https://wrapping.services/get/ok/" target="_blank"><img src="images/wrappingservices1.png" alt="Wrapping Services" />
+							</a>
+						</div>
+						<div class="team-info">
+							<h5 class="team-name"> </h5>
+							<span class="team-title">OK Swap on Wrapping Services </span>
+							
+						</div>
+					</div>
+				</div><!-- .col  -->				
 				
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
