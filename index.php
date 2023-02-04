@@ -88,7 +88,7 @@ del {
 					</ul>
 					<ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">
 						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#apps">Download OK</a></li>
-						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://oktoken.cash" target="_blank">Swap OK Multi chain</a></li>
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://oktoken.cash" rel="noopener noreferrer" target="_blank">Swap OK Multi chain</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -105,23 +105,23 @@ del {
 								<h1 class="animated" data-animate="fadeInUp" data-delay="1.55">OK • Multi chain energy friendly open source electronic cash </h1>
 								<p class="lead color-secondary animated" data-animate="fadeInUp" data-delay="1.65">Micro Transactions • Speed • Efficiency • Security<br/>Decentralize Everything and Empower Everyone</p>
 								<ul class="btns animated" data-animate="fadeInUp" data-delay="1.75">
-									<li><a href="https://chainz.cryptoid.info/ok/" target="_blank" class="btn btn-alt">OK [native] Explorer</a></li>
-									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank" class="btn btn-alt">OK [BNB] BSC Explorer</a></li>
-									<li><a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ETH] ETH Explorer</a></li>
-									<li><a href="https://snowtrace.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [AVAX] Avalanche Explorer</a></li>
-									<li><a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [MATIC] Polygon Explorer</a></li>
-									<li><a href="https://arbiscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ETH] Arbitrum Explorer</a></li>
-									<li><a href="https://optimistic.etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [ETH] Optimism Explorer</a></li>
-									<li><a href="https://ftmscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank" class="btn btn-alt">OK [FTM] Fantom Explorer</a></li>
+									<li><a href="https://chainz.cryptoid.info/ok/" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [native] Explorer</a></li>
+									<li><a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [BNB] BSC Explorer</a></li>
+									<li><a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [ETH] ETH Explorer</a></li>
+									<li><a href="https://snowtrace.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [AVAX] Avalanche Explorer</a></li>
+									<li><a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [MATIC] Polygon Explorer</a></li>
+									<li><a href="https://arbiscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [ETH] Arbitrum Explorer</a></li>
+									<li><a href="https://optimistic.etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [ETH] Optimism Explorer</a></li>
+									<li><a href="https://ftmscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank" class="btn btn-alt">OK [FTM] Fantom Explorer</a></li>
 								</ul>
 								<ul class="social">
-									<li class="animated" data-animate="fadeInUp" data-delay="1.8"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
-									<li class="animated" data-animate="fadeInUp" data-delay="1.85"><a href="https://t.me/okcash" target="_blank"><em class="fab fa-telegram"></em></a></li>
-									<li class="animated" data-animate="fadeInUp" data-delay="1.9"><a href="https://twitter.com/search?q=okcash" target="_blank"><em class="fab fa-twitter"></em></a></li>
-									<li class="animated" data-animate="fadeInUp" data-delay="1.95"><a href="https://www.reddit.com/r/OKcash/" target="_blank"><em class="fab fa-reddit"></em></a></li>
-									<li class="animated" data-animate="fadeInUp" data-delay="2"><a href="https://github.com/okcashpro/okcash" target="_blank"><em class="fab fa-github"></em></a></li>
-									<li class="animated" data-animate="fadeInUp" data-delay="2.05"><a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
-									<li class="animated" data-animate="fadeInUp" data-delay="2.15"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.8"><a href="https://discord.io/cryptocurrency" rel="noopener noreferrer" target="_blank"><em class="fab fa-discord"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.85"><a href="https://t.me/okcash" rel="noopener noreferrer" target="_blank"><em class="fab fa-telegram"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.9"><a href="https://twitter.com/search?q=okcash" rel="noopener noreferrer" target="_blank"><em class="fab fa-twitter"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="1.95"><a href="https://www.reddit.com/r/OKcash/" rel="noopener noreferrer" target="_blank"><em class="fab fa-reddit"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="2"><a href="https://github.com/okcashpro/okcash" rel="noopener noreferrer" target="_blank"><em class="fab fa-github"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="2.05"><a href="https://bitcointalk.org/index.php?topic=1028368.0" rel="noopener noreferrer" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
+									<li class="animated" data-animate="fadeInUp" data-delay="2.15"><a href="https://okcash.news" rel="noopener noreferrer" target="_blank"><em class="fab fa-medium-m"></em></a></li>
 								</ul>
 							</div>
 						</div><!-- .col  -->
@@ -209,7 +209,7 @@ del {
 						</h2>
 						<p class="animated" data-animate="fadeInUp" data-delay=".1">Your OK wallet is the software you use to send, receive and store your OK. 
 						It’s simple to use and you can choose to send and receive OK payments from your own OK wallet.</p>
-						<a href="https://okcash.org/#jf_download" class="btn btn-sm" target="_blank">Download the OK Wallet from Okcash.org</a>
+						<a href="https://okcash.org/#jf_download" class="btn btn-sm" rel="noopener noreferrer" target="_blank">Download the OK Wallet from Okcash.org</a>
 					</div>
 				</div>
 			</div>
@@ -256,7 +256,7 @@ del {
 						<h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Open Source
 							<span>OK</span>
 						</h2>
-						<p class="animated" data-animate="fadeInUp" data-delay=".1"><b>OK</b> is open-source and multi chain; its design is public, nobody owns</br> or controls Okcash and everyone can take part.</br><b>OK</b> is free software and any developer can join and contribute to the project. Everything you need is in the <a href="https://github.com/okcashpro/" target="_blank">GitHub repositories</a>.</p>
+						<p class="animated" data-animate="fadeInUp" data-delay=".1"><b>OK</b> is open-source and multi chain; its design is public, nobody owns</br> or controls Okcash and everyone can take part.</br><b>OK</b> is free software and any developer can join and contribute to the project. Everything you need is in the <a href="https://github.com/okcashpro/" rel="noopener noreferrer" target="_blank">GitHub repositories</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -317,9 +317,9 @@ del {
 				</div><!-- .col  -->
 				<div class="col-lg-5 offset-lg-1">
 					<div class="countdown-box text-center animated" data-animate="fadeInUp" data-delay=".3">
-						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" target="_blank">POS LTTS Reward-Change</a></p>
+						<p>Aprox. ETA for next <a href="https://okcashblockhalf.com" rel="noopener noreferrer" target="_blank">POS LTTS Reward-Change</a></p>
 						<div class="token-countdown d-flex align-content-stretch" data-date="2025/02/12"></div>
-						<a href="https://github.com/okcashpro/okcash" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute to the OK Development</a>
+						<a href="https://github.com/okcashpro/okcash" rel="noopener noreferrer" target="_blank" class="btn btn-alt btn-sm">Join &amp; contribute to the OK Development</a>
 						<ul class="icon-list">
 							 
 							<li><em class="fas fa-handshake"></em></li> 
@@ -404,7 +404,7 @@ del {
 						There are many different teams and individuals indepently working on their own projects utilizing OK or to help improve OK.</br> 
 						In the roadmap below we can find some of the OK goals and upcoming features by different teams. </br>
 						This is not fully inclusive of all milestones and upcoming features. New services and features may be integrated at any time based on community consensus, or by different users or teams without prior announcement. <br/>
-						Keep up with the updates at: <a href="https://okcash.news" target="_blank">Okcash.news</a> or join the OK community over: <a href="https://discord.io/cryptocurrency" target="_blank"> discord.io/cryptocurrency </a><br/>
+						Keep up with the updates at: <a href="https://okcash.news" rel="noopener noreferrer" target="_blank">Okcash.news</a> or join the OK community over: <a href="https://discord.io/cryptocurrency" rel="noopener noreferrer" target="_blank"> discord.io/cryptocurrency </a><br/>
 						To join or contribute with the project development, send an email to: <a href="mailto:devteam@okcash.co">devteam@okcash.co</a><br/>
 						[New Roadmaps gets shared after all new items on the actual roadmap are checked (delivered)]
 						</p>
@@ -507,7 +507,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://oktoken.cash" target="_blank"><img src="images/oktoken1.png" alt="OK Token">
+							<a href="https://oktoken.cash" rel="noopener noreferrer" target="_blank"><img src="images/oktoken1.png" alt="OK Token">
 							</a>
 						</div>
 						<div class="team-info">
@@ -521,7 +521,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" target="_blank"><img src="images/binance-smartchain1.png" alt="Binance Smart Chain" />
+							<a href="https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b" rel="noopener noreferrer" target="_blank"><img src="images/binance-smartchain1.png" alt="Binance Smart Chain" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -535,7 +535,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/ethereum1.png" alt="Ethereum" />
+							<a href="https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank"><img src="images/ethereum1.png" alt="Ethereum" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -548,7 +548,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/polygon1.png" alt="Polygon">
+							<a href="https://polygonscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank"><img src="images/polygon1.png" alt="Polygon">
 							</a>
 						</div>
 						<div class="team-info">
@@ -566,7 +566,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://arbiscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/arbitrum1.png" alt="Arbitrum">
+							<a href="https://arbiscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank"><img src="images/arbitrum1.png" alt="Arbitrum">
 							</a>
 						</div>
 						<div class="team-info">
@@ -580,7 +580,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://snowtrace.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/avalanche1.png" alt="Avalanche" />
+							<a href="https://snowtrace.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank"><img src="images/avalanche1.png" alt="Avalanche" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -594,7 +594,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://optimistic.etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/optimism1.png" alt="Optimism" />
+							<a href="https://optimistic.etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank"><img src="images/optimism1.png" alt="Optimism" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -607,7 +607,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://ftmscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" target="_blank"><img src="images/fantom1.png" alt="Fantom">
+							<a href="https://ftmscan.com/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189" rel="noopener noreferrer" target="_blank"><img src="images/fantom1.png" alt="Fantom">
 							</a>
 						</div>
 						<div class="team-info">
@@ -626,7 +626,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://metamask.io/" target="_blank"><img src="images/metamask1.png" alt="Metamask">
+							<a href="https://metamask.io/" rel="noopener noreferrer" target="_blank"><img src="images/metamask1.png" alt="Metamask">
 							</a>
 						</div>
 						<div class="team-info">
@@ -640,7 +640,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://trustwallet.com/" target="_blank"><img src="images/trustwallet1.png" alt="Trust Wallet" />
+							<a href="https://trustwallet.com/" rel="noopener noreferrer" target="_blank"><img src="images/trustwallet1.png" alt="Trust Wallet" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -654,7 +654,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://www.exodus.com/" target="_blank"><img src="images/exodus1.png" alt="Exodus" />
+							<a href="https://www.exodus.com/" rel="noopener noreferrer" target="_blank"><img src="images/exodus1.png" alt="Exodus" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -667,7 +667,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://www.ledger.com/" target="_blank"><img src="images/ledger1.png" alt="Ledger">
+							<a href="https://www.ledger.com/" rel="noopener noreferrer" target="_blank"><img src="images/ledger1.png" alt="Ledger">
 							</a>
 						</div>
 						<div class="team-info">
@@ -686,7 +686,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://coinmarketcap.com/currencies/okcash/" target="_blank"><img src="images/coinmarketcap1.png" alt="Coin Market Cap">
+							<a href="https://coinmarketcap.com/currencies/okcash/" rel="noopener noreferrer" target="_blank"><img src="images/coinmarketcap1.png" alt="Coin Market Cap">
 							</a>
 						</div>
 						<div class="team-info">
@@ -700,7 +700,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://www.coingecko.com/en/coins/okcash" target="_blank"><img src="images/coingecko1.png" alt="Coin Gecko" />
+							<a href="https://www.coingecko.com/en/coins/okcash" rel="noopener noreferrer" target="_blank"><img src="images/coingecko1.png" alt="Coin Gecko" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -714,7 +714,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://www.tradingview.com/symbols/OKUSD/" target="_blank"><img src="images/tradingview1.png" alt="Trading View" />
+							<a href="https://www.tradingview.com/symbols/OKUSD/" rel="noopener noreferrer" target="_blank"><img src="images/tradingview1.png" alt="Trading View" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -727,7 +727,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://app.bubblemaps.io/bsc/token/0x523821d20a283d955f6205B4C9252779Cd0f964B" target="_blank"><img src="images/bubblemaps1.png" alt="Bubble Maps">
+							<a href="https://app.bubblemaps.io/bsc/token/0x523821d20a283d955f6205B4C9252779Cd0f964B" rel="noopener noreferrer" target="_blank"><img src="images/bubblemaps1.png" alt="Bubble Maps">
 							</a>
 						</div>
 						<div class="team-info">
@@ -746,7 +746,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://azure.microsoft.com/en-au/blog/azure-blockchain-update-8/" target="_blank"><img src="images/azure.png" alt="azure">
+							<a href="https://azure.microsoft.com/en-au/blog/azure-blockchain-update-8/" rel="noopener noreferrer" target="_blank"><img src="images/azure.png" alt="azure">
 							</a>
 						</div>
 						<div class="team-info">
@@ -760,7 +760,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://okdevs.org" target="_blank"><img src="images/okdevs.png" alt="okdevs" />
+							<a href="https://okdevs.org" rel="noopener noreferrer" target="_blank"><img src="images/okdevs.png" alt="okdevs" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -774,7 +774,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://tip.cc/" target="_blank"><img src="images/tipcc1.png" alt="Tip cc" />
+							<a href="https://tip.cc/" rel="noopener noreferrer" target="_blank"><img src="images/tipcc1.png" alt="Tip cc" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -787,7 +787,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://okmoon.net/" target="_blank"><img src="images/okmoon1.png" alt="OK Moon Faucets">
+							<a href="https://okmoon.net/" rel="noopener noreferrer" target="_blank"><img src="images/okmoon1.png" alt="OK Moon Faucets">
 							</a>
 						</div>
 						<div class="team-info">
@@ -806,7 +806,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://bitcoinfullnode.org/" target="_blank"><img src="images/bitcoinfullnode.png" alt="bitcoinfullnode" />
+							<a href="https://bitcoinfullnode.org/" rel="noopener noreferrer" target="_blank"><img src="images/bitcoinfullnode.png" alt="bitcoinfullnode" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -821,7 +821,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
 						<div class="team-photo">
-							<a href="https://www.mycointainer.com/assets/okcash/" target="_blank"><img src="images/mycointainer.png" alt="mycointainer">
+							<a href="https://www.mycointainer.com/assets/okcash/" rel="noopener noreferrer" target="_blank"><img src="images/mycointainer.png" alt="mycointainer">
 							</a>
 						</div>
 						<div class="team-info">
@@ -836,7 +836,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://cryptocurrencycheckout.com/coin/okcash" target="_blank"><img src="images/cccheckout.png" alt="cccheckout" />
+							<a href="https://cryptocurrencycheckout.com/coin/okcash" rel="noopener noreferrer" target="_blank"><img src="images/cccheckout.png" alt="cccheckout" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -853,7 +853,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".4">
 						<div class="team-photo">
-							<a href="https://cointopay.com/" target="_blank"><img src="images/cointopay.png" alt="cointopay">
+							<a href="https://cointopay.com/" rel="noopener noreferrer" target="_blank"><img src="images/cointopay.png" alt="cointopay">
 							</a>
 						</div>
 						<div class="team-info">
@@ -873,7 +873,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 						<div class="team-photo">
-							<a href="https://wrapping.services/get/ok/" target="_blank"><img src="images/wrappingservices1.png" alt="Wrapping Services" />
+							<a href="https://wrapping.services/get/ok/" rel="noopener noreferrer" target="_blank"><img src="images/wrappingservices1.png" alt="Wrapping Services" />
 							</a>
 						</div>
 						<div class="team-info">
@@ -887,7 +887,7 @@ del {
 				<div class="col-md-6 col-lg-3">
 					<div class="team-circle animated" data-animate="fadeInUp" data-delay=".5">
 						<div class="team-photo">
-							<a href="https://app.spherium.finance/#/transfer" target="_blank"><img src="images/hyperbridge.png" alt="SF Hyperbridge">
+							<a href="https://app.spherium.finance/#/transfer" rel="noopener noreferrer" target="_blank"><img src="images/hyperbridge.png" alt="SF Hyperbridge">
 							</a>
 						</div>
 						<div class="team-info">
@@ -930,7 +930,7 @@ del {
 						<div class="col-lg-4 col-md-6">
 							<div class="team-circle animated" data-animate="fadeInUp" data-delay=".1">
 								<div class="team-photo">
-									<a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><img src="images/bitcointalk.png" alt="bitcointalk">
+									<a href="https://bitcointalk.org/index.php?topic=1028368.0" rel="noopener noreferrer" target="_blank"><img src="images/bitcointalk.png" alt="bitcointalk">
 									</a>
 								</div>
 								<div class="team-info">
@@ -946,7 +946,7 @@ del {
 						<div class="col-lg-4 col-md-6">
 							<div class="team-circle animated" data-animate="fadeInUp" data-delay=".2">
 								<div class="team-photo">
-									<a href="https://discord.io/cryptocurrency" target="_blank"><img src="images/discord.png" alt="discord">
+									<a href="https://discord.io/cryptocurrency" rel="noopener noreferrer" target="_blank"><img src="images/discord.png" alt="discord">
 									</a>
 								</div>
 								<div class="team-info">
@@ -961,7 +961,7 @@ del {
 						<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 animated" data-animate="fadeInUp" data-delay=".3">
 							<div class="team-circle">
 								<div class="team-photo">
-									<a href="https://okcashtalk.org" target="_blank"><img src="images/okcashtalk.png" alt="okcashtalk">
+									<a href="https://okcashtalk.org" rel="noopener noreferrer" target="_blank"><img src="images/okcashtalk.png" alt="okcashtalk">
 									</a>
 								</div>
 								<div class="team-info">
@@ -998,17 +998,17 @@ del {
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<a href="https://global.bittrex.com/trade/ok-btc" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
+							<a href="https://global.bittrex.com/trade/ok-btc" rel="noopener noreferrer" target="_blank"><img src="images/bittrex.png" alt="Bittrex"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://app.uniswap.org/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48" target="_blank"><img src="images/uniswap.png" alt="Uniswap"></a>
+							<a href="https://app.uniswap.org/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48" rel="noopener noreferrer" target="_blank"><img src="images/uniswap.png" alt="Uniswap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://pancakeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/pancakeswap.png" alt="PancakeSwap"></a>
+							<a href="https://pancakeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" rel="noopener noreferrer" target="_blank"><img src="images/pancakeswap.png" alt="PancakeSwap"></a>
 						</div>
 					</div>
 				</div>
@@ -1018,12 +1018,12 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-								<a href="https://www.sushi.com/swap" target="_blank"><img src="images/sushiswap.png" alt="SushiSwap"></a>
+								<a href="https://www.sushi.com/swap" rel="noopener noreferrer" target="_blank"><img src="images/sushiswap.png" alt="SushiSwap"></a>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<a href="https://kyberswap.com/swap/avalanche/usdc-to-ok" target="_blank"><img src="images/kyberswap.png" alt="KyberSwap"></a>
+								<a href="https://kyberswap.com/swap/avalanche/usdc-to-ok" rel="noopener noreferrer" target="_blank"><img src="images/kyberswap.png" alt="KyberSwap"></a>
 								</div>
 							</div>
 						</div>
@@ -1037,17 +1037,17 @@ del {
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-						<a href="https://exchange.biswap.org/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/biswap.png" alt="BiSwap"></a>
+						<a href="https://exchange.biswap.org/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" rel="noopener noreferrer" target="_blank"><img src="images/biswap.png" alt="BiSwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-						<a href="https://quickswap.exchange/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174" target="_blank"><img src="images/quickswap.png" alt="QuickSwap"></a>
+						<a href="https://quickswap.exchange/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174" rel="noopener noreferrer" target="_blank"><img src="images/quickswap.png" alt="QuickSwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-						<a href="https://traderjoexyz.com/trade?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E" target="_blank"><img src="images/traderjoe.png" alt="Trader Joe"></a>
+						<a href="https://traderjoexyz.com/trade?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E" rel="noopener noreferrer" target="_blank"><img src="images/traderjoe.png" alt="Trader Joe"></a>
 						</div>
 					</div>
 				</div>
@@ -1057,12 +1057,12 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-								<a href="https://apeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/apeswap.png" alt="ApeSwap"></a>
+								<a href="https://apeswap.finance/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" rel="noopener noreferrer" target="_blank"><img src="images/apeswap.png" alt="ApeSwap"></a>
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<a href="https://app.pangolin.exchange/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E" target="_blank"><img src="images/pangolin.png" alt="Pangolin"></a> 
+								<a href="https://app.pangolin.exchange/#/swap?outputCurrency=0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189&inputCurrency=0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E" rel="noopener noreferrer" target="_blank"><img src="images/pangolin.png" alt="Pangolin"></a> 
 								</div>
 							</div>
 						</div>
@@ -1076,17 +1076,17 @@ del {
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-						<a href="https://bsc.mdex.com/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/mdex.png" alt="MDEX"></a>
+						<a href="https://bsc.mdex.com/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" rel="noopener noreferrer" target="_blank"><img src="images/mdex.png" alt="MDEX"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-						<a href="https://www.bakeryswap.org/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" target="_blank"><img src="images/bakeryswap.png" alt="BakerySwap"></a>
+						<a href="https://www.bakeryswap.org/#/swap?outputCurrency=0x523821d20a283d955f6205B4C9252779Cd0f964B&inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56" rel="noopener noreferrer" target="_blank"><img src="images/bakeryswap.png" alt="BakerySwap"></a>
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-						<a href="https://btcpop.co/Exchange/OK" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a>
+						<a href="https://btcpop.co/Exchange/OK" rel="noopener noreferrer" target="_blank"><img src="images/btcpop.png" alt="BTCpop"></a>
 						</div>
 					</div>
 				</div>
@@ -1097,13 +1097,13 @@ del {
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
 
-									<a href="https://dex-trade.com" target="_blank"><img src="images/dextrade.png" alt="Dex Trade"></a>
+									<a href="https://dex-trade.com" rel="noopener noreferrer" target="_blank"><img src="images/dextrade.png" alt="Dex Trade"></a>
 
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<!-- <a href="https://www.finexbox.com/market/pair/OK-BTC.html" target="_blank"><img src="images/finexbox.png" alt="FinexBox"></a> -->
+								<!-- <a href="https://www.finexbox.com/market/pair/OK-BTC.html" rel="noopener noreferrer" target="_blank"><img src="images/finexbox.png" alt="FinexBox"></a> -->
 								</div>
 							</div> 
 						</div>
@@ -1117,17 +1117,17 @@ del {
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<!-- <a href="https://trade.zer-dex.market/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a> -->
+							<!-- <a href="https://trade.zer-dex.market/market/BIRAKE.OK_BIRAKE.BTC" rel="noopener noreferrer" target="_blank"><img src="images/zerdex.png" alt="Zer-Dex"></a> -->
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<!-- <a href="https://www.bitladon.com/okcash" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a> -->
+							<!-- <a href="https://www.bitladon.com/okcash" rel="noopener noreferrer" target="_blank"><img src="images/bitladon.png" alt="Bitladon"></a> -->
 						</div>
 					</div> 
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<!-- <a href="https://trade.birake.com/market/BIRAKE.OK_BIRAKE.BTC" target="_blank"><img src="images/birake.png" alt="Birake"></a> -->
+							<!-- <a href="https://trade.birake.com/market/BIRAKE.OK_BIRAKE.BTC" rel="noopener noreferrer" target="_blank"><img src="images/birake.png" alt="Birake"></a> -->
 						</div>
 					</div>
 				</div>
@@ -1137,12 +1137,12 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<!-- <a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a> -->
+									<!-- <a href="https://trade.ataix.com/OK-BTC" rel="noopener noreferrer" target="_blank"><img src="images/ataix.png" alt="Ataix"></a> -->
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<!-- <a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a>   -->
+								<!-- <a href="https://swapspace.co/" rel="noopener noreferrer" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a>   -->
 								</div>
 							</div>
 						</div>
@@ -1156,17 +1156,17 @@ del {
 				<div class="row text-center">
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay="0">
-							<!-- <a href="https://hazel.exchange/exchange/OK_BTC" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a>  -->
+							<!-- <a href="https://hazel.exchange/exchange/OK_BTC" rel="noopener noreferrer" target="_blank"><img src="images/socialsendex.png" alt="Social Send Exchange"></a>  -->
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<!-- <a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>	 -->						
+							<!-- <a href="https://vindax.com/exchange-base.html?symbol=OK_BTC" rel="noopener noreferrer" target="_blank"><img src="images/vindax.png" alt="Vindax"></a>	 -->						
 						</div>
 					</div>
 					<div class="col-sm">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<!-- <a href="https://swapzone.io/?from=ok&to=btc" target="_blank"><img src="images/swapzone.png" alt="VCC Exchange"></a>  -->
+							<!-- <a href="https://swapzone.io/?from=ok&to=btc" rel="noopener noreferrer" target="_blank"><img src="images/swapzone.png" alt="VCC Exchange"></a>  -->
 						</div>
 					</div>
 				</div>
@@ -1176,12 +1176,12 @@ del {
 						<div class="row">
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-									<!-- <a href="https://trade.ataix.com/OK-BTC" target="_blank"><img src="images/ataix.png" alt="Ataix"></a>  -->
+									<!-- <a href="https://trade.ataix.com/OK-BTC" rel="noopener noreferrer" target="_blank"><img src="images/ataix.png" alt="Ataix"></a>  -->
 								</div>
 							</div>
 							<div class="col-sm">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-								<!-- <a href="https://swapspace.co/" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a> -->
+								<!-- <a href="https://swapspace.co/" rel="noopener noreferrer" target="_blank"><img src="images/swapspace.png" alt="SwapSpace"></a> -->
 								</div>
 							</div>
 						</div>
@@ -1207,108 +1207,108 @@ del {
 				<div class="row text-center">
 					<div class="col-sm col-6">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".1">
-							<a href="https://coinmarketcap.com/currencies/okcash/" target="_blank"><img src="images/coinmarketcap.png" alt="ok stats & info"></a>
+							<a href="https://coinmarketcap.com/currencies/okcash/" rel="noopener noreferrer" target="_blank"><img src="images/coinmarketcap.png" alt="ok stats & info"></a>
 						</div>
 					</div>
 					<div class="col-sm col-6">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".2">
-							<a href="https://www.cryptocompare.com/coins/ok/overview" target="_blank"><img src="images/cryptocompare.png" alt="ok stats & info"></a>
+							<a href="https://www.cryptocompare.com/coins/ok/overview" rel="noopener noreferrer" target="_blank"><img src="images/cryptocompare.png" alt="ok stats & info"></a>
 						</div>
 					</div>
 					<div class="col-sm col-6">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".3">
-							<a href="https://info.binance.com/en/currencies/okcash" target="_blank"><img src="images/binance.png" alt="ok stats & info"></a>
+							<a href="https://info.binance.com/en/currencies/okcash" rel="noopener noreferrer" target="_blank"><img src="images/binance.png" alt="ok stats & info"></a>
 						</div>
 					</div>
 					<div class="col-sm col-6">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".4">
-							<a href="https://www.coinbase.com/price/okcash" target="_blank"><img src="images/coinbase.png" alt="ok stats & info"></a>
+							<a href="https://www.coinbase.com/price/okcash" rel="noopener noreferrer" target="_blank"><img src="images/coinbase.png" alt="ok stats & info"></a>
 						</div>
 					</div>
 					<div class="col-sm col-6">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".5">
-							<a href="https://www.coingecko.com/en/coins/okcash" target="_blank"><img src="images/coingecko.png" alt="ok stats & info"></a>
+							<a href="https://www.coingecko.com/en/coins/okcash" rel="noopener noreferrer" target="_blank"><img src="images/coingecko.png" alt="ok stats & info"></a>
 						</div>
 					</div>
 					<div class="col-sm col-6">
 						<div class="single-partner animated" data-animate="fadeInUp" data-delay=".6">
-							<a href="https://coincap.io/assets/okcash/" target="_blank"><img src="images/coincap.png" alt="ok stats & info"></a>
+							<a href="https://coincap.io/assets/okcash/" rel="noopener noreferrer" target="_blank"><img src="images/coincap.png" alt="ok stats & info"></a>
 						</div>
 					</div>
 				</div>
 				<div class="row text-center">
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".7">
-									<a href="https://www.investing.com/crypto/okcash" target="_blank"><img src="images/investing.png" alt="ok stats & info"></a>
+									<a href="https://www.investing.com/crypto/okcash" rel="noopener noreferrer" target="_blank"><img src="images/investing.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".8">
-									<a href="https://www.coinhills.com/market/ok/" target="_blank"><img src="images/coinhills.png" alt="ok stats & info"></a>
+									<a href="https://www.coinhills.com/market/ok/" rel="noopener noreferrer" target="_blank"><img src="images/coinhills.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".9">
-									<a href="https://www.forbes.com/sites/shehanchandrasekera/2020/02/03/how-staking-tezos-may-generate-rental-income/#b08afc403474" target="_blank"><img src="images/forbes.png" alt="ok stats & info"></a>
+									<a href="https://www.forbes.com/sites/shehanchandrasekera/2020/02/03/how-staking-tezos-may-generate-rental-income/#b08afc403474" rel="noopener noreferrer" target="_blank"><img src="images/forbes.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1">
-									<a href="https://coincircus.io/coins.php?symbol=OK" target="_blank"><img src="images/coincircus.png" alt="ok stats & info"></a>
+									<a href="https://coincircus.io/coins.php?symbol=OK" rel="noopener noreferrer" target="_blank"><img src="images/coincircus.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.1">
-									<a href="https://www.tradingview.com/symbols/OKUSD/technicals/" target="_blank"><img src="images/tradingview.png" alt="ok stats & info"></a>
+									<a href="https://www.tradingview.com/symbols/OKUSD/technicals/" rel="noopener noreferrer" target="_blank"><img src="images/tradingview.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.2">
-									<a href="https://coinranking.com/coin/9-C1-XaX7APZr+okcash-ok" target="_blank"><img src="images/coinranking.png" alt="ok stats & info"></a>
+									<a href="https://coinranking.com/coin/9-C1-XaX7APZr+okcash-ok" rel="noopener noreferrer" target="_blank"><img src="images/coinranking.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 				</div>
 				<div class="row text-center">
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.3">
-									<a href="https://cryptoslate.com/coins/okcash/" target="_blank"><img src="images/cryptoslate.png" alt="ok stats & info"></a>
+									<a href="https://cryptoslate.com/coins/okcash/" rel="noopener noreferrer" target="_blank"><img src="images/cryptoslate.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.4">
-									<a href="https://www.cryptoground.com/okcash-price-prediction" target="_blank"><img src="images/cryptoground.png" alt="ok stats & info"></a>
+									<a href="https://www.cryptoground.com/okcash-price-prediction" rel="noopener noreferrer" target="_blank"><img src="images/cryptoground.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.5">
-									<a href="https://www.stakingrewards.com/asset/okcash" target="_blank"><img src="images/stakingrewards.png" alt="ok stats & info"></a>
+									<a href="https://www.stakingrewards.com/asset/okcash" rel="noopener noreferrer" target="_blank"><img src="images/stakingrewards.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.6">
-									<a href="https://www.worldcoinindex.com/coin/Okcash" target="_blank"><img src="images/wcindex.png" alt="ok stats & info"></a>
+									<a href="https://www.worldcoinindex.com/coin/Okcash" rel="noopener noreferrer" target="_blank"><img src="images/wcindex.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.7">
-									<a href="https://coinclarity.com/coin/ok/" target="_blank"><img src="images/coinclarity.png" alt="ok stats & info"></a>
+									<a href="https://coinclarity.com/coin/ok/" rel="noopener noreferrer" target="_blank"><img src="images/coinclarity.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.8">
-									<a href="https://cointostake.com/okcash.php" target="_blank"><img src="images/cointostake.png" alt="ok stats & info"></a>
+									<a href="https://cointostake.com/okcash.php" rel="noopener noreferrer" target="_blank"><img src="images/cointostake.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 				</div>
 				<div class="row text-center">
 							<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay="1.3">
-									<a href="https://member.icoperf.com/portal/detail/223/" target="_blank"><img src="images/icoperf.png" alt="ok stats & info"></a>
+									<a href="https://member.icoperf.com/portal/detail/223/" rel="noopener noreferrer" target="_blank"><img src="images/icoperf.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 				<div class="col-sm col-6">
 								<div class="single-partner animated" data-animate="fadeInUp" data-delay=".9">
-									<a href="https://www.ratingtoken.net/ratings/OK-1" target="_blank"><img src="images/ratingtoken.png" alt="ok stats & info"></a>
+									<a href="https://www.ratingtoken.net/ratings/OK-1" rel="noopener noreferrer" target="_blank"><img src="images/ratingtoken.png" alt="ok stats & info"></a>
 								</div>
 							</div>
 							
@@ -1351,7 +1351,7 @@ del {
 									<li>Use OK coins</li>
 								</ul>
 								<h5 class="blog-title">Using OK</h5>
-								<p align="justify">To <a href="https://okcash.org/getting-started.html" target="_blank">Use OK</a> is the first thing you can do to support Okcash. There are probably many cases where it can make your life easier. You can accept OK payments and make purchases with OK. You can also request your favorite exchange to add OK.</p>
+								<p align="justify">To <a href="https://okcash.org/getting-started.html" rel="noopener noreferrer" target="_blank">Use OK</a> is the first thing you can do to support Okcash. There are probably many cases where it can make your life easier. You can accept OK payments and make purchases with OK. You can also request your favorite exchange to add OK.</p>
 							</div>
 						</div>
 					</div><!-- .col -->
@@ -1400,7 +1400,7 @@ del {
 									<li>Stake (Mine) OK coins</li>
 								</ul>
 								<h5 class="blog-title">Staking</h5>
-								<p align="justify">You can start <a href="https://okcash.org/faq.html" target="_blank">staking</a> OK coins to help secure and process transactions. In order to protect the network, you can stake your OK coins in your own OK wallet or in the different staking pools. </p>
+								<p align="justify">You can start <a href="https://okcash.org/faq.html" rel="noopener noreferrer" target="_blank">staking</a> OK coins to help secure and process transactions. In order to protect the network, you can stake your OK coins in your own OK wallet or in the different staking pools. </p>
 							</div>
 						</div>
 					</div><!-- .col -->
@@ -1417,7 +1417,7 @@ del {
 									<li>Be the OK Network</li>
 								</ul>
 								<h5 class="blog-title">The OK Network</h5>
-								<p align="justify">With just an Internet connection, you can help strengthen the OK network by keeping an <a href="https://okcash.org/#jf_download" target="_blank">OK full node wallet</a> running on your computer or server. Full nodes secure &amp; relay transactions.</p>
+								<p align="justify">With just an Internet connection, you can help strengthen the OK network by keeping an <a href="https://okcash.org/#jf_download" rel="noopener noreferrer" target="_blank">OK full node wallet</a> running on your computer or server. Full nodes secure &amp; relay transactions.</p>
 							</div>
 						</div>
 					</div><!-- .col -->
@@ -1481,7 +1481,7 @@ del {
 									<li>Documentation is key</li>
 								</ul>
 								<h5 class="blog-title">Documentation</h5>
-								<p align="justify">Okcash.org provides useful document- ation and we constantly improve the information it contains. You can help to improve it or add new translations over the <a href="https://github.com/okcashpro/okcash.org.website" target="_blank"> <em class="fab fa-github"></em> Okcash.org Github</a></p>
+								<p align="justify">Okcash.org provides useful document- ation and we constantly improve the information it contains. You can help to improve it or add new translations over the <a href="https://github.com/okcashpro/okcash.org.website" rel="noopener noreferrer" target="_blank"> <em class="fab fa-github"></em> Okcash.org Github</a></p>
 							</div>
 						</div>
 					</div><!-- .col -->
@@ -1605,7 +1605,7 @@ del {
 										</div>
 										<div id="collapse-2-1" class="collapse show" data-parent="#accordion-2">
 											<div class="card-body">
-												<p>Receiving notification of a payment is almost instant with Okcash. However, there is a delay before the network begins to confirm your transaction by including it in a block. A confirmation means that there is a consensus on the network that the OK coins you received haven't been sent to anyone else and are considered your property. Once your transaction has been included in one block, it will continue to be buried under every block after it, which will exponentially consolidate this consensus and decrease the risk of a reversed transaction. Each confirmation takes between 1 second and 144 seconds, with 72 seconds being the average. If the transaction pays too low a fee or is otherwise atypical, getting the first confirmation can take longer. Every user is free to determine at what point they consider a transaction sufficiently confirmed, but <a href="https://okcash.org/you-need-to-know.html#instant" target="_blank">5 confirmations</a> is often considered to be as safe as waiting 5 months on a credit card transaction. </p>
+												<p>Receiving notification of a payment is almost instant with Okcash. However, there is a delay before the network begins to confirm your transaction by including it in a block. A confirmation means that there is a consensus on the network that the OK coins you received haven't been sent to anyone else and are considered your property. Once your transaction has been included in one block, it will continue to be buried under every block after it, which will exponentially consolidate this consensus and decrease the risk of a reversed transaction. Each confirmation takes between 1 second and 144 seconds, with 72 seconds being the average. If the transaction pays too low a fee or is otherwise atypical, getting the first confirmation can take longer. Every user is free to determine at what point they consider a transaction sufficiently confirmed, but <a href="https://okcash.org/you-need-to-know.html#instant" rel="noopener noreferrer" target="_blank">5 confirmations</a> is often considered to be as safe as waiting 5 months on a credit card transaction. </p>
 											</div>
 										</div>
 									</div>
@@ -1713,7 +1713,7 @@ del {
 										</div>
 										<div id="collapse-4-1" class="collapse show" data-parent="#accordion-4">
 											<div class="card-body">
-												<p>The OK technology - the protocol and the cryptography - has a strong security track record, and the OK network is one of the big distributed computing projects in the world. Okcash's most common vulnerability is in user error. Okcash wallet files that store the necessary private keys can be accidentally deleted, lost or stolen. This is pretty similar to physical cash stored in a digital form. Fortunately, users can employ sound <a href="https://okcash.org/secure-your-wallet.html" target="_blank">security practices</a> to protect their money or use service providers that offer good levels of security and insurance against theft or loss.</p>
+												<p>The OK technology - the protocol and the cryptography - has a strong security track record, and the OK network is one of the big distributed computing projects in the world. Okcash's most common vulnerability is in user error. Okcash wallet files that store the necessary private keys can be accidentally deleted, lost or stolen. This is pretty similar to physical cash stored in a digital form. Fortunately, users can employ sound <a href="https://okcash.org/secure-your-wallet.html" rel="noopener noreferrer" target="_blank">security practices</a> to protect their money or use service providers that offer good levels of security and insurance against theft or loss.</p>
 											</div>
 										</div>
 									</div>
@@ -1844,9 +1844,9 @@ del {
 				<div class="col-md-6 offset-md-3">
 					<h4 class="section-title-md animated" data-animate="fadeInUp" data-delay="0">Join the different giveaways and faucets made by the community to support and share Okcash to Empower Everyone!</h4>
 						
-						<a href="https://discord.io/cryptocurrency" class="btn btn-sm" target="_blank">Cryptogiveaways over Discord</a>
-						<!-- <a href="https://crex24.com/faucets" class="btn btn-sm" target="_blank">Crex24 Faucet</a>
-						<a href="https://btcpop.co/Faucet/OK" class="btn btn-sm" target="_blank">BTCpop Faucet</a> -->
+						<a href="https://discord.io/cryptocurrency" class="btn btn-sm" rel="noopener noreferrer" target="_blank">Cryptogiveaways over Discord</a>
+						<!-- <a href="https://crex24.com/faucets" class="btn btn-sm" rel="noopener noreferrer" target="_blank">Crex24 Faucet</a>
+						<a href="https://btcpop.co/Faucet/OK" class="btn btn-sm" rel="noopener noreferrer" target="_blank">BTCpop Faucet</a> -->
 						
 					
 				</div>
@@ -1862,16 +1862,16 @@ del {
 			<div class="row text-center">
 				<div class="col-md-12">
 					<ul class="social">
-						<li class="animated" data-animate="fadeInUp" data-delay="0"><a href="https://discord.io/cryptocurrency" target="_blank"><em class="fab fa-discord"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".1"><a href="https://t.me/okcash" target="_blank"><em class="fab fa-telegram"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".2"><a href="https://twitter.com/search?q=okcash" target="_blank"><em class="fab fa-twitter"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".3"><a href="https://www.reddit.com/r/OKcash/" target="_blank"><em class="fab fa-reddit"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".4"><a href="https://github.com/okcashpro/okcash" target="_blank"><em class="fab fa-github"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".5"><a href="https://bitcointalk.org/index.php?topic=1028368.0" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
-						<li class="animated" data-animate="fadeInUp" data-delay=".6"><a href="https://okcash.news" target="_blank"><em class="fab fa-medium-m"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay="0"><a href="https://discord.io/cryptocurrency" rel="noopener noreferrer" target="_blank"><em class="fab fa-discord"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".1"><a href="https://t.me/okcash" rel="noopener noreferrer" target="_blank"><em class="fab fa-telegram"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".2"><a href="https://twitter.com/search?q=okcash" rel="noopener noreferrer" target="_blank"><em class="fab fa-twitter"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".3"><a href="https://www.reddit.com/r/OKcash/" rel="noopener noreferrer" target="_blank"><em class="fab fa-reddit"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".4"><a href="https://github.com/okcashpro/okcash" rel="noopener noreferrer" target="_blank"><em class="fab fa-github"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".5"><a href="https://bitcointalk.org/index.php?topic=1028368.0" rel="noopener noreferrer" target="_blank"><em class="fab fa-bitcoin"></em></a></li>
+						<li class="animated" data-animate="fadeInUp" data-delay=".6"><a href="https://okcash.news" rel="noopener noreferrer" target="_blank"><em class="fab fa-medium-m"></em></a></li>
 					</ul>
 					<span class="copyright-text animated" data-animate="fadeInUp" data-delay=".3">
-						© 2014-2023 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" target="_blank">MIT license</a>.
+						© 2014-2023 Okcash Project. Released under the <a href="https://github.com/okcashpro/okcash/blob/master/COPYING" rel="noopener noreferrer" target="_blank">MIT license</a>.
 						<span>All trademarks and copyrights belong to their respective owners.</span>
 					</span>
 				</div>
