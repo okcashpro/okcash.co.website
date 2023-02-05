@@ -10,6 +10,16 @@
 ## Can be commented out if causes errors, see notes above.
 Options +FollowSymLinks
 
+
+## xcontent nosniff
+<ifModule mod_headers.c>
+    Header set Strict-Transport-Security "max-age=31536000" env=HTTPS
+    Header set X-Content-Type-Options nosniff
+    Header set X-Frame-Options SAMEORIGIN
+    Header set Permissions-Policy 'self'
+	Header set X-XSS-Protection "1; mode=block"
+</ifModule>
+
 ## Mod_rewrite in use.
 
 RewriteEngine On
